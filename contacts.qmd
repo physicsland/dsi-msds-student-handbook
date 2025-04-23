@@ -1,0 +1,31 @@
+---
+title: "Administrative Contacts"
+format: html
+---
+
+## Administrative Contacts
+
+The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.
+
+### MSDS Program Director
+
+- Provides academic leadership and final approval for research projects, petitions, and policy exceptions.
+- Meets with students upon request or referral.
+
+### Program Coordinator / Administrator
+
+- Primary point of contact for course registration issues, forms, and day-to-day administrative logistics.
+- Coordinates orientation, graduation, and program events.
+
+### Technical Support
+
+- Provides help with computing accounts, software installations, and access to computational resources.
+- Contact through the DSI tech support portal or by email.
+
+### Academic Advisors
+
+- Assigned to each student to assist with course planning, academic progress, and policy questions.
+- Schedule regular check-ins and are available during office hours.
+
+Full contact information for these individuals is available on the [DSI MSDS Program Website](https://datascience.uchicago.edu/).
+

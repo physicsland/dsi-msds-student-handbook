@@ -1,0 +1,41 @@
+---
+title: "Program Structure & Degree Requirements"
+format: html
+---
+
+## Program Structure & Degree Requirements
+
+The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a defined curriculum and meet specific academic standards to earn the degree.
+
+### Program Duration
+
+The program is typically completed in one academic year (three quarters: Autumn, Winter, and Spring). Students may extend their studies based on personal and academic considerations, in consultation with academic advisors.
+
+### Curriculum Overview
+
+Students must complete a total of **12 courses**, categorized as follows:
+
+- **Foundational Courses (3 courses)**: These cover essential concepts in data science and provide the groundwork for advanced coursework.
+- **Core Courses (5 courses)**: These delve into key data science techniques, methodologies, and tools.
+- **Elective Courses (4 courses)**: Students choose from a wide array of electives to tailor their learning to specific interests or career goals.
+
+### Course Selection Guidelines
+
+Students are encouraged to:
+- Balance theoretical and applied courses.
+- Consider prerequisites when selecting electives.
+- Seek guidance from academic advisors on sequencing and relevance to career objectives.
+
+### Degree Completion Requirements
+
+To graduate, students must:
+- Successfully complete all 12 required courses.
+- Maintain a minimum cumulative **GPA of 3.0**.
+- Fulfill the **research project requirement**.
+
+### Enrollment Status
+
+- **Full-Time Status**: Students must enroll in at least **3 courses per quarter**.
+- **Part-Time Option**: May be approved under special circumstances with formal petition and approval from the MSDS Program Director.
+- **Minimum Enrollment**: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.
+

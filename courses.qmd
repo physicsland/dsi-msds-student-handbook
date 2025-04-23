@@ -1,0 +1,39 @@
+---
+title: "Course Descriptions"
+format: html
+---
+
+## Course Descriptions
+
+This section provides an overview of the three main categories of courses in the MSDS program: Foundational, Core, and Elective. Full course descriptions, prerequisites, and schedules can be found on the [Course Catalog](https://courses.uchicago.edu/) or the DSI program website.
+
+### Foundational Courses
+
+Foundational courses are designed to equip students with essential concepts and technical skills necessary for success in advanced coursework. Typical foundational areas include:
+
+- **Statistical Inference and Methods**
+- **Machine Learning Fundamentals**
+- **Computational Tools for Data Science**
+
+### Core Courses
+
+Core courses deepen students' understanding of key data science methodologies and provide hands-on experience with data systems, algorithms, and models. Sample topics include:
+
+- **Data Engineering and Systems**
+- **Advanced Machine Learning**
+- **Optimization and Algorithms**
+- **Data Visualization and Communication**
+- **Ethics and Privacy in Data Science**
+
+### Elective Courses
+
+Elective courses allow students to explore specialized domains and applications of data science. These may be selected from offerings within the Data Science Institute or other departments (e.g., Computer Science, Statistics, Public Policy). Example electives include:
+
+- **Natural Language Processing**
+- **Time Series and Forecasting**
+- **Geospatial Data Science**
+- **Bayesian Inference**
+- **AI for Social Good**
+
+Students should consult with academic advisors when selecting electives to ensure they align with career goals and satisfy degree requirements.
+

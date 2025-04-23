@@ -1,0 +1,38 @@
+---
+title: "Frequently Asked Questions (FAQs)"
+format: html
+---
+
+## Frequently Asked Questions (FAQs)
+
+### Admissions and Enrollment
+
+**Q: Can I apply without a background in computer science or statistics?**  
+A: Yes. While a strong quantitative background is recommended, applicants from diverse academic disciplines are encouraged to apply. Foundational courses will help bridge any gaps.
+
+**Q: Can I defer my admission?**  
+A: Admission deferral requests are considered on a case-by-case basis. Contact the MSDS program coordinator for details.
+
+### Academic and Research Requirements
+
+**Q: Can I pursue a research project with a faculty member from another department?**  
+A: Yes, but the project must include a DSI-affiliated faculty member as supervisor.
+
+**Q: Is there a required format for the research proposal?**  
+A: A template is provided in the Appendix. Proposals must clearly outline objectives, methodology, and timeline.
+
+### Graduation and Commencement
+
+**Q: Do I need to apply to graduate?**  
+A: Yes. You must submit a graduation application via my.UChicago by the published deadline.
+
+**Q: Can I participate in the commencement ceremony if I finish early?**  
+A: Students who complete requirements early may participate in the next scheduled commencement.
+
+### Scholarship and Financial Aid
+
+**Q: How are scholarship awards distributed?**  
+A: Awards are typically based on enrollment in three courses per quarter over three quarters. Specific terms are shared in the award letter and subject to revision.
+
+For more detailed information, students are encouraged to consult the relevant sections of this handbook or contact program staff.
+

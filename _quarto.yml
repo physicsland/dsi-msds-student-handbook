@@ -8,8 +8,38 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+
+  sidebar:
+    style: floating
+    collapse-level: 2
+    search: true
+    contents:
+      - section: "Program Overview"
+        contents:
+          - introduction.qmd
+          - calendar.qmd
+          - structure.qmd
+          - courses.qmd
+      - section: "Research and Support"
+        contents:
+          - research.qmd
+          - support.qmd
+      - section: "Policies and Conduct"
+        contents:
+          - policies.qmd
+          - conduct.qmd
+      - section: "Resources"
+        contents:
+          - computing.qmd
+          - international.qmd
+          - opt-cpt.qmd
+          - career.qmd
+      - section: "Completion and Beyond"
+        contents:
+          - graduation.qmd
+          - contacts.qmd
+          - faqs.qmd
+          - appendix.qmd
 
 format:
   html:

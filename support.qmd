@@ -1,0 +1,39 @@
+---
+title: "Advising and Support"
+format: html
+---
+
+## Advising and Support
+
+The MSDS program is committed to providing comprehensive support to ensure student success throughout the academic journey.
+
+### Academic Advising
+
+Each student is assigned an academic advisor who assists with course selection, program requirements, and academic planning. Advisors are available for consultations during office hours and by appointment.
+
+### Career and Professional Development Services
+
+Students have access to career services that offer:
+
+- Resume and cover letter workshops
+- Interview preparation sessions
+- Networking events with industry professionals
+- Internship and job placement assistance
+
+### Technical and Computational Resources
+
+The University provides robust technical support, including:
+
+- Access to high-performance computing clusters
+- Software licenses for data analysis tools
+- Technical support services for troubleshooting and assistance
+
+### Mental Health and Wellness Resources
+
+Student well-being is a priority. Resources available include:
+
+- Counseling services
+- Stress management workshops
+- Wellness programs and activities
+
+Students are encouraged to utilize these services to maintain a healthy balance between academic responsibilities and personal well-being.

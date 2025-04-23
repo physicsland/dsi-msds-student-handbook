@@ -1,0 +1,33 @@
+---
+title: "Professional Development and Career Resources"
+format: html
+---
+
+## Professional Development and Career Resources
+
+The MSDS program at the University of Chicago is designed not only to provide strong academic training, but also to prepare students for successful careers in industry, academia, and public sector roles.
+
+### Internships and Industry Collaborations
+
+Students are encouraged to pursue internships during their studies. The program maintains partnerships with industry collaborators across technology, finance, consulting, healthcare, and nonprofit sectors. Internship opportunities may be shared through:
+- DSI newsletters and job boards
+- Career fairs and employer information sessions
+- Alumni referrals and faculty networks
+
+### Networking Events and Career Fairs
+
+The University and DSI host multiple events throughout the year to connect students with professionals, including:
+- Employer Meet & Greets
+- The Data Science Career Fair
+- UChicagoGRAD career expos
+- Women in Data Science (WiDS) conference and events
+
+### Alumni Network Engagement
+
+Students benefit from an active alumni network that offers:
+- Career panels and mentorship programs
+- Alumni-hosted events and webinars
+- Access to alumni in leadership positions across data science domains
+
+Students are encouraged to leverage these resources to build professional connections and explore career pathways aligned with their interests and skills.
+

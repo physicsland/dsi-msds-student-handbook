@@ -1,0 +1,33 @@
+---
+title: "Graduation and Beyond"
+format: html
+---
+
+## Graduation and Beyond
+
+Completing the MSDS program marks a significant achievement. This section outlines the steps for graduation and opportunities available to graduates post-completion.
+
+### Graduation Procedures and Application
+
+To graduate, students must:
+- Complete all program requirements, including coursework and the research project.
+- Maintain a cumulative GPA of 3.0 or higher.
+- Submit a graduation application via my.UChicago by the published deadline.
+
+Students are advised to review their academic progress with an advisor prior to applying to graduate.
+
+### Commencement Ceremony
+
+Graduating students are eligible to participate in the University of Chicago’s annual Spring Quarter commencement ceremony. DSI may also host additional events for MSDS graduates.
+
+Details about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.
+
+### Alumni Engagement Opportunities
+
+Graduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include:
+- Continued access to career services
+- Invitations to alumni networking events
+- Participation in mentorship programs and industry panels
+
+Alumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.
+

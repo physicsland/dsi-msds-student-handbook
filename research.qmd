@@ -1,0 +1,45 @@
+---
+title: "Research Project Requirement"
+format: html
+---
+
+## Research Project Requirement
+
+The research project is a critical component of the MSDS program and serves as a capstone experience that demonstrates a student's mastery of data science methodologies and their application to real-world problems.
+
+### Overview and Purpose
+
+The project allows students to engage in independent or collaborative research under the guidance of faculty. It emphasizes originality, technical rigor, and clear communication of findings.
+
+### Collaboration and Mentorship Guidelines
+
+Students may work individually or in small teams. Projects must have a faculty mentor affiliated with the Data Science Institute (DSI). Collaborations with other departments or external organizations are permitted, but a DSI faculty member must be involved as supervisor.
+
+### Project Approval Process
+
+- **Proposal Submission**: Students must submit a written proposal outlining objectives, methodology, timeline, and mentorship structure.
+- **Review and Approval**: Proposals are reviewed by a faculty panel or the Program Director.
+- **Key Deadlines**: Proposal submission typically occurs by mid-Winter quarter.
+
+### Project Completion Options
+
+Students may choose one of the following formats to fulfill the project requirement:
+- Oral presentation to a faculty review panel
+- Written research paper
+- Submission to a peer-reviewed journal (with faculty endorsement)
+
+### Evaluation Criteria
+
+Projects are evaluated on the following dimensions:
+- **Originality and Innovation**
+- **Methodological Rigor**
+- **Communication Clarity**
+- **Depth of Analysis and Discussion**
+- **Practical Significance and Impact**
+
+### Roles and Responsibilities
+
+- **Students**: Responsible for defining and executing the project, meeting deadlines, and seeking feedback.
+- **Faculty Supervisors**: Provide mentorship, ensure methodological soundness, and assess progress.
+- **MSDS Director**: Provides oversight and final approval of completed projects.
+

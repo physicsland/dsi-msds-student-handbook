@@ -1,7 +1,32 @@
 ---
-title: "UC_DSI_MSDS_studentHandbook"
+title: "Home"
+format: html
 ---
 
-This is a Quarto website.
+# University of Chicago  
+## Data Science Institute (DSI)  
+### Master of Science in Data Science (MSDS)  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+_Last Updated: 2025-04-22_  
+
+Welcome to the official student handbook for the Master of Science in Data Science (MSDS) program at the University of Chicago's Data Science Institute.
+
+Please use the navigation bar or links below to explore each section:
+
+- [Introduction](introduction.qmd)
+- [Academic Calendar and Important Dates](calendar.qmd)
+- [Program Structure & Degree Requirements](structure.qmd)
+- [Course Descriptions](courses.qmd)
+- [Research Project Requirement](research.qmd)
+- [Advising and Support](support.qmd)
+- [Academic Policies](policies.qmd)
+- [Code of Conduct](conduct.qmd)
+- [Computing and Facilities](computing.qmd)
+- [International Students](international.qmd)
+- [OPT and CPT](opt-cpt.qmd)
+- [Professional Development](career.qmd)
+- [Graduation and Beyond](graduation.qmd)
+- [Administrative Contacts](contacts.qmd)
+- [FAQs](faqs.qmd)
+- [Appendix](appendix.qmd)
+

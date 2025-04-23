@@ -1,0 +1,43 @@
+---
+title: "Appendix"
+format: html
+---
+
+## Appendix
+
+### Research Proposal Template
+
+A standard template for the MSDS research proposal is available for download. It includes sections for:
+- Project title and abstract
+- Objectives and research questions
+- Methodology and data sources
+- Timeline and milestones
+- Faculty mentor and collaboration plan
+
+Students should submit the completed proposal to the MSDS program office by the specified deadline.
+
+### Important Forms & Links
+
+- [Academic Calendar](https://registrar.uchicago.edu/calendars/academic-calendars/)
+- [DSI Website](https://datascience.uchicago.edu/)
+- [MSDS Program Page](https://codas.uchicago.edu/academics/ms-data-science/)
+- [Office of International Affairs](https://internationalaffairs.uchicago.edu/)
+- [UChicago Student Manual](https://studentmanual.uchicago.edu/)
+
+### Glossary of Key Terms
+
+- **DSI**: Data Science Institute  
+- **CPT/OPT**: Curricular/Optional Practical Training for F-1 international students  
+- **my.UChicago**: University portal for registration, grades, and personal records  
+- **GPA**: Grade Point Average  
+- **STEM**: Science, Technology, Engineering, and Mathematics
+
+### Visual Timeline: Research Milestones
+
+A visual timeline is available to help students plan their research projects. It outlines key milestones including:
+- Proposal submission deadline
+- Mid-project progress check-ins
+- Final presentation or paper submission window
+
+This timeline is distributed at orientation and updated each year. Students may also access a digital copy on the program intranet.
+
