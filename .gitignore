@@ -25,6 +25,9 @@ settings.json
 .spyderproject
 .spyproject
 
+# Quarto 
+/.quarto/
+
 # python
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -232,3 +235,4 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
