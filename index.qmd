@@ -1,13 +1,16 @@
 ---
-title: "Home"
-format: html
+title: "MSDS Student Handbook - UChicago DSI"
+format:
+  html:
+    number-sections: false
 ---
 
-# University of Chicago  
-## Data Science Institute (DSI)  
-### Master of Science in Data Science (MSDS)  
+# Data Science Institute (DSI), University of Chicago
+## Master of Science in Data Science (MSDS)  
 
-_Last Updated: 2025-04-22_  
+**In Development Mode. Unofficial.**   
+_Last Updated: 2025-04-23_  
+
 
 Welcome to the official student handbook for the Master of Science in Data Science (MSDS) program at the University of Chicago's Data Science Institute.
 

@@ -6,19 +6,22 @@ format: html
 ## Welcome Message  
 *To be provided by the Program Director(s).*
 
-## About the Data Science Institute  
+## About the Data Science Institute
 
-The **Data Science Institute (DSI)** at the University of Chicago embodies the university's bold and innovative vision of data science as a distinct and transformative discipline.  
+The **Data Science Institute (DSI)** at the University of Chicago embodies the university’s bold and innovative vision of data science as a distinct and transformative discipline.
 
-Serving as an intellectual hub, DSI advances interdisciplinary research, fosters partnerships across industry, government, and social impact organizations, and supports holistic data science education.  
+Serving as an intellectual hub, DSI advances these three fundational goals:
 
-Through initiatives like AI+Science, Data & Democracy, Internet Equity, and AI for Climate, DSI addresses critical societal challenges by integrating data science with diverse domains.  
+- **Interdisciplinary Research** — Provide world-class research focused on big data and AI to tackle the most challenging societal and scientific problems.  
+- **Outreach and Partnerships** — Foster outreach with partnerships across industry, government, academia, and social impact organizations to effect sustainable and scalable change.  
+- **Data Science Education** — Lead a comprehensive educational mission through the Committee on Data Science (CODAS), which grants degrees in BA, BS, MS and PhD in our undergraduate, MSDS, MSADS, and PhD programs.  
 
 [Visit the DSI Website](https://datascience.uchicago.edu)
 
+
 ## Mission and Objectives of the MSDS Program  
 
-The **Master of Science in Data Science (MSDS)** program is designed for students aiming to pursue research careers in data science.  
+The **Master of Science in Data Science (MSDS)** program is designed for students aiming to pursue PhD or research careers in data science and related fields.  
 The curriculum combines rigorous theoretical foundations with practical applications, offering courses taught by faculty from the Departments of Statistics, Computer Science, and other disciplines across the university.  
 [More about the MSDS Program](https://codas.uchicago.edu/academics/ms-data-science/)
 
