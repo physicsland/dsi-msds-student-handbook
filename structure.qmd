@@ -5,33 +5,42 @@ format: html
 
 ## Program Structure & Degree Requirements
 
-The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a defined curriculum and meet specific academic standards to earn the degree.
+The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.
 
 ### Program Duration
 
-The program is typically completed in one academic year (three quarters: Autumn, Winter, and Spring). Students may extend their studies based on personal and academic considerations, in consultation with academic advisors.
+The program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.
 
 ### Curriculum Overview
 
-Students must complete a total of **12 courses**, categorized as follows:
+Students must complete a total of **9 core and elective courses**, plus **3 foundational courses** as follows:
 
-- **Foundational Courses (3 courses)**: These cover essential concepts in data science and provide the groundwork for advanced coursework.
+- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses.  If needed to take these courses, they should be completed in the summer before matriculation (in the Autumn).
 - **Core Courses (5 courses)**: These delve into key data science techniques, methodologies, and tools.
-- **Elective Courses (4 courses)**: Students choose from a wide array of electives to tailor their learning to specific interests or career goals.
+  * DATA 30100 Introduction to Data Science
+  * DATA 31500 Data Interaction
+  * DATA 34100 Introduction to Data Systems and Data Design
+  * DATA 35900 Responsible Use of Data and Algorithms
+  * DATA 37000 Intro to ML and Neural Networks **OR** \
+  DATA 37711 Foundations of Machine Learning and AI - Part I
+- **Elective Courses (4 courses)**: Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections. 
+  * There is a special [PSD policy exception regarding taking Booth School of Business's courses](https://physicalsciences.uchicago.edu/current-students/policies/#Registration) during your last quarter before graduation: "PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements."
+
+More information about the core and elective courses can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1eENLYWQYJPX6m-vww3kfE9AAozu4iQzfDXcJ5wpIg8w/edit?gid=1407004632#gid=1407004632). 
 
 ### Course Selection Guidelines
 
 Students are encouraged to:
 - Balance theoretical and applied courses.
 - Consider prerequisites when selecting electives.
-- Seek guidance from academic advisors on sequencing and relevance to career objectives.
+- Seek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.
 
 ### Degree Completion Requirements
 
 To graduate, students must:
-- Successfully complete all 12 required courses.
+- Successfully complete all 9 required courses.
 - Maintain a minimum cumulative **GPA of 3.0**.
-- Fulfill the **research project requirement**.
+- Fulfill the **research project requirement**. (See [Research and Support > Research Project Requirement](research.qmd))
 
 ### Enrollment Status
 
