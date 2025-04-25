@@ -15,13 +15,13 @@ The program is typically completed in one to two academic years (three quarters:
 
 Students must complete a total of **9 core and elective courses**, plus **3 foundational courses** as follows:
 
-- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses.  If needed to take these courses, they should be completed in the summer before matriculation (in the Autumn).  
+- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses.  If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn.  
 - **Core Courses (5 courses)**: These delve into key data science techniques, methodologies, and tools.
   * DATA 30100 Introduction to Data Science
   * DATA 31500 Data Interaction
   * DATA 34100 Introduction to Data Systems and Data Design
   * DATA 35900 Responsible Use of Data and Algorithms
-  * DATA 37000 Intro to ML and Neural Networks **OR** \
+  * DATA 37000 Introduction to ML and Neural Networks **OR** \
   DATA 37711 Foundations of Machine Learning and AI - Part I  
 - **Elective Courses (4 courses)**: Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.  
   * There is a special [PSD policy exception regarding taking Booth School of Business's courses](https://physicalsciences.uchicago.edu/current-students/policies/#Registration) during your last quarter before graduation: "PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements."  
