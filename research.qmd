@@ -3,43 +3,56 @@ title: "Research Project Requirement"
 format: html
 ---
 
-## Research Project Requirement
+## Overview
 
-The research project is a critical component of the MSDS program and serves as a capstone experience that demonstrates a student's mastery of data science methodologies and their application to real-world problems.
+All students enrolled in the Master of Science in Data Science (MSDS) program at the University of Chicago's Data Science Institute (DSI) are required to complete a rigorous research project. This project serves as a capstone experience, demonstrating mastery of data science techniques, the ability to conduct independent research, and effectively communicate results.
 
-### Overview and Purpose
+## Project Requirements
 
-The project allows students to engage in independent or collaborative research under the guidance of faculty. It emphasizes originality, technical rigor, and clear communication of findings.
+### Collaboration
 
-### Collaboration and Mentorship Guidelines
+- Students are encouraged to seek mentorship from faculty members or postdoctoral fellows within DSI. Projects can also involve faculty or researchers from other departments or institutions; however, such projects must include a DSI faculty supervisor or the MSDS Director to ensure proper guidance and oversight.
+- In such projects with a faculty mentorship, it is possible that more than one MSDS student could be involved in the same project.
+- Students who wish to conduct their own research can only do so with the approval of the MSDS Director. Such projects should not involve more than one MSDS student. There should be bi-weekly updates with the MSDS Director on the research progress.
 
-Students may work individually or in small teams. Projects must have a faculty mentor affiliated with the Data Science Institute (DSI). Collaborations with other departments or external organizations are permitted, but a DSI faculty member must be involved as supervisor.
+### Project Approval
 
-### Project Approval Process
+- All projects must receive formal approval from the MSDS Director to be eligible as fulfilling the MSDS program requirement.
+- Students are encouraged to seek approval from the MSDS Director prior to initiation. This is absolutely necessary for students directing their own research. For students working with a faculty mentor, a formal proposal can be submitted at a later stage (but in any case, no later than the deadline of applying for graduation). Keep the MSDS Director informed of your current research collaborations even before the formal proposal submissions.
+- For formal project approvals, students should submit a brief research proposal (1-2 pages) outlining their project's objective, methodology, data sources, expected outcomes, timeline, and supervising faculty member info (if applicable).
 
-- **Proposal Submission**: Students must submit a written proposal outlining objectives, methodology, timeline, and mentorship structure.
-- **Review and Approval**: Proposals are reviewed by a faculty panel or the Program Director.
-- **Key Deadlines**: Proposal submission typically occurs by mid-Winter quarter.
+## Completion Options
 
-### Project Completion Options
+Students must fulfill at least one of the following requirements to successfully complete their research project:
 
-Students may choose one of the following formats to fulfill the project requirement:
-- Oral presentation to a faculty review panel
-- Written research paper
-- Submission to a peer-reviewed journal (with faculty endorsement)
+### Presentation to DSI Faculty Panel
 
-### Evaluation Criteria
+- Deliver a 15-20 minute oral presentation followed by Q&A before a panel consisting of at least three DSI faculty members.
+- The presentation should clearly outline the project's motivation, methodology, analysis, findings, and implications.
 
-Projects are evaluated on the following dimensions:
-- **Originality and Innovation**
-- **Methodological Rigor**
-- **Communication Clarity**
-- **Depth of Analysis and Discussion**
-- **Practical Significance and Impact**
+### Research Paper Submission
 
-### Roles and Responsibilities
+- Submit a comprehensive research paper.
+- The paper should adhere to professional publication standards, clearly documenting the research problem, literature review, methods, data analysis, results, discussion, conclusions, and references.
 
-- **Students**: Responsible for defining and executing the project, meeting deadlines, and seeking feedback.
-- **Faculty Supervisors**: Provide mentorship, ensure methodological soundness, and assess progress.
-- **MSDS Director**: Provides oversight and final approval of completed projects.
+### Peer-Reviewed Journal Publication
 
+- Demonstrate acceptance or submission of research findings in a recognized peer-reviewed academic journal or conference proceeding relevant to data science. A statement of contribution and/or a faculty endorsement is also required.
+- Documentation of submission or acceptance must be provided to the MSDS Director.
+- The strength of the publication and the contribution from the student will be evaluated thoroughly to determine level of competency.
+
+## Evaluation Criteria
+
+Projects will be evaluated based on:
+
+- Originality and innovation
+- Rigorous application of data science methods
+- Clarity of written and/or oral communication
+- Depth of analysis and discussion
+- Impact and practical significance
+
+## Responsibilities
+
+- **Students**: Manage project timelines, proactively engage with faculty mentors, and ensure adherence to guidelines.
+- **Faculty Supervisors**: Provide consistent oversight, mentorship, and evaluation of the project.
+- **MSDS Director**: Ensure program standards are maintained, provide final approval, and address any project-related issues.

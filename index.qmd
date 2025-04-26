@@ -1,35 +1,28 @@
 ---
-title: "MSDS Student Handbook - UChicago DSI"
+title: "UChicago DSI MSDS Student Handbook"
 format:
   html:
     number-sections: false
+    toc: false
 ---
 
 # Data Science Institute (DSI), University of Chicago
-## Master of Science in Data Science (MSDS)  
+## Master of Science in Data Science (MSDS) - 2025  
 
 **In Development Mode. Unofficial.**   
-_Last Updated: 2025-04-23_  
+_Last Updated: 2025-04-26_  
 
+---
 
-Welcome to the official student handbook for the Master of Science in Data Science (MSDS) program at the University of Chicago's Data Science Institute.
+### Select a Handbook Version
 
-Please use the navigation bar or links below to explore each section:
+To change to a different year/version of your matriculation, please use the dropdown menu on the upper right. This is the 2025 Autumn matriculation version.  
 
-- [Introduction](introduction.qmd)
-- [Academic Calendar and Important Dates](calendar.qmd)
-- [Program Structure & Degree Requirements](structure.qmd)
-- [Course Descriptions](courses.qmd)
-- [Research Project Requirement](research.qmd)
-- [Advising and Support](support.qmd)
-- [Academic Policies](policies.qmd)
-- [Code of Conduct](conduct.qmd)
-- [Computing and Facilities](computing.qmd)
-- [International Students](international.qmd)
-- [OPT and CPT](opt-cpt.qmd)
-- [Professional Development](career.qmd)
-- [Graduation and Beyond](graduation.qmd)
-- [Administrative Contacts](contacts.qmd)
-- [FAQs](faqs.qmd)
-- [Appendix](appendix.qmd)
+---
+
+## About the Program
+
+The Master of Science in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.
+
+[Learn More About DSI](https://datascience.uchicago.edu) →
 

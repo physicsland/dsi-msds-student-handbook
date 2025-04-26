@@ -8,6 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+    right:
+      - text: "Versions"
+        menu:
+          - text: "2025 (Current)"
+            href: /dsi-msds-student-handbook/
+          - text: "2024"
+            href: /dsi-msds-student-handbook/2024/
 
   sidebar:
     style: floating
