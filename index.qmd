@@ -27,7 +27,7 @@ To change to a different year/version of your matriculation, please use the drop
 
 You can also download the full handbook as a PDF:
 
-[**Download the 2025 MSDS Student Handbook**](pdfs/dsi-msds-handbook-2025.pdf){.btn .btn-primary}
+[**Download the 2025 MSDS Student Handbook**](pdfs/test.pdf){.btn .btn-primary}
 
 ---
 
