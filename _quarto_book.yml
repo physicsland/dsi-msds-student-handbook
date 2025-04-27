@@ -1,0 +1,33 @@
+project:
+  type: book
+  output-dir: pdfs
+
+book:
+  title: "Master of Science in Data Science (MSDS)" 
+  subtitle: "Student Handbook 2025"
+  author: "Data Science Institute (DSI), University of Chicago"
+  date: "Last Updated: April 26, 2025"
+  chapters:
+    - index.md
+    - introduction.qmd
+    - calendar.qmd
+    - structure.qmd
+    - courses.qmd
+    - research.qmd
+    - support.qmd
+    - policies.qmd
+    - conduct.qmd
+    - computing.qmd
+    - international.qmd
+    - opt-cpt.qmd
+    - career.qmd
+    - graduation.qmd
+    - contacts.qmd
+    - faqs.qmd
+    - appendix.qmd
+
+format:
+  pdf:
+    toc: true
+    number-sections: true
+    output-file: msds-handbook-2025.pdf
