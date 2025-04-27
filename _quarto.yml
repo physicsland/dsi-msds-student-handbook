@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: www
+  output-dir: docs
 
 website:
   title: "Master of Science in Data Science (MSDS)" 
