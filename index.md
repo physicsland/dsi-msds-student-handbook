@@ -17,6 +17,10 @@ _Last Updated: 2025-04-26_
 
 ---
 
+## Unversity of Chicago Student Handbook
+
+The University of Chicago also has a [UChicago Student Handbook](https://studentmanual.uchicago.edu) for students across all programs, degrees, and disciplines.
+
 ## About the Program
 
 The Master's in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.

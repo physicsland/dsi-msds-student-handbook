@@ -6,34 +6,34 @@ format: html
 The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.
 
 ## MSDS Program Director
-
-- Provides academic leadership and final approval for research projects, petitions, and policy exceptions.
-- Meets with students upon request or referral.  
 **Edwin Lo, Ph.D.**  
-Email: [edwinlo@uchicago.edu](mailto://edwinlo@uchicago.edu)
+Email: [edwinlo@uchicago.edu](mailto://edwinlo@uchicago.edu)  
 Phone: 773.887.2996  
 Office: Ryerson Lab 257C  
 1100 E 58th ST, Chicago, IL  
 Appointments: [edwinlo.youcanbook.me/](https://edwinlo.youcanbook.me/)   
 
+- Provides academic leadership and final approval for research projects, petitions, and policy exceptions.
+- Meets with students upon request or referral.  
+
 ## Program Administrator
 
-- Primary point of contact for course registration issues, forms, and day-to-day administrative logistics.
-- Coordinates orientation, graduation, and program events.  
 **Ken Kritikos, M.Ed.**  
-Email: [kkritikos34@uchicago.edu](mailto://kkritikos34@uchicago.edu)
+Email: [kkritikos34@uchicago.edu](mailto://kkritikos34@uchicago.edu)  
 Phone: 773.834.2236  
 Office: Ryerson Lab 257B  
 1100 E 58th ST, Chicago, IL  
 Appointments: [kkritikos34.youcanbook.me/](https://kkritikos34.youcanbook.me/)   
 
+- Primary point of contact for course registration issues, forms, and day-to-day administrative logistics.
+- Coordinates orientation, graduation, and program events.  
 
 ## Others
 
-- [Cummunity Safety - UChicago Police](https://safety-security.uchicago.edu/about/police) Campus phone: 123, Off-campus phone: 773.702.8181.
-- [University general contact info](https://www.uchicago.edu/contact-us) 773.702.1234.
+- [Community Safety - UChicago Police](https://safety-security.uchicago.edu/about/police) Campus phone: 123, Off-campus phone: 773.702.8181  
+- [University general info](https://www.uchicago.edu/contact-us) 773.702.1234  
 - [University IT support](https://its.uchicago.edu/support/) 773.702.5800
-- [Physical Science Division (PSD) general contact info](https://physicalsciences.uchicago.edu/about/contact-us/) 773.702.7950.
-- [Data Science Instiute general contact info](https://datascience.uchicago.edu/about/) 773.702.7612.
+- [Physical Science Division (PSD) general info](https://physicalsciences.uchicago.edu/about/contact-us/) 773.702.7950  
+- [Data Science Instiute general info](https://datascience.uchicago.edu/about/) 773.702.7612  
 
 

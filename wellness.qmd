@@ -1,36 +1,15 @@
 ---
-title: "Advising and Support"
+title: "Wellness"
 format: html
 ---
 
-The MSDS program is committed to providing comprehensive support to ensure student success throughout the academic journey.
+Ensuring students' wellness is a top priority. The university has many resources to offer help and advice to students who need help themselves, as well as seeking help for others around them.
 
-## Academic Advising
 
-The MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the "Administrative Contacts" section. 
 
-## Career and Professional Development Services
+## Wellness and Mental Health Resources
 
-Students have access to career services via [UChicagoGRAD](https://grad.uchicago.edu/career-development/)that offer:
-
-- Resume and cover letter workshops
-- Interview preparation sessions
-- Networking events with industry professionals
-- Internship and job placement assistance
-
-Students are also encouraged to take advantage of the online workshops offered by our MSADS program.  
-
-## Technical and Computational Resources
-
-The University provides robust technical support. See more info from [Resources > Computing and Facilities](computing.qmd) section. A quick list includes:
-
-- Access to DSI computing clusters
-- Software licenses 
-- Technical support services for troubleshooting and assistance
-
-## Mental Health and Wellness Resources
-
-Student well-being is a priority. Resources available include:
+Wellness resources for the students themselves are available including:
 
 - [Wellness programs](https://wellness.uchicago.edu/) 
   * [Mental Health and Counseling services](https://wellness.uchicago.edu/mental-health/)
@@ -38,3 +17,14 @@ Student well-being is a priority. Resources available include:
 - [Campus and Student Life > Help](https://csl.uchicago.edu/get-help/medical-and-mental-health-services/)
 
 Students are encouraged to utilize these services to maintain a healthy balance between academic responsibilities and personal well-being.
+
+
+## UChicago CARES
+
+The [Center For Awareness, Resolution, Education, and Support (CARES)](https://cares.uchicago.edu) allows anyone to file reports for themselves or on behalf of others whom might need help and support. This confidential and anonymous channel provides an alternative resouce for the larger UChicago community. 
+
+
+## Title IX Office
+
+
+

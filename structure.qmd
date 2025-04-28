@@ -3,15 +3,13 @@ title: "Program Structure & Degree Requirements"
 format: html
 ---
 
-## Program Structure & Degree Requirements
-
 The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.
 
-### Program Duration
+## Program Duration
 
 The program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.
 
-### Curriculum Overview
+## Curriculum Overview
 
 Students must complete a total of **9 core and elective courses**, plus **3 foundational courses** as follows:
 
@@ -28,7 +26,7 @@ Students must complete a total of **9 core and elective courses**, plus **3 foun
 
 More information about the core and elective courses can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1eENLYWQYJPX6m-vww3kfE9AAozu4iQzfDXcJ5wpIg8w/edit?gid=1407004632#gid=1407004632).  
 
-### Course Selection Guidelines
+## Course Selection Guidelines
 
 Students are encouraged to:  
 
@@ -36,7 +34,7 @@ Students are encouraged to:
 - Consider prerequisites when selecting electives.
 - Seek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.
 
-### Degree Completion Requirements
+## Degree Completion Requirements
 
 To graduate, students must:  
 
@@ -44,9 +42,8 @@ To graduate, students must:
 - Maintain a minimum cumulative **GPA of 3.0**. 
 - Fulfill the **research project requirement**. (See [Research and Support > Research Project Requirement](research.qmd)) 
 
-### Enrollment Status
+## Enrollment Status
 
 - **Full-Time Status**: Students must enroll in at least **3 courses per quarter**.
 - **Part-Time Option**: In some uncommon situation, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.
 - **Minimum Enrollment**: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.
-

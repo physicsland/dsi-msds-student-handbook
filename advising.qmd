@@ -1,7 +1,37 @@
 ---
-title: "Professional Development and Career Resources"
+title: "Advising"
 format: html
 ---
+
+The MSDS program is committed to providing comprehensive support to ensure student success throughout the academic journey.
+
+## Academic Advising
+
+The MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the "Administrative Contacts" section. 
+
+## Career and Professional Development Services
+
+Students have access to career services via [UChicagoGRAD](https://grad.uchicago.edu/career-development/)that offer:
+
+- Resume and cover letter workshops
+- Interview preparation sessions
+- Networking events with industry professionals
+- Internship and job placement assistance
+
+Students are also encouraged to take advantage of the online workshops offered by our MSADS program.  
+
+## Technical and Computational Resources
+
+The University provides robust technical support. See more info from [Resources > Computing and Facilities](computing.qmd) section. A quick list includes:
+
+- Access to DSI computing clusters
+- Software licenses 
+- Technical support services for troubleshooting and assistance
+
+
+
+
+
 
 ## Professional Development and Career Resources
 

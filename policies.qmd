@@ -3,33 +3,62 @@ title: "Academic Policies"
 format: html
 ---
 
-## Academic Policies
+The MSDS program follows the academic policies set by the [University’s standard](https://studentmanual.uchicago.edu/academic-policies/). Additional provisions relevant to our program’s structure and expectations are listed here.
 
-The MSDS program follows the academic policies set by the University of Chicago, with specific provisions relevant to the program’s structure and expectations.
+## Registration and Course Enrollment
 
-### Registration and Course Enrollment
+Students are required to register for courses through the university’s my.UChicago portal each quarter. Changes to registration must be made during the official add/drop period. Some general notes regarding class registrations and add/drops: 
 
-Students are required to register for courses through the university’s my.UChicago portal each quarter. Changes to registration must be made during the official add/drop period.
+- **Pass/Fail** Classes not earning letter grades do not fullfill the MDSD course requirements.  
+- **Withdrawal/Refund** Univerisity policy allow students to withdraw from a classat any time up until final exam date, or final project due date. 
+  * Up to the end of the third week of class, a withdrawal will remove the registration information from the transcript. Tuition will be refunded 100%  
+  * After the third week, a 'W' grade will remain on the transcript, tuition is not refunded, and there will be a late change registration fee.  
+  * A withdrawal might affect the full-time status, which could be crucial for international students.  
+- **Add/drop** After the first full-week of class, all add/drops typically require the instructor and our administrative approval. This cannot be done via my.UChicago portal.  
+  * After the third full week of class, there will be a late change registration fee.
 
-### Academic Integrity Policy
+
+## Time to Complete the MSDS Program
+
+Students can take from one to two (consecutive) years to complete all program requirements. When all course requirments have been fullfilled, students may elect to continue part-time to complete their research requirements. International students should consult with [OIA](https://internationalaffairs.uchicago.edu) regarding the up-do-date visa restrictions. 
+
+
+## Academic Honesty Code
 
 All students are expected to uphold the highest standards of academic honesty. Plagiarism, cheating, and other forms of academic dishonesty are strictly prohibited and may result in disciplinary action.
 
-Refer to the [University’s Academic Integrity Policy](https://studentmanual.uchicago.edu/academic-integrity/) for detailed guidance.
+Refer to the [University’s Academic Integrity Policy](https://studentmanual.uchicago.edu/academic-policies/) for detailed guidance.
 
-### Attendance and Participation Expectations
 
-Regular attendance and active participation are expected in all courses. Instructors may set additional attendance policies specific to their course.
+## GPA, Academic Progression and Probation
 
-### Grading Policies
+Students should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student be placed on Academic Probation: 
 
-Grades follow the standard university scale. Instructors may assign letter grades, pass/fail, or other evaluation methods as appropriate. Grade appeals must be submitted in writing and are reviewed on a case-by-case basis.
+- Cumulative GPA below 3.0
+- Receives one or more letter grade below 'C-' in a quarter
+- Receives two or more Withdrawals 'W', Incompletes 'I', or blank grades in a single quarter
+- Violate the academic honesty code 
 
-### Leave of Absence and Withdrawal Policies
+A second time the student is placed under probation will be removed from the program.
 
-Students seeking a leave of absence or withdrawal must submit a formal request and consult with their academic advisor and the program director. Leaves are granted for medical, personal, or professional reasons.
 
-### Disciplinary Procedures
+## Student Concerns and Grievances
+
+Should there be any concerns or dispute regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to communications should be: 
+
+- **Instructor**
+- **Chair** of the program/department, if applicable.
+- **MSDS Director** Edwin Lo
+- **DSI Director** Dan Nicolae
+- **PSD Dean of Students** Bahareh Lampert
+
+
+
+## Leave of Absence and Withdrawal Policies
+
+Students seeking a leave of absence or withdrawal must submit a formal request and consult with the program director. Leaves are granted for medical, personal, or professional reasons.
+
+## Disciplinary Procedures
 
 Violations of academic or behavioral policies are subject to the university’s disciplinary procedures. These may include warnings, probation, suspension, or dismissal depending on the severity of the infraction.
 
