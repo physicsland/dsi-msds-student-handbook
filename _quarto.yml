@@ -35,10 +35,10 @@ website:
       - section: "Resources and Support"
         contents:
           - computing.qmd
+          - advising.qmd
+          - wellness.qmd
           - international.qmd
-          - support.qmd
           - opt-cpt.qmd
-          - career.qmd
       - section: "Completion and Beyond"
         contents:
           - graduation.qmd

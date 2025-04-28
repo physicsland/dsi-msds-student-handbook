@@ -24,128 +24,8 @@
     ]
   },
   {
-    "objectID": "graduation.html",
-    "href": "graduation.html",
-    "title": "Graduation and Beyond",
-    "section": "",
-    "text": "Completing the MSDS program marks a significant achievement. This section outlines the steps for graduation and opportunities available to graduates post-completion.\n\n\nTo graduate, students must: - Complete all program requirements, including coursework and the research project. - Maintain a cumulative GPA of 3.0 or higher. - Submit a graduation application via my.UChicago by the published deadline.\nStudents are advised to review their academic progress with an advisor prior to applying to graduate.\n\n\n\nGraduating students are eligible to participate in the University of Chicago’s annual Spring Quarter commencement ceremony. DSI may also host additional events for MSDS graduates.\nDetails about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.\n\n\n\nGraduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include: - Continued access to career services - Invitations to alumni networking events - Participation in mentorship programs and industry panels\nAlumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.",
-    "crumbs": [
-      "Home",
-      "Completion and Beyond",
-      "Graduation and Beyond"
-    ]
-  },
-  {
-    "objectID": "graduation.html#graduation-and-beyond",
-    "href": "graduation.html#graduation-and-beyond",
-    "title": "Graduation and Beyond",
-    "section": "",
-    "text": "Completing the MSDS program marks a significant achievement. This section outlines the steps for graduation and opportunities available to graduates post-completion.\n\n\nTo graduate, students must: - Complete all program requirements, including coursework and the research project. - Maintain a cumulative GPA of 3.0 or higher. - Submit a graduation application via my.UChicago by the published deadline.\nStudents are advised to review their academic progress with an advisor prior to applying to graduate.\n\n\n\nGraduating students are eligible to participate in the University of Chicago’s annual Spring Quarter commencement ceremony. DSI may also host additional events for MSDS graduates.\nDetails about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.\n\n\n\nGraduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include: - Continued access to career services - Invitations to alumni networking events - Participation in mentorship programs and industry panels\nAlumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.",
-    "crumbs": [
-      "Home",
-      "Completion and Beyond",
-      "Graduation and Beyond"
-    ]
-  },
-  {
-    "objectID": "structure.html",
-    "href": "structure.html",
-    "title": "Program Structure & Degree Requirements",
-    "section": "",
-    "text": "The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.\n\n\nThe program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.\n\n\n\nStudents must complete a total of 9 core and elective courses, plus 3 foundational courses as follows:\n\nFoundational Courses (3 courses): These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn.\n\nCore Courses (5 courses): These delve into key data science techniques, methodologies, and tools.\n\nDATA 30100 Introduction to Data Science\nDATA 31500 Data Interaction\nDATA 34100 Introduction to Data Systems and Data Design\nDATA 35900 Responsible Use of Data and Algorithms\nDATA 37000 Introduction to ML and Neural Networks OR\nDATA 37711 Foundations of Machine Learning and AI - Part I\n\n\nElective Courses (4 courses): Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.\n\nThere is a special PSD policy exception regarding taking Booth School of Business’s courses during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”\n\n\nMore information about the core and elective courses can be found in this spreadsheet.\n\n\n\nStudents are encouraged to:\n\nBalance theoretical and applied courses.\nConsider prerequisites when selecting electives.\nSeek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.\n\n\n\n\nTo graduate, students must:\n\nSuccessfully complete all 9 required courses.\nMaintain a minimum cumulative GPA of 3.0.\nFulfill the research project requirement. (See Research and Support &gt; Research Project Requirement)\n\n\n\n\n\nFull-Time Status: Students must enroll in at least 3 courses per quarter.\nPart-Time Option: In some uncommon situation, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.\nMinimum Enrollment: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.",
-    "crumbs": [
-      "Home",
-      "Program Overview",
-      "Program Structure & Degree Requirements"
-    ]
-  },
-  {
-    "objectID": "structure.html#program-structure-degree-requirements",
-    "href": "structure.html#program-structure-degree-requirements",
-    "title": "Program Structure & Degree Requirements",
-    "section": "",
-    "text": "The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.\n\n\nThe program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.\n\n\n\nStudents must complete a total of 9 core and elective courses, plus 3 foundational courses as follows:\n\nFoundational Courses (3 courses): These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn.\n\nCore Courses (5 courses): These delve into key data science techniques, methodologies, and tools.\n\nDATA 30100 Introduction to Data Science\nDATA 31500 Data Interaction\nDATA 34100 Introduction to Data Systems and Data Design\nDATA 35900 Responsible Use of Data and Algorithms\nDATA 37000 Introduction to ML and Neural Networks OR\nDATA 37711 Foundations of Machine Learning and AI - Part I\n\n\nElective Courses (4 courses): Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.\n\nThere is a special PSD policy exception regarding taking Booth School of Business’s courses during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”\n\n\nMore information about the core and elective courses can be found in this spreadsheet.\n\n\n\nStudents are encouraged to:\n\nBalance theoretical and applied courses.\nConsider prerequisites when selecting electives.\nSeek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.\n\n\n\n\nTo graduate, students must:\n\nSuccessfully complete all 9 required courses.\nMaintain a minimum cumulative GPA of 3.0.\nFulfill the research project requirement. (See Research and Support &gt; Research Project Requirement)\n\n\n\n\n\nFull-Time Status: Students must enroll in at least 3 courses per quarter.\nPart-Time Option: In some uncommon situation, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.\nMinimum Enrollment: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.",
-    "crumbs": [
-      "Home",
-      "Program Overview",
-      "Program Structure & Degree Requirements"
-    ]
-  },
-  {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "To be provided by the Program Director(s).",
-    "crumbs": [
-      "Home",
-      "Program Overview",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "introduction.html#welcome-message",
-    "href": "introduction.html#welcome-message",
-    "title": "Introduction",
-    "section": "",
-    "text": "To be provided by the Program Director(s).",
-    "crumbs": [
-      "Home",
-      "Program Overview",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "introduction.html#about-the-data-science-institute",
-    "href": "introduction.html#about-the-data-science-institute",
-    "title": "Introduction",
-    "section": "2 About the Data Science Institute",
-    "text": "2 About the Data Science Institute\nThe Data Science Institute (DSI) at the University of Chicago embodies the university’s bold and innovative vision of data science as a distinct and transformative discipline.\nServing as an intellectual hub, DSI advances these three fundational goals:\n\nInterdisciplinary Research — Provide world-class research focused on big data and AI to tackle the most challenging societal and scientific problems.\n\nOutreach and Partnerships — Foster outreach with partnerships across industry, government, academia, and social impact organizations to effect sustainable and scalable change.\n\nData Science Education — Lead a comprehensive educational mission through the Committee on Data Science (CODAS), which grants degrees in BA, BS, MS and PhD in our undergraduate, MSDS, MSADS, and PhD programs.\n\nVisit the DSI Website",
-    "crumbs": [
-      "Home",
-      "Program Overview",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "introduction.html#mission-and-objectives-of-the-msds-program",
-    "href": "introduction.html#mission-and-objectives-of-the-msds-program",
-    "title": "Introduction",
-    "section": "3 Mission and Objectives of the MSDS Program",
-    "text": "3 Mission and Objectives of the MSDS Program\nThe Master of Science in Data Science (MSDS) program is designed for students aiming to pursue PhD or research careers in data science and related fields.\nThe curriculum combines rigorous theoretical foundations with practical applications, offering courses taught by faculty from the Departments of Statistics, Computer Science, and other disciplines across the university.\nMore about the MSDS Program\nKey objectives of the MSDS program include:\n\nInterdisciplinary Integration:\nEquipping students with the ability to apply data science techniques across various fields, fostering collaboration and innovation.\nResearch Excellence:\nProviding a strong foundation in data science methodologies to prepare students for advanced research and doctoral studies.\nEthical Responsibility:\nEmphasizing the responsible use of data and algorithms, ensuring that graduates are mindful of the societal impacts of their work.\nPractical Experience:\nOffering hands-on projects and research opportunities that allow students to apply their knowledge to real-world problems.\n\nThrough this comprehensive approach, the MSDS program aims to develop data scientists who are not only technically proficient but also socially conscious and prepared to lead in the evolving landscape of data science.",
-    "crumbs": [
-      "Home",
-      "Program Overview",
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "computing.html",
-    "href": "computing.html",
-    "title": "Computing and Facilities",
-    "section": "",
-    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.\n\n\n\n\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.\n\n\n\n\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.\n\n\n\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.\n\n\n\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
-    "crumbs": [
-      "Home",
-      "Resources and Support",
-      "Computing and Facilities"
-    ]
-  },
-  {
-    "objectID": "computing.html#computing-and-facilities",
-    "href": "computing.html#computing-and-facilities",
-    "title": "Computing and Facilities",
-    "section": "",
-    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.\n\n\n\n\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.\n\n\n\n\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.\n\n\n\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.\n\n\n\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
-    "crumbs": [
-      "Home",
-      "Resources and Support",
-      "Computing and Facilities"
-    ]
-  },
-  {
-    "objectID": "career.html",
-    "href": "career.html",
+    "objectID": "advising.html",
+    "href": "advising.html",
     "title": "Professional Development and Career Resources",
     "section": "",
     "text": "The MSDS program at the University of Chicago is designed not only to provide strong academic training, but also to prepare students for successful careers in industry, academia, and public sector roles.\n\n\nStudents are encouraged to pursue internships during their studies. The program maintains partnerships with industry collaborators across technology, finance, consulting, healthcare, and nonprofit sectors. Internship opportunities may be shared through: - DSI newsletters and job boards - Career fairs and employer information sessions - Alumni referrals and faculty networks\n\n\n\nThe University and DSI host multiple events throughout the year to connect students with professionals, including: - Employer Meet & Greets - The Data Science Career Fair - UChicagoGRAD career expos - Women in Data Science (WiDS) conference and events\n\n\n\nStudents benefit from an active alumni network that offers: - Career panels and mentorship programs - Alumni-hosted events and webinars - Access to alumni in leadership positions across data science domains\nStudents are encouraged to leverage these resources to build professional connections and explore career pathways aligned with their interests and skills.",
@@ -156,8 +36,8 @@
     ]
   },
   {
-    "objectID": "career.html#professional-development-and-career-resources",
-    "href": "career.html#professional-development-and-career-resources",
+    "objectID": "advising.html#professional-development-and-career-resources",
+    "href": "advising.html#professional-development-and-career-resources",
     "title": "Professional Development and Career Resources",
     "section": "",
     "text": "The MSDS program at the University of Chicago is designed not only to provide strong academic training, but also to prepare students for successful careers in industry, academia, and public sector roles.\n\n\nStudents are encouraged to pursue internships during their studies. The program maintains partnerships with industry collaborators across technology, finance, consulting, healthcare, and nonprofit sectors. Internship opportunities may be shared through: - DSI newsletters and job boards - Career fairs and employer information sessions - Alumni referrals and faculty networks\n\n\n\nThe University and DSI host multiple events throughout the year to connect students with professionals, including: - Employer Meet & Greets - The Data Science Career Fair - UChicagoGRAD career expos - Women in Data Science (WiDS) conference and events\n\n\n\nStudents benefit from an active alumni network that offers: - Career panels and mentorship programs - Alumni-hosted events and webinars - Access to alumni in leadership positions across data science domains\nStudents are encouraged to leverage these resources to build professional connections and explore career pathways aligned with their interests and skills.",
@@ -165,6 +45,102 @@
       "Home",
       "Resources and Support",
       "Professional Development and Career Resources"
+    ]
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix",
+    "section": "",
+    "text": "A standard template for the MSDS research proposal is available for download. It includes sections for: - Project title and abstract - Objectives and research questions - Methodology and data sources - Timeline and milestones - Faculty mentor and collaboration plan\nStudents should submit the completed proposal to the MSDS program office by the specified deadline.\n\n\n\n\nAcademic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\n\n\n\n\n\nDSI: Data Science Institute\n\nCPT/OPT: Curricular/Optional Practical Training for F-1 international students\n\nmy.UChicago: University portal for registration, grades, and personal records\n\nGPA: Grade Point Average\n\nSTEM: Science, Technology, Engineering, and Mathematics\n\n\n\n\nA visual timeline is available to help students plan their research projects. It outlines key milestones including: - Proposal submission deadline - Mid-project progress check-ins - Final presentation or paper submission window\nThis timeline is distributed at orientation and updated each year. Students may also access a digital copy on the program intranet.",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Appendix"
+    ]
+  },
+  {
+    "objectID": "appendix.html#appendix",
+    "href": "appendix.html#appendix",
+    "title": "Appendix",
+    "section": "",
+    "text": "A standard template for the MSDS research proposal is available for download. It includes sections for: - Project title and abstract - Objectives and research questions - Methodology and data sources - Timeline and milestones - Faculty mentor and collaboration plan\nStudents should submit the completed proposal to the MSDS program office by the specified deadline.\n\n\n\n\nAcademic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\n\n\n\n\n\nDSI: Data Science Institute\n\nCPT/OPT: Curricular/Optional Practical Training for F-1 international students\n\nmy.UChicago: University portal for registration, grades, and personal records\n\nGPA: Grade Point Average\n\nSTEM: Science, Technology, Engineering, and Mathematics\n\n\n\n\nA visual timeline is available to help students plan their research projects. It outlines key milestones including: - Proposal submission deadline - Mid-project progress check-ins - Final presentation or paper submission window\nThis timeline is distributed at orientation and updated each year. Students may also access a digital copy on the program intranet.",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Appendix"
+    ]
+  },
+  {
+    "objectID": "international.html",
+    "href": "international.html",
+    "title": "International Students",
+    "section": "",
+    "text": "The MSDS program welcomes students from around the world and is committed to supporting the unique needs of international scholars during their academic journey.\n\n\nInternational applicants must meet the same academic and professional standards as domestic students, with additional requirements including: - English language proficiency (TOEFL/IELTS scores, if applicable) - Evaluation of international transcripts - Documentation for visa issuance\n\n\n\nThe University’s Office of International Affairs (OIA) provides guidance on: - Obtaining and maintaining F-1 or J-1 visa status - SEVIS requirements - Travel documentation - Optional Practical Training (OPT) and Curricular Practical Training (CPT) eligibility\nStudents are responsible for maintaining lawful immigration status throughout their studies.\nRefer to the Office of International Affairs for comprehensive resources and contact information.\n\n\n\nUChicago offers resources to help international students adjust to life in Chicago, including: - Orientation programs and workshops - Language and writing support - Student cultural organizations and affinity groups - International student mixers and networking events\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "International Students"
+    ]
+  },
+  {
+    "objectID": "international.html#international-students",
+    "href": "international.html#international-students",
+    "title": "International Students",
+    "section": "",
+    "text": "The MSDS program welcomes students from around the world and is committed to supporting the unique needs of international scholars during their academic journey.\n\n\nInternational applicants must meet the same academic and professional standards as domestic students, with additional requirements including: - English language proficiency (TOEFL/IELTS scores, if applicable) - Evaluation of international transcripts - Documentation for visa issuance\n\n\n\nThe University’s Office of International Affairs (OIA) provides guidance on: - Obtaining and maintaining F-1 or J-1 visa status - SEVIS requirements - Travel documentation - Optional Practical Training (OPT) and Curricular Practical Training (CPT) eligibility\nStudents are responsible for maintaining lawful immigration status throughout their studies.\nRefer to the Office of International Affairs for comprehensive resources and contact information.\n\n\n\nUChicago offers resources to help international students adjust to life in Chicago, including: - Orientation programs and workshops - Language and writing support - Student cultural organizations and affinity groups - International student mixers and networking events\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "International Students"
+    ]
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
+    "section": "",
+    "text": "The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contacts.html#msds-program-director",
+    "href": "contacts.html#msds-program-director",
+    "title": "Contacts",
+    "section": "1 MSDS Program Director",
+    "text": "1 MSDS Program Director\n\nProvides academic leadership and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.\nEdwin Lo, Ph.D.\nEmail: edwinlo@uchicago.edu Phone: 773.887.2996\nOffice: Ryerson Lab 257C\n1100 E 58th ST, Chicago, IL\nAppointments: edwinlo.youcanbook.me/",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contacts.html#program-administrator",
+    "href": "contacts.html#program-administrator",
+    "title": "Contacts",
+    "section": "2 Program Administrator",
+    "text": "2 Program Administrator\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.\nKen Kritikos, M.Ed.\nEmail: kkritikos34@uchicago.edu Phone: 773.834.2236\nOffice: Ryerson Lab 257B\n1100 E 58th ST, Chicago, IL\nAppointments: kkritikos34.youcanbook.me/",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "contacts.html#others",
+    "href": "contacts.html#others",
+    "title": "Contacts",
+    "section": "3 Others",
+    "text": "3 Others\n\nCummunity Safety - UChicago Police Campus phone: 123, Off-campus phone: 773.702.8181.\nUniversity general contact info 773.702.1234.\nUniversity IT support 773.702.5800\nPhysical Science Division (PSD) general contact info 773.702.7950.\nData Science Instiute general contact info 773.702.7612.",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Contacts"
     ]
   },
   {
@@ -206,8 +182,8 @@
     ]
   },
   {
-    "objectID": "support.html",
-    "href": "support.html",
+    "objectID": "wellness.html",
+    "href": "wellness.html",
     "title": "Advising and Support",
     "section": "",
     "text": "The MSDS program is committed to providing comprehensive support to ensure student success throughout the academic journey.",
@@ -218,8 +194,8 @@
     ]
   },
   {
-    "objectID": "support.html#academic-advising",
-    "href": "support.html#academic-advising",
+    "objectID": "wellness.html#academic-advising",
+    "href": "wellness.html#academic-advising",
     "title": "Advising and Support",
     "section": "1 Academic Advising",
     "text": "1 Academic Advising\nThe MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the “Administrative Contacts” section.",
@@ -230,8 +206,8 @@
     ]
   },
   {
-    "objectID": "support.html#career-and-professional-development-services",
-    "href": "support.html#career-and-professional-development-services",
+    "objectID": "wellness.html#career-and-professional-development-services",
+    "href": "wellness.html#career-and-professional-development-services",
     "title": "Advising and Support",
     "section": "2 Career and Professional Development Services",
     "text": "2 Career and Professional Development Services\nStudents have access to career services via UChicagoGRADthat offer:\n\nResume and cover letter workshops\nInterview preparation sessions\nNetworking events with industry professionals\nInternship and job placement assistance\n\nStudents are also encouraged to take advantage of the online workshops offered by our MSADS program.",
@@ -242,8 +218,8 @@
     ]
   },
   {
-    "objectID": "support.html#technical-and-computational-resources",
-    "href": "support.html#technical-and-computational-resources",
+    "objectID": "wellness.html#technical-and-computational-resources",
+    "href": "wellness.html#technical-and-computational-resources",
     "title": "Advising and Support",
     "section": "3 Technical and Computational Resources",
     "text": "3 Technical and Computational Resources\nThe University provides robust technical support. See more info from Resources &gt; Computing and Facilities section. A quick list includes:\n\nAccess to DSI computing clusters\nSoftware licenses\nTechnical support services for troubleshooting and assistance",
@@ -254,8 +230,8 @@
     ]
   },
   {
-    "objectID": "support.html#mental-health-and-wellness-resources",
-    "href": "support.html#mental-health-and-wellness-resources",
+    "objectID": "wellness.html#mental-health-and-wellness-resources",
+    "href": "wellness.html#mental-health-and-wellness-resources",
     "title": "Advising and Support",
     "section": "4 Mental Health and Wellness Resources",
     "text": "4 Mental Health and Wellness Resources\nStudent well-being is a priority. Resources available include:\n\nWellness programs\n\nMental Health and Counseling services\nWorkshops and Initiatives\n\nCampus and Student Life &gt; Help\n\nStudents are encouraged to utilize these services to maintain a healthy balance between academic responsibilities and personal well-being.",
@@ -434,75 +410,123 @@
     ]
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Administrative Contacts",
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "Computing and Facilities",
     "section": "",
-    "text": "The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.\n\n\n\nProvides academic leadership and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.\n\n\n\n\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.\n\n\n\n\n\nProvides help with computing accounts, software installations, and access to computational resources.\nContact through the DSI tech support portal or by email.\n\n\n\n\n\nAssigned to each student to assist with course planning, academic progress, and policy questions.\nSchedule regular check-ins and are available during office hours.\n\nFull contact information for these individuals is available on the DSI MSDS Program Website.",
-    "crumbs": [
-      "Home",
-      "Completion and Beyond",
-      "Administrative Contacts"
-    ]
-  },
-  {
-    "objectID": "contacts.html#administrative-contacts",
-    "href": "contacts.html#administrative-contacts",
-    "title": "Administrative Contacts",
-    "section": "",
-    "text": "The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.\n\n\n\nProvides academic leadership and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.\n\n\n\n\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.\n\n\n\n\n\nProvides help with computing accounts, software installations, and access to computational resources.\nContact through the DSI tech support portal or by email.\n\n\n\n\n\nAssigned to each student to assist with course planning, academic progress, and policy questions.\nSchedule regular check-ins and are available during office hours.\n\nFull contact information for these individuals is available on the DSI MSDS Program Website.",
-    "crumbs": [
-      "Home",
-      "Completion and Beyond",
-      "Administrative Contacts"
-    ]
-  },
-  {
-    "objectID": "international.html",
-    "href": "international.html",
-    "title": "International Students",
-    "section": "",
-    "text": "The MSDS program welcomes students from around the world and is committed to supporting the unique needs of international scholars during their academic journey.\n\n\nInternational applicants must meet the same academic and professional standards as domestic students, with additional requirements including: - English language proficiency (TOEFL/IELTS scores, if applicable) - Evaluation of international transcripts - Documentation for visa issuance\n\n\n\nThe University’s Office of International Affairs (OIA) provides guidance on: - Obtaining and maintaining F-1 or J-1 visa status - SEVIS requirements - Travel documentation - Optional Practical Training (OPT) and Curricular Practical Training (CPT) eligibility\nStudents are responsible for maintaining lawful immigration status throughout their studies.\nRefer to the Office of International Affairs for comprehensive resources and contact information.\n\n\n\nUChicago offers resources to help international students adjust to life in Chicago, including: - Orientation programs and workshops - Language and writing support - Student cultural organizations and affinity groups - International student mixers and networking events\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
+    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.\n\n\n\n\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.\n\n\n\n\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.\n\n\n\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.\n\n\n\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
     "crumbs": [
       "Home",
       "Resources and Support",
-      "International Students"
+      "Computing and Facilities"
     ]
   },
   {
-    "objectID": "international.html#international-students",
-    "href": "international.html#international-students",
-    "title": "International Students",
+    "objectID": "computing.html#computing-and-facilities",
+    "href": "computing.html#computing-and-facilities",
+    "title": "Computing and Facilities",
     "section": "",
-    "text": "The MSDS program welcomes students from around the world and is committed to supporting the unique needs of international scholars during their academic journey.\n\n\nInternational applicants must meet the same academic and professional standards as domestic students, with additional requirements including: - English language proficiency (TOEFL/IELTS scores, if applicable) - Evaluation of international transcripts - Documentation for visa issuance\n\n\n\nThe University’s Office of International Affairs (OIA) provides guidance on: - Obtaining and maintaining F-1 or J-1 visa status - SEVIS requirements - Travel documentation - Optional Practical Training (OPT) and Curricular Practical Training (CPT) eligibility\nStudents are responsible for maintaining lawful immigration status throughout their studies.\nRefer to the Office of International Affairs for comprehensive resources and contact information.\n\n\n\nUChicago offers resources to help international students adjust to life in Chicago, including: - Orientation programs and workshops - Language and writing support - Student cultural organizations and affinity groups - International student mixers and networking events\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
+    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.\n\n\n\n\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.\n\n\n\n\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.\n\n\n\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.\n\n\n\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
     "crumbs": [
       "Home",
       "Resources and Support",
-      "International Students"
+      "Computing and Facilities"
     ]
   },
   {
-    "objectID": "appendix.html",
-    "href": "appendix.html",
-    "title": "Appendix",
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
     "section": "",
-    "text": "A standard template for the MSDS research proposal is available for download. It includes sections for: - Project title and abstract - Objectives and research questions - Methodology and data sources - Timeline and milestones - Faculty mentor and collaboration plan\nStudents should submit the completed proposal to the MSDS program office by the specified deadline.\n\n\n\n\nAcademic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\n\n\n\n\n\nDSI: Data Science Institute\n\nCPT/OPT: Curricular/Optional Practical Training for F-1 international students\n\nmy.UChicago: University portal for registration, grades, and personal records\n\nGPA: Grade Point Average\n\nSTEM: Science, Technology, Engineering, and Mathematics\n\n\n\n\nA visual timeline is available to help students plan their research projects. It outlines key milestones including: - Proposal submission deadline - Mid-project progress check-ins - Final presentation or paper submission window\nThis timeline is distributed at orientation and updated each year. Students may also access a digital copy on the program intranet.",
+    "text": "To be provided by the Program Director(s).",
     "crumbs": [
       "Home",
-      "Completion and Beyond",
-      "Appendix"
+      "Program Overview",
+      "Introduction"
     ]
   },
   {
-    "objectID": "appendix.html#appendix",
-    "href": "appendix.html#appendix",
-    "title": "Appendix",
+    "objectID": "introduction.html#welcome-message",
+    "href": "introduction.html#welcome-message",
+    "title": "Introduction",
     "section": "",
-    "text": "A standard template for the MSDS research proposal is available for download. It includes sections for: - Project title and abstract - Objectives and research questions - Methodology and data sources - Timeline and milestones - Faculty mentor and collaboration plan\nStudents should submit the completed proposal to the MSDS program office by the specified deadline.\n\n\n\n\nAcademic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\n\n\n\n\n\nDSI: Data Science Institute\n\nCPT/OPT: Curricular/Optional Practical Training for F-1 international students\n\nmy.UChicago: University portal for registration, grades, and personal records\n\nGPA: Grade Point Average\n\nSTEM: Science, Technology, Engineering, and Mathematics\n\n\n\n\nA visual timeline is available to help students plan their research projects. It outlines key milestones including: - Proposal submission deadline - Mid-project progress check-ins - Final presentation or paper submission window\nThis timeline is distributed at orientation and updated each year. Students may also access a digital copy on the program intranet.",
+    "text": "To be provided by the Program Director(s).",
+    "crumbs": [
+      "Home",
+      "Program Overview",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#about-the-data-science-institute",
+    "href": "introduction.html#about-the-data-science-institute",
+    "title": "Introduction",
+    "section": "2 About the Data Science Institute",
+    "text": "2 About the Data Science Institute\nThe Data Science Institute (DSI) at the University of Chicago embodies the university’s bold and innovative vision of data science as a distinct and transformative discipline.\nServing as an intellectual hub, DSI advances these three fundational goals:\n\nInterdisciplinary Research — Provide world-class research focused on big data and AI to tackle the most challenging societal and scientific problems.\n\nOutreach and Partnerships — Foster outreach with partnerships across industry, government, academia, and social impact organizations to effect sustainable and scalable change.\n\nData Science Education — Lead a comprehensive educational mission through the Committee on Data Science (CODAS), which grants degrees in BA, BS, MS and PhD in our undergraduate, MSDS, MSADS, and PhD programs.\n\nVisit the DSI Website",
+    "crumbs": [
+      "Home",
+      "Program Overview",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "introduction.html#mission-and-objectives-of-the-msds-program",
+    "href": "introduction.html#mission-and-objectives-of-the-msds-program",
+    "title": "Introduction",
+    "section": "3 Mission and Objectives of the MSDS Program",
+    "text": "3 Mission and Objectives of the MSDS Program\nThe Master of Science in Data Science (MSDS) program is designed for students aiming to pursue PhD or research careers in data science and related fields.\nThe curriculum combines rigorous theoretical foundations with practical applications, offering courses taught by faculty from the Departments of Statistics, Computer Science, and other disciplines across the university.\nMore about the MSDS Program\nKey objectives of the MSDS program include:\n\nInterdisciplinary Integration:\nEquipping students with the ability to apply data science techniques across various fields, fostering collaboration and innovation.\nResearch Excellence:\nProviding a strong foundation in data science methodologies to prepare students for advanced research and doctoral studies.\nEthical Responsibility:\nEmphasizing the responsible use of data and algorithms, ensuring that graduates are mindful of the societal impacts of their work.\nPractical Experience:\nOffering hands-on projects and research opportunities that allow students to apply their knowledge to real-world problems.\n\nThrough this comprehensive approach, the MSDS program aims to develop data scientists who are not only technically proficient but also socially conscious and prepared to lead in the evolving landscape of data science.",
+    "crumbs": [
+      "Home",
+      "Program Overview",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "structure.html",
+    "href": "structure.html",
+    "title": "Program Structure & Degree Requirements",
+    "section": "",
+    "text": "The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.\n\n\nThe program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.\n\n\n\nStudents must complete a total of 9 core and elective courses, plus 3 foundational courses as follows:\n\nFoundational Courses (3 courses): These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn.\n\nCore Courses (5 courses): These delve into key data science techniques, methodologies, and tools.\n\nDATA 30100 Introduction to Data Science\nDATA 31500 Data Interaction\nDATA 34100 Introduction to Data Systems and Data Design\nDATA 35900 Responsible Use of Data and Algorithms\nDATA 37000 Introduction to ML and Neural Networks OR\nDATA 37711 Foundations of Machine Learning and AI - Part I\n\n\nElective Courses (4 courses): Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.\n\nThere is a special PSD policy exception regarding taking Booth School of Business’s courses during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”\n\n\nMore information about the core and elective courses can be found in this spreadsheet.\n\n\n\nStudents are encouraged to:\n\nBalance theoretical and applied courses.\nConsider prerequisites when selecting electives.\nSeek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.\n\n\n\n\nTo graduate, students must:\n\nSuccessfully complete all 9 required courses.\nMaintain a minimum cumulative GPA of 3.0.\nFulfill the research project requirement. (See Research and Support &gt; Research Project Requirement)\n\n\n\n\n\nFull-Time Status: Students must enroll in at least 3 courses per quarter.\nPart-Time Option: In some uncommon situation, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.\nMinimum Enrollment: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.",
+    "crumbs": [
+      "Home",
+      "Program Overview",
+      "Program Structure & Degree Requirements"
+    ]
+  },
+  {
+    "objectID": "structure.html#program-structure-degree-requirements",
+    "href": "structure.html#program-structure-degree-requirements",
+    "title": "Program Structure & Degree Requirements",
+    "section": "",
+    "text": "The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.\n\n\nThe program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.\n\n\n\nStudents must complete a total of 9 core and elective courses, plus 3 foundational courses as follows:\n\nFoundational Courses (3 courses): These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn.\n\nCore Courses (5 courses): These delve into key data science techniques, methodologies, and tools.\n\nDATA 30100 Introduction to Data Science\nDATA 31500 Data Interaction\nDATA 34100 Introduction to Data Systems and Data Design\nDATA 35900 Responsible Use of Data and Algorithms\nDATA 37000 Introduction to ML and Neural Networks OR\nDATA 37711 Foundations of Machine Learning and AI - Part I\n\n\nElective Courses (4 courses): Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.\n\nThere is a special PSD policy exception regarding taking Booth School of Business’s courses during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”\n\n\nMore information about the core and elective courses can be found in this spreadsheet.\n\n\n\nStudents are encouraged to:\n\nBalance theoretical and applied courses.\nConsider prerequisites when selecting electives.\nSeek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.\n\n\n\n\nTo graduate, students must:\n\nSuccessfully complete all 9 required courses.\nMaintain a minimum cumulative GPA of 3.0.\nFulfill the research project requirement. (See Research and Support &gt; Research Project Requirement)\n\n\n\n\n\nFull-Time Status: Students must enroll in at least 3 courses per quarter.\nPart-Time Option: In some uncommon situation, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.\nMinimum Enrollment: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.",
+    "crumbs": [
+      "Home",
+      "Program Overview",
+      "Program Structure & Degree Requirements"
+    ]
+  },
+  {
+    "objectID": "graduation.html",
+    "href": "graduation.html",
+    "title": "Graduation and Beyond",
+    "section": "",
+    "text": "Completing the MSDS program marks a significant achievement. This section outlines the steps for graduation and opportunities available to graduates post-completion.\n\n\nTo graduate, students must: - Complete all program requirements, including coursework and the research project. - Maintain a cumulative GPA of 3.0 or higher. - Submit a graduation application via my.UChicago by the published deadline.\nStudents are advised to review their academic progress with an advisor prior to applying to graduate.\n\n\n\nGraduating students are eligible to participate in the University of Chicago’s annual Spring Quarter commencement ceremony. DSI may also host additional events for MSDS graduates.\nDetails about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.\n\n\n\nGraduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include: - Continued access to career services - Invitations to alumni networking events - Participation in mentorship programs and industry panels\nAlumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.",
     "crumbs": [
       "Home",
       "Completion and Beyond",
-      "Appendix"
+      "Graduation and Beyond"
+    ]
+  },
+  {
+    "objectID": "graduation.html#graduation-and-beyond",
+    "href": "graduation.html#graduation-and-beyond",
+    "title": "Graduation and Beyond",
+    "section": "",
+    "text": "Completing the MSDS program marks a significant achievement. This section outlines the steps for graduation and opportunities available to graduates post-completion.\n\n\nTo graduate, students must: - Complete all program requirements, including coursework and the research project. - Maintain a cumulative GPA of 3.0 or higher. - Submit a graduation application via my.UChicago by the published deadline.\nStudents are advised to review their academic progress with an advisor prior to applying to graduate.\n\n\n\nGraduating students are eligible to participate in the University of Chicago’s annual Spring Quarter commencement ceremony. DSI may also host additional events for MSDS graduates.\nDetails about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.\n\n\n\nGraduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include: - Continued access to career services - Invitations to alumni networking events - Participation in mentorship programs and industry panels\nAlumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.",
+    "crumbs": [
+      "Home",
+      "Completion and Beyond",
+      "Graduation and Beyond"
     ]
   },
   {
