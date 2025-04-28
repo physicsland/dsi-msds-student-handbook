@@ -19,7 +19,7 @@ _Last Updated: 2025-04-26_
 
 ## About the Program
 
-The Master of Science in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.
+The Master's in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.
 
 [Learn More About DSI](https://datascience.uchicago.edu) →
 

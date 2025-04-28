@@ -27,18 +27,16 @@ website:
           - calendar.qmd
           - structure.qmd
           - courses.qmd
-      - section: "Research and Support"
-        contents:
           - research.qmd
-          - support.qmd
       - section: "Policies and Conduct"
         contents:
           - policies.qmd
           - conduct.qmd
-      - section: "Resources"
+      - section: "Resources and Support"
         contents:
           - computing.qmd
           - international.qmd
+          - support.qmd
           - opt-cpt.qmd
           - career.qmd
       - section: "Completion and Beyond"

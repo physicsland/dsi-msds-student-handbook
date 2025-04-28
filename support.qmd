@@ -3,37 +3,38 @@ title: "Advising and Support"
 format: html
 ---
 
-## Advising and Support
-
 The MSDS program is committed to providing comprehensive support to ensure student success throughout the academic journey.
 
-### Academic Advising
+## Academic Advising
 
-Each student is assigned an academic advisor who assists with course selection, program requirements, and academic planning. Advisors are available for consultations during office hours and by appointment.
+The MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the "Administrative Contacts" section. 
 
-### Career and Professional Development Services
+## Career and Professional Development Services
 
-Students have access to career services that offer:
+Students have access to career services via [UChicagoGRAD](https://grad.uchicago.edu/career-development/)that offer:
 
 - Resume and cover letter workshops
 - Interview preparation sessions
 - Networking events with industry professionals
 - Internship and job placement assistance
 
-### Technical and Computational Resources
+Students are also encouraged to take advantage of the online workshops offered by our MSADS program.  
 
-The University provides robust technical support, including:
+## Technical and Computational Resources
 
-- Access to high-performance computing clusters
-- Software licenses for data analysis tools
+The University provides robust technical support. See more info from [Resources > Computing and Facilities](computing.qmd) section. A quick list includes:
+
+- Access to DSI computing clusters
+- Software licenses 
 - Technical support services for troubleshooting and assistance
 
-### Mental Health and Wellness Resources
+## Mental Health and Wellness Resources
 
 Student well-being is a priority. Resources available include:
 
-- Counseling services
-- Stress management workshops
-- Wellness programs and activities
+- [Wellness programs](https://wellness.uchicago.edu/) 
+  * [Mental Health and Counseling services](https://wellness.uchicago.edu/mental-health/)
+  * [Workshops and Initiatives](https://wellness.uchicago.edu/healthy-living/wellness-programming/)
+- [Campus and Student Life > Help](https://csl.uchicago.edu/get-help/medical-and-mental-health-services/)
 
 Students are encouraged to utilize these services to maintain a healthy balance between academic responsibilities and personal well-being.

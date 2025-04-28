@@ -14,11 +14,11 @@ book:
     - structure.qmd
     - courses.qmd
     - research.qmd
-    - support.qmd
     - policies.qmd
     - conduct.qmd
     - computing.qmd
     - international.qmd
+    - support.qmd
     - opt-cpt.qmd
     - career.qmd
     - graduation.qmd
