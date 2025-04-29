@@ -39,7 +39,6 @@ website:
           - computing.qmd
           - wellness.qmd
           - international.qmd
-          - opt-cpt.qmd
       - section: "Completion and Beyond"
         contents:
           - graduation.qmd

@@ -3,20 +3,12 @@ title: "International Students"
 format: html
 ---
 
-## International Students
-
 The MSDS program welcomes students from around the world and is committed to supporting the unique needs of international scholars during their academic journey.
 
-### Admissions and Enrollment Requirements
 
-International applicants must meet the same academic and professional standards as domestic students, with additional requirements including:
-- English language proficiency (TOEFL/IELTS scores, if applicable)
-- Evaluation of international transcripts
-- Documentation for visa issuance
+## Visa and Immigration Information
 
-### Visa and Immigration Information
-
-The University’s Office of International Affairs (OIA) provides guidance on:
+The University’s [Office of International Affairs (OIA)](https://internationalaffairs.uchicago.edu/) provides guidance on:
 - Obtaining and maintaining F-1 or J-1 visa status
 - SEVIS requirements
 - Travel documentation
@@ -24,9 +16,8 @@ The University’s Office of International Affairs (OIA) provides guidance on:
 
 Students are responsible for maintaining lawful immigration status throughout their studies.
 
-Refer to the [Office of International Affairs](https://internationalaffairs.uchicago.edu/) for comprehensive resources and contact information.
 
-### Cultural and Campus Resources
+## Cultural and Campus Resources
 
 UChicago offers resources to help international students adjust to life in Chicago, including:
 - Orientation programs and workshops
@@ -35,4 +26,29 @@ UChicago offers resources to help international students adjust to life in Chica
 - International student mixers and networking events
 
 Students are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.
+
+
+## Optional Practical Training (OPT) and Curricular Practical Training (CPT)
+
+International students on F-1 visas may be eligible for work authorization through Optional Practical Training (OPT) and Curricular Practical Training (CPT). These opportunities allow students to gain hands-on experience related to their academic program.
+
+## OPT Guidelines and Eligibility
+
+- OPT is a temporary employment authorization that allows F-1 students to work in their field of study for up to 12 months (with a potential 24-month STEM extension).
+- OPT may be used after graduation or, in limited cases, during academic breaks.
+- Students must apply through the U.S. Citizenship and Immigration Services (USCIS) with guidance from the Office of International Affairs (OIA).
+
+## CPT Guidelines and Application Process
+
+- CPT allows students to engage in off-campus work or internships as part of their academic curriculum.
+- The employment must be integral to the program and approved by the MSDS Program Director.
+- Students must be enrolled in a practicum or reading/research course during the period of CPT.
+- CPT must be authorized in advance by the OIA.
+
+## Procedures for Authorization and Compliance
+
+- Students must receive a formal offer letter describing the nature, location, and duration of employment.
+- Authorization must be obtained **before** beginning any work.
+- Students are responsible for complying with all federal regulations related to their visa status.
+
 

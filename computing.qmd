@@ -6,25 +6,22 @@ format: html
 
 The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.
 
-## Computing Infrastructure
 
-### Account Setup & Management
+## Computational Resources
 
-Students will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.
+The University provides robust technical support: 
 
-### High-Performance Computing (HPC) Resources
+- [Software licenses from IT](https://its.uchicago.edu/students/) (Google G Suite, MS Office 365, Box, Zoom, and more)
+- [IT support services](https://its.uchicago.edu/support/) for troubleshooting and assistance
 
-Students may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.
 
-## Software and Tools
+## DSI Computing Clusters
 
-Students have access to a suite of software tools for data science including (but not limited to):
-- Python and R
-- JupyterHub and GitHub
-- Docker and VS Code
-- Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)
+Students will have access to the [DSI computing clusters](https://github.com/dsi-clinic/the-clinic/blob/main/tutorials/ssh_github_cluster.md) upon matriculation.
 
-Software availability may depend on licensing agreements; additional tools can be requested through the support team.
+Bennett Hunter is our Senior System Administrator at DSI in charge of the cluster.
+
+
 
 ## Facilities and Lab Spaces
 
@@ -32,5 +29,5 @@ Students are welcome to use designated lab spaces equipped with workstations, wh
 
 ## Campus Map and Building Locations
 
-DSI spaces are primarily located in the John Crerar Library building. Students can reference the [University of Chicago Campus Map](https://maps.uchicago.edu) to locate classrooms, labs, and computing centers.
+DSI spaces are primarily located in the John Crerar Library building and Ryerson Lab second floor. Students can reference the [University of Chicago Campus Map](https://maps.uchicago.edu) to locate classrooms, labs, and computing centers.
 

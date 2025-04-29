@@ -9,14 +9,6 @@ The MSDS program is committed to providing comprehensive support to ensure stude
 
 The MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the "Administrative Contacts" section. 
 
-## Computational Resources
-
-The University provides robust technical support. See more info from [Resources > Computing and Facilities](computing.qmd) section. A quick list includes:
-
-- Access to [DSI computing clusters](https://github.com/dsi-clinic/the-clinic/blob/main/tutorials/ssh_github_cluster.md) 
-- [Software licenses from IT](https://its.uchicago.edu/students/) (Google G Suite, MS Office 365, Box, Zoom, and more)
-- [IT support services](https://its.uchicago.edu/support/) for troubleshooting and assistance
-
 ## Career Services
 
 Students have access to career services via [UChicagoGRAD](https://grad.uchicago.edu/career-development/)that offer:
@@ -28,6 +20,11 @@ Students have access to career services via [UChicagoGRAD](https://grad.uchicago
 
 Students are also encouraged to take advantage of the online workshops offered by our MSADS program.  
 
-## Newsletter
 
-Subscribe
+## Newsletter and Calendar
+
+Subscribe to our newsletters and calendar events to stay on top of our various events.
+
+- [DSI events calendar subscription](https://calendar.google.com/calendar/ical/uchicago.edu_ekmspgr0ho1nmuhbi1rc3g577c%40group.calendar.google.com/public/basic.ics)
+- [DSI events calendar](https://datascience.uchicago.edu/events/dsi-events/) weblink
+- Newsletters 
