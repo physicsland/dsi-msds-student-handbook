@@ -18,7 +18,7 @@ All students enrolled in the Master of Science in Data Science (MSDS) program at
 ### Project Approval
 
 - All projects must receive formal approval from the MSDS Director to be eligible as fulfilling the MSDS program requirement.
-- Students are encouraged to seek approval from the MSDS Director prior to initiation. This is absolutely necessary for students directing their own research. For students working with a faculty mentor, a formal proposal can be submitted at a later stage (but in any case, no later than the deadline of applying for graduation). Keep the MSDS Director informed of your current research collaborations even before the formal proposal submissions.
+- Students are encouraged to seek approval from the MSDS Director prior to initiation. This is absolutely necessary for students directing their own research. For students working with a faculty mentor, a formal proposal can be submitted at a later stage (but in any case, no later than the deadline of applying for graduation). Keep the MSDS Director informed of your current research collaborations even before the formal proposal submission.
 - For formal project approvals, students should submit a brief research proposal (1-2 pages) outlining their project's objective, methodology, data sources, expected outcomes, timeline, and supervising faculty member info (if applicable).
 
 ## Completion Options

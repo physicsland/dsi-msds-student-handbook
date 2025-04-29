@@ -3,7 +3,7 @@ title: "Frequently Asked Questions (FAQs)"
 format: html
 ---
 
-FAQs will be added here throughout the year. These are not considered the official part of the handbook, but rather for convenience to the studetns as a web resource. 
+FAQs will be added here throughout the year. These are not considered the official part of the handbook, but rather for convenience to the students  as a web resource. 
 
 ## Enrollment
 
@@ -12,8 +12,8 @@ A: Admission deferral requests are considered on a case-by-case basis. Contact t
 
 ## Academic and Research Requirements
 
-**Q: None**  
-A: None.
+**Q: TBD**  
+A: TBD.
 
 ## Graduation and Commencement
 

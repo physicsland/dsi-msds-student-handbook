@@ -2,7 +2,7 @@
 title: "Master of Science in Data Science (MSDS)" 
 subtitle: "Student Handbook 2025"
 author: "Data Science Institute (DSI), University of Chicago"
-date: "Last Updated: April 26, 2025"
+date: "Last Updated: April 28, 2025"
 format: pdf
   # pdf:
   #   number-sections: false
@@ -13,11 +13,11 @@ title-block-banner: true
 ---
 
 **In Development Mode. Unofficial.**   
-_Last Updated: 2025-04-26_  
+_Last Updated: 2025-04-28_  
 
 ---
 
-## Unversity of Chicago Student Handbook
+## University of Chicago Student Handbook
 
 The University of Chicago also has a [UChicago Student Handbook](https://studentmanual.uchicago.edu) for students across all programs, degrees, and disciplines.
 

@@ -3,7 +3,7 @@ title: "Program Structure & Degree Requirements"
 format: html
 ---
 
-The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a reseasrch requirement to earn the degree.
+The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a research requirement to earn the degree.
 
 ## Program Duration
 
@@ -40,10 +40,10 @@ To graduate, students must:
 
 - Successfully complete all 9 required courses. 
 - Maintain a minimum cumulative **GPA of 3.0**. 
-- Fulfill the **research project requirement**. (See [Research and Support > Research Project Requirement](research.qmd)) 
+- Fulfill the **research project requirement**. (See [Research Project Requirement](research.qmd)) 
 
 ## Enrollment Status
 
 - **Full-Time Status**: Students must enroll in at least **3 courses per quarter**.
-- **Part-Time Option**: In some uncommon situation, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.
+- **Part-Time Option**: In some uncommon situations, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.
 - **Minimum Enrollment**: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.

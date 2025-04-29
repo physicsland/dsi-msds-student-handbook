@@ -9,8 +9,8 @@ The MSDS program follows the academic policies set by the [University’s standa
 
 Students are required to register for courses through the university’s my.UChicago portal each quarter. Changes to registration must be made during the official add/drop period. Some general notes regarding class registrations and add/drops: 
 
-- **Pass/Fail** Classes not earning letter grades do not fullfill the MDSD course requirements.  
-- **Withdrawal/Refund** Univerisity policy allow students to withdraw from a classat any time up until final exam date, or final project due date. 
+- **Pass/Fail** Classes not earning letter grades do not fulfill the MSDS course requirements.    
+- **Withdrawal/Refund** Univerisity policy allows students to withdraw from a class at any time up until final exam date, or final project due date.  
   * Up to the end of the third week of class, a withdrawal will remove the registration information from the transcript. Tuition will be refunded 100%  
   * After the third week, a 'W' grade will remain on the transcript, tuition is not refunded, and there will be a late change registration fee.  
   * A withdrawal might affect the full-time status, which could be crucial for international students.  
@@ -20,7 +20,7 @@ Students are required to register for courses through the university’s my.UChi
 
 ## Time to Complete the MSDS Program
 
-Students can take from one to two (consecutive) years to complete all program requirements. When all course requirments have been fullfilled, students may elect to continue part-time to complete their research requirements. International students should consult with [OIA](https://internationalaffairs.uchicago.edu) regarding the up-do-date visa restrictions. 
+Students can take from one to two (consecutive) years to complete all program requirements. When all course requirements have been fulfilled, students may elect to continue part-time to complete their research requirements. International students should consult with [OIA](https://internationalaffairs.uchicago.edu) regarding the up-do-date visa restrictions. 
 
 
 ## Academic Honesty Code
@@ -32,7 +32,7 @@ Refer to the [University’s Academic Integrity Policy](https://studentmanual.uc
 
 ## GPA, Academic Progression and Probation
 
-Students should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student be placed on Academic Probation: 
+Students should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student to be placed on Academic Probation:
 
 - Cumulative GPA below 3.0
 - Receives one or more letter grade below 'C-' in a quarter
@@ -44,7 +44,7 @@ A second time the student is placed under probation will be removed from the pro
 
 ## Student Concerns and Grievances
 
-Should there be any concerns or dispute regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to communications should be: 
+Should there be any concerns or disputes regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to address should be: 
 
 - **Instructor**
 - **Chair** of the program/department, if applicable.

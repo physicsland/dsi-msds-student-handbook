@@ -10,7 +10,7 @@ format: html
 
 The **Data Science Institute (DSI)** at the University of Chicago embodies the university’s bold and innovative vision of data science as a distinct and transformative discipline.
 
-Serving as an intellectual hub, DSI advances these three fundational goals:
+Serving as an intellectual hub, DSI advances these three foundational goals:
 
 - **Interdisciplinary Research** — Provide world-class research focused on big data and AI to tackle the most challenging societal and scientific problems.  
 - **Outreach and Partnerships** — Foster outreach with partnerships across industry, government, academia, and social impact organizations to effect sustainable and scalable change.  

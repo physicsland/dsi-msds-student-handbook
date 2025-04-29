@@ -3,8 +3,7 @@ title: "Wellness"
 format: html
 ---
 
-Ensuring students' wellness is a top priority. The university has many resources to offer help and advice to students who need help themselves, as well as seeking help for others around them.
-
+Ensuring students' wellness is a top priority. The university has many resources to offer help and advice to students who need help themselves, as well as those seeking help for others around them.
 
 
 ## Wellness and Mental Health Resources
@@ -21,7 +20,7 @@ Students are encouraged to utilize these services to maintain a healthy balance 
 
 ## UChicago CARES
 
-The [Center For Awareness, Resolution, Education, and Support (CARES)](https://cares.uchicago.edu) allows anyone to file reports for themselves or on behalf of others whom might need help and support. This confidential and anonymous channel provides an alternative resouce for the larger UChicago community. 
+The [Center For Awareness, Resolution, Education, and Support (CARES)](https://cares.uchicago.edu) allows anyone to file reports for themselves or on behalf of others whom might need help and support. This confidential and anonymous channel provides an alternative resource for the larger UChicago community. 
 
 
 ## Title IX Office

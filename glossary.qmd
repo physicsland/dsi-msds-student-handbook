@@ -5,7 +5,7 @@ format: html
 
 ## Important Forms & Links
 
-- [Academic Calendar](https://registrar.uchicago.edu/calendars/academic-calendars/)
+- [UChicago Academic Calendar](https://registrar.uchicago.edu/calendars/academic-calendars/)
 - [DSI Website](https://datascience.uchicago.edu/)
 - [MSDS Program Page](https://codas.uchicago.edu/academics/ms-data-science/)
 - [Office of International Affairs](https://internationalaffairs.uchicago.edu/)
@@ -16,8 +16,8 @@ format: html
 - **DSI**: Data Science Institute  
 - **CODAS**: Committee on Data Science   
 - **PSD**: Physical Science Division
-- **CPT**: Curricular Practical Training, degree-based or course-based (F-1 Visa student)   
 - **OIA**: Office of International Affairs 
+- **CPT**: Curricular Practical Training, degree-based or course-based (F-1 Visa student)   
 - **OPT**: Optional Practical Training (F-1 Visa student)   
 - **my.UChicago**: University portal for registration, grades, and personal records  
 
