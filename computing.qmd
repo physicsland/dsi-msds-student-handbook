@@ -3,21 +3,20 @@ title: "Computing and Facilities"
 format: html
 ---
 
-## Computing and Facilities
 
 The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.
 
-### Computing Infrastructure
+## Computing Infrastructure
 
-#### Account Setup & Management
+### Account Setup & Management
 
 Students will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.
 
-#### High-Performance Computing (HPC) Resources
+### High-Performance Computing (HPC) Resources
 
 Students may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.
 
-### Software and Tools
+## Software and Tools
 
 Students have access to a suite of software tools for data science including (but not limited to):
 - Python and R
@@ -27,11 +26,11 @@ Students have access to a suite of software tools for data science including (bu
 
 Software availability may depend on licensing agreements; additional tools can be requested through the support team.
 
-### Facilities and Lab Spaces
+## Facilities and Lab Spaces
 
 Students are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.
 
-### Campus Map and Building Locations
+## Campus Map and Building Locations
 
 DSI spaces are primarily located in the John Crerar Library building. Students can reference the [University of Chicago Campus Map](https://maps.uchicago.edu) to locate classrooms, labs, and computing centers.
 

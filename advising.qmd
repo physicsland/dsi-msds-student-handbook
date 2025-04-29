@@ -9,7 +9,15 @@ The MSDS program is committed to providing comprehensive support to ensure stude
 
 The MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the "Administrative Contacts" section. 
 
-## Career and Professional Development Services
+## Computational Resources
+
+The University provides robust technical support. See more info from [Resources > Computing and Facilities](computing.qmd) section. A quick list includes:
+
+- Access to [DSI computing clusters](https://github.com/dsi-clinic/the-clinic/blob/main/tutorials/ssh_github_cluster.md) 
+- [Software licenses from IT](https://its.uchicago.edu/students/) (Google G Suite, MS Office 365, Box, Zoom, and more)
+- [IT support services](https://its.uchicago.edu/support/) for troubleshooting and assistance
+
+## Career Services
 
 Students have access to career services via [UChicagoGRAD](https://grad.uchicago.edu/career-development/)that offer:
 
@@ -20,44 +28,6 @@ Students have access to career services via [UChicagoGRAD](https://grad.uchicago
 
 Students are also encouraged to take advantage of the online workshops offered by our MSADS program.  
 
-## Technical and Computational Resources
+## Newsletter
 
-The University provides robust technical support. See more info from [Resources > Computing and Facilities](computing.qmd) section. A quick list includes:
-
-- Access to DSI computing clusters
-- Software licenses 
-- Technical support services for troubleshooting and assistance
-
-
-
-
-
-
-## Professional Development and Career Resources
-
-The MSDS program at the University of Chicago is designed not only to provide strong academic training, but also to prepare students for successful careers in industry, academia, and public sector roles.
-
-### Internships and Industry Collaborations
-
-Students are encouraged to pursue internships during their studies. The program maintains partnerships with industry collaborators across technology, finance, consulting, healthcare, and nonprofit sectors. Internship opportunities may be shared through:
-- DSI newsletters and job boards
-- Career fairs and employer information sessions
-- Alumni referrals and faculty networks
-
-### Networking Events and Career Fairs
-
-The University and DSI host multiple events throughout the year to connect students with professionals, including:
-- Employer Meet & Greets
-- The Data Science Career Fair
-- UChicagoGRAD career expos
-- Women in Data Science (WiDS) conference and events
-
-### Alumni Network Engagement
-
-Students benefit from an active alumni network that offers:
-- Career panels and mentorship programs
-- Alumni-hosted events and webinars
-- Access to alumni in leadership positions across data science domains
-
-Students are encouraged to leverage these resources to build professional connections and explore career pathways aligned with their interests and skills.
-
+Subscribe

@@ -60,11 +60,11 @@
     ]
   },
   {
-    "objectID": "advising.html#career-and-professional-development-services",
-    "href": "advising.html#career-and-professional-development-services",
+    "objectID": "advising.html#computational-resources",
+    "href": "advising.html#computational-resources",
     "title": "Advising",
-    "section": "2 Career and Professional Development Services",
-    "text": "2 Career and Professional Development Services\nStudents have access to career services via UChicagoGRADthat offer:\n\nResume and cover letter workshops\nInterview preparation sessions\nNetworking events with industry professionals\nInternship and job placement assistance\n\nStudents are also encouraged to take advantage of the online workshops offered by our MSADS program.",
+    "section": "2 Computational Resources",
+    "text": "2 Computational Resources\nThe University provides robust technical support. See more info from Resources &gt; Computing and Facilities section. A quick list includes:\n\nAccess to DSI computing clusters\nSoftware licenses from IT (Google G Suite, MS Office 365, Box, Zoom, and more)\nIT support services for troubleshooting and assistance",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "objectID": "advising.html#technical-and-computational-resources",
-    "href": "advising.html#technical-and-computational-resources",
+    "objectID": "advising.html#career-services",
+    "href": "advising.html#career-services",
     "title": "Advising",
-    "section": "3 Technical and Computational Resources",
-    "text": "3 Technical and Computational Resources\nThe University provides robust technical support. See more info from Resources &gt; Computing and Facilities section. A quick list includes:\n\nAccess to DSI computing clusters\nSoftware licenses\nTechnical support services for troubleshooting and assistance",
+    "section": "3 Career Services",
+    "text": "3 Career Services\nStudents have access to career services via UChicagoGRADthat offer:\n\nResume and cover letter workshops\nInterview preparation sessions\nNetworking events with industry professionals\nInternship and job placement assistance\n\nStudents are also encouraged to take advantage of the online workshops offered by our MSADS program.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -84,11 +84,11 @@
     ]
   },
   {
-    "objectID": "advising.html#professional-development-and-career-resources",
-    "href": "advising.html#professional-development-and-career-resources",
+    "objectID": "advising.html#newsletter",
+    "href": "advising.html#newsletter",
     "title": "Advising",
-    "section": "4 Professional Development and Career Resources",
-    "text": "4 Professional Development and Career Resources\nThe MSDS program at the University of Chicago is designed not only to provide strong academic training, but also to prepare students for successful careers in industry, academia, and public sector roles.\n\n4.1 Internships and Industry Collaborations\nStudents are encouraged to pursue internships during their studies. The program maintains partnerships with industry collaborators across technology, finance, consulting, healthcare, and nonprofit sectors. Internship opportunities may be shared through: - DSI newsletters and job boards - Career fairs and employer information sessions - Alumni referrals and faculty networks\n\n\n4.2 Networking Events and Career Fairs\nThe University and DSI host multiple events throughout the year to connect students with professionals, including: - Employer Meet & Greets - The Data Science Career Fair - UChicagoGRAD career expos - Women in Data Science (WiDS) conference and events\n\n\n4.3 Alumni Network Engagement\nStudents benefit from an active alumni network that offers: - Career panels and mentorship programs - Alumni-hosted events and webinars - Access to alumni in leadership positions across data science domains\nStudents are encouraged to leverage these resources to build professional connections and explore career pathways aligned with their interests and skills.",
+    "section": "4 Newsletter",
+    "text": "4 Newsletter\nSubscribe",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -256,7 +256,7 @@
     "href": "computing.html",
     "title": "Computing and Facilities",
     "section": "",
-    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.\n\n\n\n\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.\n\n\n\n\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.\n\n\n\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.\n\n\n\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
+    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -264,11 +264,47 @@
     ]
   },
   {
-    "objectID": "computing.html#computing-and-facilities",
-    "href": "computing.html#computing-and-facilities",
+    "objectID": "computing.html#computing-infrastructure",
+    "href": "computing.html#computing-infrastructure",
     "title": "Computing and Facilities",
-    "section": "",
-    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.\n\n\n\n\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.\n\n\n\n\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.\n\n\n\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.\n\n\n\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
+    "section": "1 Computing Infrastructure",
+    "text": "1 Computing Infrastructure\n\n1.1 Account Setup & Management\nStudents will receive DSI computing accounts upon matriculation, providing access to shared resources, project directories, and software environments.\n\n\n1.2 High-Performance Computing (HPC) Resources\nStudents may request access to the university’s high-performance computing clusters for coursework or research-related tasks. Instructions for requesting access and usage guidelines are available on the DSI intranet or by contacting technical support.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Computing and Facilities"
+    ]
+  },
+  {
+    "objectID": "computing.html#software-and-tools",
+    "href": "computing.html#software-and-tools",
+    "title": "Computing and Facilities",
+    "section": "2 Software and Tools",
+    "text": "2 Software and Tools\nStudents have access to a suite of software tools for data science including (but not limited to): - Python and R - JupyterHub and GitHub - Docker and VS Code - Licensed statistical and ML packages (e.g., SAS, Stata, MATLAB, PyTorch, TensorFlow)\nSoftware availability may depend on licensing agreements; additional tools can be requested through the support team.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Computing and Facilities"
+    ]
+  },
+  {
+    "objectID": "computing.html#facilities-and-lab-spaces",
+    "href": "computing.html#facilities-and-lab-spaces",
+    "title": "Computing and Facilities",
+    "section": "3 Facilities and Lab Spaces",
+    "text": "3 Facilities and Lab Spaces\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Computing and Facilities"
+    ]
+  },
+  {
+    "objectID": "computing.html#campus-map-and-building-locations",
+    "href": "computing.html#campus-map-and-building-locations",
+    "title": "Computing and Facilities",
+    "section": "4 Campus Map and Building Locations",
+    "text": "4 Campus Map and Building Locations\nDSI spaces are primarily located in the John Crerar Library building. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -556,7 +592,7 @@
     "href": "wellness.html#title-ix-office",
     "title": "Wellness",
     "section": "3 Title IX Office",
-    "text": "3 Title IX Office",
+    "text": "3 Title IX Office\nUniversity of Chicago is a devoted community where every individual is respected, valued as autonomous, and treated equitably, without bias based on irrelevant personal characteristics.\nThe University is firmly committed to preventing, addressing, and, when necessary, disciplining instances of unlawful sexual harassment.\nWe encourage anyone who believes they have experienced sexual misconduct to seek support, access medical care if needed, and report the incident to the Title IX Coordinator for the University as soon as possible.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -642,7 +678,7 @@
     "href": "contacts.html#msds-program-director",
     "title": "Contacts",
     "section": "1 MSDS Program Director",
-    "text": "1 MSDS Program Director\nEdwin Lo, Ph.D.\nEmail: edwinlo@uchicago.edu\nPhone: 773.887.2996\nOffice: Ryerson Lab 257C\n1100 E 58th ST, Chicago, IL\nAppointments: edwinlo.youcanbook.me/\n\nProvides academic leadership and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.",
+    "text": "1 MSDS Program Director\nEdwin Lo, Ph.D.\nEmail: edwinlo@uchicago.edu\nPhone: 773.887.2996\nOffice: Ryerson Lab 257C, 1100 E 58th ST, Chicago, IL\nAppointments: edwinlo.youcanbook.me/\n\nProvides academic leadership and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.",
     "crumbs": [
       "Home",
       "Completion and Beyond",
@@ -654,7 +690,7 @@
     "href": "contacts.html#program-administrator",
     "title": "Contacts",
     "section": "2 Program Administrator",
-    "text": "2 Program Administrator\nKen Kritikos, M.Ed.\nEmail: kkritikos34@uchicago.edu\nPhone: 773.834.2236\nOffice: Ryerson Lab 257B\n1100 E 58th ST, Chicago, IL\nAppointments: kkritikos34.youcanbook.me/\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.",
+    "text": "2 Program Administrator\nKen Kritikos, M.Ed.\nEmail: kkritikos34@uchicago.edu\nPhone: 773.834.2236\nOffice: Ryerson Lab 257B, 1100 E 58th ST, Chicago, IL\nAppointments: kkritikos34.youcanbook.me/\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.",
     "crumbs": [
       "Home",
       "Completion and Beyond",
