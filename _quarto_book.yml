@@ -9,22 +9,37 @@ book:
   date: "Last Updated: April 28, 2025"
   chapters:
     - index.md
-    - introduction.qmd
-    - calendar.qmd
-    - structure.qmd
-    - courses.qmd
-    - research.qmd
-    - policies.qmd
-    - conduct.qmd
-    - scholarship.qmd
-    - advising.qmd
-    - computing.qmd
-    - wellness.qmd
-    - international.qmd
-    - graduation.qmd
-    - contacts.qmd
-    - faqs.qmd
-    - glossary.qmd
+
+    - part: "Program Overview"
+      page: true
+      chapters:
+        - introduction.qmd
+        - calendar.qmd
+        - structure.qmd
+        - courses.qmd
+        - research.qmd
+
+    - part: "Policies and Conduct"
+      page: true
+      chapters:
+        - policies.qmd
+        - conduct.qmd
+        - scholarship.qmd
+
+    - part: "Resources and Support"
+      page: true
+      chapters:
+        - advising.qmd
+        - computing.qmd
+        - wellness.qmd
+        - international.qmd
+        - graduation.qmd
+
+    - part: "Appendix"
+      page: true
+      chapters:
+        - contacts.qmd
+        - glossary.qmd
 
 format:
   pdf:
