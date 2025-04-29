@@ -39,12 +39,12 @@ website:
           - computing.qmd
           - wellness.qmd
           - international.qmd
-      - section: "Completion and Beyond"
-        contents:
           - graduation.qmd
+      - section: "Appendix"
+        contents:
           - contacts.qmd
           - faqs.qmd
-          - appendix.qmd
+          - glossary.qmd
 
 format:
   html:

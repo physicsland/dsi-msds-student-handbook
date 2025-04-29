@@ -24,7 +24,7 @@ book:
     - graduation.qmd
     - contacts.qmd
     - faqs.qmd
-    - appendix.qmd
+    - glossary.qmd
 
 format:
   pdf:

@@ -23,7 +23,7 @@ Details about regalia, ticketing, and scheduling are provided by the Office of t
 
 ## For International Students
 
-International students may need to apply for work authorization if they decide to seek employment in the US after graduation. The OPT application information can be found in the [Resources and Support > International Students](international.qmd) section. 
+International students may need to apply for work authorization if they decide to seek employment in the US after graduation. The OPT application information can be found in the [International Students](international.qmd) section. 
 
 ## Alumni Engagement Opportunities
 
