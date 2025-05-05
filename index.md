@@ -2,7 +2,7 @@
 title: "Master of Science in Data Science (MSDS)" 
 subtitle: "Student Handbook 2025"
 author: "Data Science Institute (DSI), University of Chicago"
-date: "Last Updated: April 28, 2025"
+date: "Last Updated: May 5, 2025"
 format: pdf
   # pdf:
   #   number-sections: false
@@ -13,7 +13,7 @@ title-block-banner: true
 ---
 
 **In Development Mode. Unofficial.**   
-_Last Updated: 2025-04-28_  
+_Last Updated: 2025-05-05_  
 
 ---
 

@@ -34,23 +34,24 @@ Refer to the [University’s Academic Integrity Policy](https://studentmanual.uc
 
 Students should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student to be placed on Academic Probation:
 
-- Cumulative GPA below 3.0
-- Receives one or more letter grade below 'C-' in a quarter
+- Cumulative GPA, all courses, below 3.0
+- Cumulative GPA, MSDS core plus elective courses, below 3.3
+- Receives one or more letter grades below 'C-' in a quarter
 - Receives two or more Withdrawals 'W', Incompletes 'I', or blank grades in a single quarter
 - Violate the academic honesty code 
 
-A second time the student is placed under probation will be removed from the program.
+Students on probation cannot take more than 300 units of credits in the quarter. A second time the student is placed under probation will be dismissed from the program.
 
 
 ## Student Concerns and Grievances
 
 Should there be any concerns or disputes regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to address should be: 
 
-- **Instructor**
+- **Instructor** if it is pertaining to a course.
 - **Chair** of the program/department, if applicable.
-- **MSDS Director** Edwin Lo
-- **DSI Director** Dan Nicolae
-- **PSD Dean of Students** Bahareh Lampert
+- **MSDS Director** 
+- **DSI Director** 
+- **PSD Dean of Students** 
 
 
 

@@ -11,14 +11,20 @@ The MSDS Director is available to assist with course selection, program requirem
 
 ## Career Services
 
-Students have access to career services via [UChicagoGRAD](https://grad.uchicago.edu/career-development/) that offer:
+There are three main offices offering career service advising to our MSDS students: 
+
+- [UChicagoGRAD](https://grad.uchicago.edu/career-development/)
+- [PSD Career Service](https://physicalsciences.uchicago.edu/current-students/career-services/)
+- [DSI MSADS Career Service](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) (online workshops are available to our MSDS students)
+
+They provide a combinations of:  
 
 - Resume and cover letter workshops
 - Interview preparation sessions
 - Networking events with industry professionals
 - Internship and job placement assistance
 
-Students are also encouraged to take advantage of the online workshops offered by our MSADS program.  
+Students are encouraged to take advantage of these Career Service opportunites early on, not just close to graduation. A lot of the skills learned through these take time to develope and improve. The skills are also very helpful with looking for research opportunities and internships, which happens early in the program, long before your graduation.   
 
 
 ## Newsletter and Calendar

@@ -13,7 +13,7 @@ The program is typically completed in one to two academic years (three quarters:
 
 Students must complete a total of **9 core and elective courses**, plus **3 foundational courses** as follows:
 
-- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses.  If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn.  
+- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses.  If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn, or during the beginning of the Autumn quarter if the course is not offered in the summer.  
 - **Core Courses (5 courses)**: These delve into key data science techniques, methodologies, and tools.
   * DATA 30100 Introduction to Data Science
   * DATA 31500 Data Interaction
@@ -38,8 +38,8 @@ Students are encouraged to:
 
 To graduate, students must:  
 
-- Successfully complete all 9 required courses. 
-- Maintain a minimum cumulative **GPA of 3.0**. 
+- Successfully complete all 9 required courses (core plus electives). 
+- Maintain a minimum cumulative **GPA of 3.3** for the **nine core plus elective courses**. 
 - Fulfill the **research project requirement**. (See [Research Project Requirement](research.qmd)) 
 
 ## Enrollment Status
