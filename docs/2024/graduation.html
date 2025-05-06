@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -94,17 +95,6 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-versions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Versions</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-versions">    
-        <li>
-    <a class="dropdown-item" href="./">
- <span class="dropdown-text">2024</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -339,6 +329,26 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+document.addEventListener("DOMContentLoaded", function() {
+  // Find the placeholder element
+  var versionMenu = document.getElementById("version-menu");
+
+  // Defensive check: only continue if the placeholder exists
+  if (!versionMenu) return;
+
+  // Inject the dropdown items
+  versionMenu.innerHTML = `
+      <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+              Versions
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
+              <li><a class="dropdown-item" href="./2024/">2024</a></li>
+          </ul>
+      </div>
+  `;
+});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

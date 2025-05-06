@@ -9,12 +9,7 @@ website:
       - href: index.qmd
         text: Home
     right:
-      - text: "Versions"
-        menu:
-          - text: "2025"
-            href: /
-          - text: "2024"
-            href: /2024/
+      - id: version-menu
 
   sidebar:
     style: floating
@@ -51,6 +46,9 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
+    css: 
+      - styles.css
+      - css/version-menu.css
     toc: true
     number-sections: true
+    include-after-body: js/version-menu.js
