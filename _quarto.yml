@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
     right:
-      - id: version-menu
+      - text: "Versions"
+        id: version-menu
 
   sidebar:
     style: floating
