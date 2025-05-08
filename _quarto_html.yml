@@ -45,6 +45,9 @@ website:
 resources:
   - assets/js/version-menu.js
 
+meta:
+  version: "2025"
+
 format:
   html:
     theme:
@@ -60,6 +63,5 @@ format:
     # include-in-header: assets/js/version-menu.js
     include-before-body: assets/js/version-menu.js
     # include-after-body: assets/js/version-menu.js
-
-meta:
-  version: "2025"
+    include-in-header: 
+      text: '<meta name="version" content="{{< meta version >}}">'
