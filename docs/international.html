@@ -325,13 +325,15 @@ if (versionMenu) {
 }
 
 // --------------------------
-// 2. Extract year from meta tag
+// 2. Extract version from meta tag
 // --------------------------
 
-var year = 'Unknown';
-var dateMeta = document.querySelector('meta[name="dcterms.date"]');
-if (dateMeta) {
-    year = dateMeta.content.slice(0, 4);
+var version = 'Unknown';
+var versionMeta = document.querySelector('meta[name="version"]');
+if (versionMeta) {
+    version = versionMeta.content;
+} else {
+    version = 'Unknown';
 }
 
 // --------------------------
@@ -341,7 +343,7 @@ if (dateMeta) {
 var titleEl = document.querySelector('.navbar-title');
 if (titleEl) {
     var versionBadge = document.createElement('span');
-    versionBadge.textContent = ' ' + year;
+    versionBadge.textContent = ' ' + version;
     versionBadge.className = 'badge bg-secondary';
     titleEl.appendChild(versionBadge);
 }
@@ -354,7 +356,7 @@ var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
 if (rightNav) {
     var li = document.createElement('li');
     li.className = 'nav-item';
-    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + version + '</strong></span>';
     rightNav.appendChild(li);
 }
 
