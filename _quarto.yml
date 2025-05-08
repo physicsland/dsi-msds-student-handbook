@@ -49,7 +49,7 @@ format:
     css: 
       - styles.css
       - css/version-menu.css
-    js:
+    javascript:
       - js/version-menu.js
     toc: true
     number-sections: true
