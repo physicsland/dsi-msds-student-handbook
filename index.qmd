@@ -19,13 +19,13 @@ _Last Updated: 2025-05-08_
 
 ### Select a Handbook Version
 
-To change to a different year/version of your matriculation, please use the dropdown menu on the upper right. This is the 2025 Autumn matriculation version.  
+To change to a different year/version of your matriculation, please use the dropdown menu on the top navigation bar above. This is the 2025 Autumn matriculation version.  
 
 ---
 
 ### 📥 Download the Handbook
 
-You can also download this full handbook as a PDF:  
+You can also download the full handbook as a PDF:  
 [**Download the 2025 MSDS Student Handbook**](assets/pdfs/dsi_msds_handbook_2025a.pdf){.btn .btn-primary}
 
 The University of Chicago also has a <a href="https://studentmanual.uchicago.edu" target="_blank" rel="noopener noreferrer">UChicago Student Handbook</a> for students across all programs, degrees, and disciplines.

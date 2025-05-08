@@ -64,4 +64,4 @@ format:
     include-before-body: assets/js/version-menu.js
     # include-after-body: assets/js/version-menu.js
     include-in-header: 
-      text: '<meta name="version" content="{{< meta version >}}">'
+      text: '<meta name="version" content="2025">'

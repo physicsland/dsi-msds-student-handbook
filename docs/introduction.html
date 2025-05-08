@@ -333,27 +333,15 @@ if (versionMeta) {
 }
 
 // --------------------------
-// 3. Add badge to the title (center)
-// --------------------------
-
-var titleEl = document.querySelector('.navbar-title');
-if (titleEl) {
-    var versionBadge = document.createElement('span');
-    versionBadge.textContent = ' ' + version;
-    versionBadge.className = 'badge bg-secondary';
-    titleEl.appendChild(versionBadge);
-}
-
-// --------------------------
-// 4. Add Version text to right nav
+// 3. Add Version text to right nav
 // --------------------------
 
 var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
 if (rightNav) {
     var li = document.createElement('li');
     li.className = 'nav-item';
-    li.innerHTML = '<span class="nav-link"><strong>Version: ' + version + '</strong></span>';
-    rightNav.appendChild(li);
+    li.innerHTML = '<span class="nav-link">Selected: <span class="badge bg-success">' + version + '</span></span>';
+    rightNav.prepend(li);
 }
 
 });
