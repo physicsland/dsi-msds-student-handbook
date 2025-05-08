@@ -20,8 +20,8 @@ if (versionMenu) {
                 Versions
             </button>
             <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                <li><a class="dropdown-item" href="/">2025 (Current)</a></li>
-                <li><a class="dropdown-item" href="/2024/">2024</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
             </ul>
         </div>
     `;
