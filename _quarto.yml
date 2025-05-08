@@ -42,15 +42,22 @@ website:
           - faqs.qmd
           - glossary.qmd
 
+resources:
+  - assets/js/version-menu.js
+
 format:
   html:
+    # include-in-header: assets/js/version-menu.js
+    include-before-body: assets/js/version-menu.js
+    # include-after-body: assets/js/version-menu.js
     theme:
       - cosmo
       - brand
     css: 
-      - styles.css
-      - css/version-menu.css
-    javascript:
-      - js/version-menu.js
+      - assets/css/styles.css
+      - assets/css/version-menu.css
+    # javascript:
+      # - assets/js/version-menu.js
     toc: true
     number-sections: true
+
