@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Links and Glossary – Master of Science in Data Science (MSDS)</title>
+<title>Academic Calendar and Important Dates – Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,8 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -95,6 +96,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./glossary.html">Links and Glossary</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./calendar.html">Academic Calendar and Important Dates</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -143,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./calendar.html" class="sidebar-item-text sidebar-link">
+  <a href="./calendar.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Academic Calendar and Important Dates</span></a>
   </div>
 </li>
@@ -260,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./glossary.html" class="sidebar-item-text sidebar-link active">
+  <a href="./glossary.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Links and Glossary</span></a>
   </div>
 </li>
@@ -276,17 +282,82 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#important-forms-links" id="toc-important-forms-links" class="nav-link active" data-scroll-target="#important-forms-links"><span class="header-section-number">1</span> Important Forms &amp; Links</a></li>
-  <li><a href="#glossary-of-key-terms" id="toc-glossary-of-key-terms" class="nav-link" data-scroll-target="#glossary-of-key-terms"><span class="header-section-number">2</span> Glossary of Key Terms</a></li>
+  <li><a href="#quarterly-schedule" id="toc-quarterly-schedule" class="nav-link active" data-scroll-target="#quarterly-schedule"><span class="header-section-number">1</span> Quarterly Schedule</a></li>
+  <li><a href="#key-deadlines" id="toc-key-deadlines" class="nav-link" data-scroll-target="#key-deadlines"><span class="header-section-number">2</span> Key Deadlines</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./glossary.html">Links and Glossary</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./calendar.html">Academic Calendar and Important Dates</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Links and Glossary</h1>
+<h1 class="title">Academic Calendar and Important Dates</h1>
 </div>
 
 
@@ -294,6 +365,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -303,56 +380,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="important-forms-links" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="important-forms-links"><span class="header-section-number">1</span> Important Forms &amp; Links</h2>
-<ul>
-<li><a href="https://registrar.uchicago.edu/calendars/academic-calendars/">UChicago Academic Calendar</a></li>
-<li><a href="https://datascience.uchicago.edu/">DSI Website</a></li>
-<li><a href="https://codas.uchicago.edu/academics/ms-data-science/">MSDS Program Page</a></li>
-<li><a href="https://internationalaffairs.uchicago.edu/">Office of International Affairs</a></li>
-<li><a href="https://studentmanual.uchicago.edu/">UChicago Student Manual</a></li>
-</ul>
+<p>The MSDS program follows the University of Chicago’s quarter system. Students typically enroll in the Autumn, Winter, and Spring quarters, with some optional offerings in the Summer quarter.</p>
+<section id="quarterly-schedule" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="quarterly-schedule"><span class="header-section-number">1</span> Quarterly Schedule</h2>
+<p>Students are expected to enroll in three courses per quarter to maintain full-time status. If you are enrolling LESS than OR MORE than three courses (300 units), please contact the program administrator or the program director immediately. International students are required to maintain full-time status (see <a href="https://internationalaffairs.uchicago.edu">Office of International Affairs OIA</a> for details) with some exceptions.</p>
+<p>Important dates for each quarter, such as the start and end of classes, holidays, and exam periods, should be followed per the <a href="https://www.uchicago.edu/en/education-and-research/academic-calendar">University’s academic calendar</a> for the most up-to-date and official information.</p>
 </section>
-<section id="glossary-of-key-terms" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="glossary-of-key-terms"><span class="header-section-number">2</span> Glossary of Key Terms</h2>
+<section id="key-deadlines" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="key-deadlines"><span class="header-section-number">2</span> Key Deadlines</h2>
+<p>Students should adhere to the following important deadlines throughout the academic year:</p>
 <ul>
-<li><strong>DSI</strong>: Data Science Institute<br>
-</li>
-<li><strong>CODAS</strong>: Committee on Data Science<br>
-</li>
-<li><strong>PSD</strong>: Physical Science Division</li>
-<li><strong>OIA</strong>: Office of International Affairs</li>
-<li><strong>CPT</strong>: Curricular Practical Training, degree-based or course-based (F-1 Visa student)<br>
-</li>
-<li><strong>OPT</strong>: Optional Practical Training (F-1 Visa student)<br>
-</li>
-<li><strong>my.UChicago</strong>: University portal for registration, grades, and personal records</li>
+<li><strong>Registration Deadlines</strong>: Follow these <a href="https://registrar.uchicago.edu/calendars/registration-dates-deadlines/">dates set by the university</a> by which students must complete course registration or submit changes. <a href="https://college.uchicago.edu/advising/registration">Registration timeline and procedures</a> can also be found here.</li>
+<li><strong>Course Add/Drop Period</strong>: Time frame in which students may adjust their course enrollments without penalty. Typically, after the first week of class in any quarter, students will need instructors’ approval and submit the request to our program administrator to add/change a course registration.</li>
+<li><strong>Research Proposal Submission</strong>: You should submit your research proposals to the director for approval as soon it is conceptualized. This will ensure the scope and direction of the research is acceptable before you spend time on it. In any case, the proposal should be submitted before the start of the quarter in which you plan to graduate.</li>
+<li><strong>Graduation Application</strong>: Deadline for applying to graduate, generally is the first full week of the quarter you plan to graduate. The official guidelines can be found on <a href="https://physicalsciences.uchicago.edu/current-students/graduation-and-degree-application/">Physcial Science Division PSD weblink</a> here.</li>
 </ul>
 
 
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Graduation and Beyond – Master of Science in Data Science (MSDS)</title>
+<title>Course Descriptions – Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,8 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -95,6 +96,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./advising.html">Resources and Support</a></li><li class="breadcrumb-item"><a href="./graduation.html">Graduation and Beyond</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./courses.html">Course Descriptions</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -155,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./courses.html" class="sidebar-item-text sidebar-link">
+  <a href="./courses.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Course Descriptions</span></a>
   </div>
 </li>
@@ -231,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./graduation.html" class="sidebar-item-text sidebar-link active">
+  <a href="./graduation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Graduation and Beyond</span></a>
   </div>
 </li>
@@ -276,19 +282,83 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#graduation-procedures-and-application" id="toc-graduation-procedures-and-application" class="nav-link active" data-scroll-target="#graduation-procedures-and-application"><span class="header-section-number">1</span> Graduation Procedures and Application</a></li>
-  <li><a href="#commencement-ceremony" id="toc-commencement-ceremony" class="nav-link" data-scroll-target="#commencement-ceremony"><span class="header-section-number">2</span> Commencement Ceremony</a></li>
-  <li><a href="#for-international-students" id="toc-for-international-students" class="nav-link" data-scroll-target="#for-international-students"><span class="header-section-number">3</span> For International Students</a></li>
-  <li><a href="#alumni-engagement-opportunities" id="toc-alumni-engagement-opportunities" class="nav-link" data-scroll-target="#alumni-engagement-opportunities"><span class="header-section-number">4</span> Alumni Engagement Opportunities</a></li>
+  <li><a href="#foundational-courses" id="toc-foundational-courses" class="nav-link active" data-scroll-target="#foundational-courses"><span class="header-section-number">1</span> Foundational Courses</a></li>
+  <li><a href="#core-courses" id="toc-core-courses" class="nav-link" data-scroll-target="#core-courses"><span class="header-section-number">2</span> Core Courses</a></li>
+  <li><a href="#elective-courses" id="toc-elective-courses" class="nav-link" data-scroll-target="#elective-courses"><span class="header-section-number">3</span> Elective Courses</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./advising.html">Resources and Support</a></li><li class="breadcrumb-item"><a href="./graduation.html">Graduation and Beyond</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./courses.html">Course Descriptions</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Graduation and Beyond</h1>
+<h1 class="title">Course Descriptions</h1>
 </div>
 
 
@@ -296,6 +366,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -305,50 +381,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Completing the MSDS program marks a significant achievement. This section outlines the steps for graduation and opportunities available to graduates post-completion.</p>
-<section id="graduation-procedures-and-application" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="graduation-procedures-and-application"><span class="header-section-number">1</span> Graduation Procedures and Application</h2>
-<p>To graduate, students must: - Complete all program requirements, including coursework and the research project. - Maintain a cumulative GPA of 3.0 or higher. - Follow the directions here from PSD to <a href="https://physicalsciences.uchicago.edu/current-students/graduation-and-degree-application/">apply for graduation</a>. The deadline to submit is usually the <strong>end of the first week in the quarter which you plan to graduate</strong>.</p>
-<p>Students should review their academic progress with the MSDS director prior to applying to graduate.</p>
+<p>This section provides an overview of the three main categories of courses in the MSDS program: Foundational, Core, and Elective. Full course descriptions, prerequisites, and schedules can be found on the <a href="https://courses.uchicago.edu/">Course Catalog</a> or the DSI program website.</p>
+<section id="foundational-courses" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="foundational-courses"><span class="header-section-number">1</span> Foundational Courses</h2>
+<p>Foundational courses are designed to equip students with essential concepts and technical skills necessary for success in advanced coursework. Each one is a five-week online course, offered in the late summer before the Autumn quarter starts. The three foundational courses are:</p>
+<ul>
+<li><strong>Computational Foundations</strong> - Python for Data Science: This course in Python starts with an introduction to the Python programming language basic syntax and environment.<br>
+</li>
+<li><strong>Mathematical Foundations</strong> - Advanced Linear Algebra for Machine Learning: This course is focused on the theoretical concepts and real-life applications of linear algebra for machine learning.<br>
+</li>
+<li><strong>Statistical Foundations</strong> - Introduction to Statistical Concepts: This course provides general exposure to basic statistical concepts that are necessary for students to understand the content presented in more advanced courses in the program.</li>
+</ul>
 </section>
-<section id="commencement-ceremony" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="commencement-ceremony"><span class="header-section-number">2</span> Commencement Ceremony</h2>
-<p>Graduating students are eligible to participate in the University of Chicago’s annual Spring or Winter Quarter commencement ceremonies. DSI may also host additional events for MSDS graduates.</p>
-<p>Details about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.</p>
+<section id="core-courses" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="core-courses"><span class="header-section-number">2</span> Core Courses</h2>
+<p>Core courses deepen students’ understanding of key data science methodologies and provide hands-on experience with data systems, algorithms, and models. Sample topics include:</p>
+<ul>
+<li><strong>DATA 30100 Introduction to Data Science</strong> - The course will focus on the analysis of real-life data and on statistical and machine learning methods to perform inference and to predict future outcomes. It will cover topics from the whole data life cycle, ranging from data collection (including wrangling, cleaning, and sampling) to summarizing results through visualization and interpretable summaries, with a focus on extracting meaning, value and information from data. Important aspects in data science, such as bias, fairness, privacy while building algorithms and predictive models, will also be explored.<br>
+</li>
+<li><strong>DATA 31500 Data Interaction</strong> - This course provides core knowledge and technical skills around data interfaces, with an emphasis on visualization and front-end software development. Graduate students in Data Science and Computer Science will engage in project-based learning to become fluent with visualization APIs, computational notebooks, web development, technical writing, and presentation. Topics of interest include data visualization design, spatial and visual reasoning, cartography, interactive articles, data storytelling, data-driven persuasion, uncertainty communication, and model interpretability.<br>
+</li>
+<li><strong>DATA 34100 Introduction to Data Systems and Data Design</strong> - The goal of this course is to teach students: (1) how to think about data , its logical semantics, and what is a query; (2) how to practically handle data, both in relational databases and other more flexible data processing frameworks (e.g.&nbsp;Spark); (3) practical design principles about schema, integrity constraints, etc. (4) an introduction to systems that allows students to understand performance, and helps them become better users.<br>
+</li>
+<li><strong>DATA 35900 Responsible Use of Data and Algorithms</strong> - The goal of this course is to cultivate a societally oriented mindset and to train students critically about the contexts into which data science is deployed. It will be organized around a series of modules consisting of three components: (i) a broad challenge, (ii) mathematical / technical approaches that have been used to address that challenge, and (iii) a real-world case study. The modules will cover a diverse set of topics, including for example: disclosure avoidance (i.e.&nbsp;privacy as in differential privacy); algorithmic fairness; decision making in dynamic and strategic settings; biases in machine learning (e.g.&nbsp;word embeddings or facial recognition); data-driven policymaking; explainable and interpretable AI; and robustness to adversarial behavior.<br>
+</li>
+<li><strong>DATA 37000 Intro to ML and Neural Networks</strong> - This course is an introduction to machine learning (ML) for students to build a solid foundation in modeling and data science. It will cover both unsupervised and supervised ML algorithms, with the latter focusing on both regression and classification models. Python is the programming language of choice for implementing various models to solve complex problems across multiple domains. The course will also introduce basic neural network architectures, including Single-Layer Perceptron (SLP), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN). Students will apply these techniques in contexts where they are most effective. A strong understanding of linear algebra, multivariable calculus, and statistics/probability theory is expected. Python coding assignments and projects will be integral to the course.<br>
+</li>
+<li><strong>DATA 37711 Foundations of Machine Learning and AI - Part I</strong> - This course is an introduction to machine learning targeted at students who want a deep understanding of the subject. Topics include modern approaches to supervised learning, unsupervised learning, and the use of machine learning in estimating real-world effects. In principle, no previous exposure to machine learning is required. However, students are expected to have mathematical maturity at the level of an advanced undergraduate, including being comfortable with linear algebra, multivariate calculus, and (non-measure theoretic) statistics and probability. Assignments include programming in python (and pytorch).</li>
+</ul>
 </section>
-<section id="for-international-students" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="for-international-students"><span class="header-section-number">3</span> For International Students</h2>
-<p>International students may need to apply for work authorization if they decide to seek employment in the US after graduation. The OPT application information can be found in the <a href="./international.html">International Students</a> section.</p>
-</section>
-<section id="alumni-engagement-opportunities" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="alumni-engagement-opportunities"><span class="header-section-number">4</span> Alumni Engagement Opportunities</h2>
-<p>Graduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include: - Continued access to career services - Invitations to alumni networking events - Participation in mentorship programs and industry panels</p>
-<p>Alumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.</p>
+<section id="elective-courses" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="elective-courses"><span class="header-section-number">3</span> Elective Courses</h2>
+<p>Elective courses allow students to explore specialized domains and applications of data science. These may be selected from offerings within the Data Science Institute or other departments (e.g., Computer Science, Statistics, Public Policy). Example DATA electives are listed below. A list of other courses offered by other departments/programs can be also found in <a href="https://docs.google.com/spreadsheets/d/1eENLYWQYJPX6m-vww3kfE9AAozu4iQzfDXcJ5wpIg8w/edit?gid=1407004632#gid=1407004632">this spreadsheet</a>. Contact the program director for other data-related courses that might be eligible. Students should consult with their advisors when selecting electives to ensure they align with career goals and satisfy degree requirements.</p>
+<ul>
+<li><strong>DATA 30120 Technical Presentation</strong> - This course is intended for PhD students in CS and Data Science. This seminar will focus on giving technical presentations, emphasizing presenting results at a conference or workshop. We will cover topics such as structuring and designing talks, audience identification, setting context, introductions, body language, pacing, slideshow visualizations, explaining experiments and results, conclusions, and other general tips. Students will be expected to give short snippets of talks and provide active feedback on others.<br>
+</li>
+<li><strong>DATA 30332 Thinking with Deep Learning for Complex Social &amp; Cultural Data Analysis</strong> - A deluge of digital content is generated daily by web-based platforms and sensors that capture digital traces of human communication and connection, and complex states of society, culture, economy, and the world. Emerging deep learning methods enable the integration of these complex data into unified social and cultural “spaces” that enable new answers to classic social and cultural questions, and also pose novel questions. From the perspective of deep learning, everything can be viewed as data-novels, field notes, photographs, lists of transactions, networks of interaction, theories, epistemic styles-and our treatment examines how to configure deep learning architectures and multi-modal data pipelines to improve the capacity of representations, the accuracy of complex predictions, and the relevance of insights to substantial social and cultural questions. This class is for anyone wishing to analyse textual, network, image or arbitrary structured and unstructured data, especially in concert with one another to solve complex social and cultural analysis problems (e.g., characterize a culture; predict next year’s ideology).<br>
+</li>
+<li><strong>DATA 33221 Advanced Topics in Law and Computing</strong> - This interdisciplinary seminar will bring together instructors and graduate students from Computer Science / Data Sciences and the Law School. The seminar’s focus will be on topics where law and policy intersect with computer science. Such topics may include cryptography and encryption; electronic surveillance and criminal procedure; the Computer Fraud &amp; Abuse Act; the law governing data breaches; redistricting and the US Census; deep fakes; GDRP, Europe’s Digital Services Act and the CCPA; and international data transfers. Students will be evaluated on the basis of short bi-weekly reaction papers, class participation based on weekly assigned reading, and team projects that pair law students with computer and data scientists.<br>
+</li>
+<li><strong>DATA 34200 Data Engineering and Scalable Computing</strong> - This course covers the principles and practices of managing and processing data at scale. Students will learn about distributed systems, cloud computing, and big data technologies. Topics include data storage architectures, data catalogs and governance, distributed computing frameworks like Apache Spark, streaming data processing, and data transformation pipelines. The course will provide hands-on experience with state-of-the-art tools and techniques for building end-to-end data engineering solutions to support large-scale data science, analytics and AI applications.<br>
+</li>
+<li><strong>DATA 35422 Machine Learning for Computer Systems</strong> - This course will cover topics at the intersection of machine learning and systems, with a focus on applications of machine learning to computer systems. Topics covered will include applications of machine learning models to security, performance analysis, and prediction problems in systems; data preparation, feature selection, and feature extraction; design, development, and evaluation of machine learning models and pipelines; fairness, interpretability, and explainability of machine learning models; and testing and debugging of machine learning models. The topic of machine learning for computer systems is broad. Given the expertise of the instructor, many of the examples this term will focus on applications to computer networking. Yet, many of these principles apply broadly, across computer systems. You can and should think of this course as a practical hands-on introduction to machine learning models and concepts that will allow you to apply these models in practice. We’ll focus on examples from networking, but you will walk away from the course with a good understanding of how to apply machine learning models to real-world datasets, how to use machine learning to help computer systems operate better, and the practical challenges with deploying machine learning models in practice.<br>
+</li>
+<li><strong>DATA 37100 Introduction to AI: Deep Learning and GAI</strong> - Artificial Intelligence is transforming industries and daily life, permeating almost every aspect of modern society. This course builds on technical knowledge from previous foundations in Machine Learning and Neural Networks to provide a deep understanding of current AI platforms. Emphasizing hands-on experience in Generative Artificial Intelligence, students will learn to implement and train advanced AI models, including but not limited to transformers, diffusion models, and Large Language Models (LLMs). Additionally, the course will critically examine the ethical implications of AI, exploring the benefits, challenges, and potential risks associated with its deployment. Students enrolling in this course should have proficiency in Python programming, and a solid foundation in mathematics (including linear algebra and multivariable calculus) as well as statistics.<br>
+</li>
+<li><strong>DATA 37200 Learning, Decisions, and Limits</strong> - This is a graduate course on theory of machine learning. While ML theory has multiple branches in general, this course is designed to cover basics of online learning, along with basics of reinforcement learning. It aims to establish the foundation for students who are interested in conducting research related to online decision making, learning, and optimization. The course will introduce formal formulations for fundamental problems/models in this space, describe basic algorithmic ideas for solving these models, rigorously discuss performances of these algorithms as well as these problems’ fundamental limits (e.g., minmax/lower bounds). En route, we will develop necessary toolkits for algorithm development and lower bound proofs.<br>
+</li>
+<li><strong>DATA 37400 Nonparametric Inference</strong> - Nonparametric inference is about developing statistical methods and models that make weak assumptions. A typical nonparametric approach estimates a nonlinear function from an infinite dimensional space rather than a linear model from a finite dimensional space. This course gives an introduction to nonparametric inference, with a focus on density estimation, regression, confidence sets, orthogonal functions, random processes, and kernels. The course treats nonparametric methodology and its use, together with theory that explains the statistical properties of the methods.<br>
+</li>
+<li><strong>DATA 37712 Foundations of Machine Learning and AI - Part 2</strong> - Deep generative models have become a staple of modern machine learning research. This course is meant as an introduction to the way generative models are structured and trained: students will learn the mechanics of generative models as well as getting their hands dirty building them. We will discuss open questions for which we lack complete theoretical or empirical answers, with importance placed on analyzing, interpreting, and making arguments from necessarily incomplete empirical evidence. We will have a specific focus on Autoregressive Transformers and their use as Large Language Models (LLMs) but will also touch on Diffusion Models as well as Reinforcement Learning. The goal of this course is to get students to be proficient enough with the inner workings of deep generative models—along with the theoretical and empirical support for their design—to be able to understand and reason about cutting-edge research. This is an advanced machine learning course and assumes a familiarity with basic machine learning concepts (generalization, overfitting, etc.) and techniques (regularization, stochastic gradient descent, etc.).</li>
+<li><strong>DATA 37784 Representation Learning in Machine Learning</strong> - This course is a seminar on representation learning in machine learning. The core questions in this are: how do machine learning systems recover the structure present in real-world data, how can we expose this recovered structure to human analysts, and how does this help us in real-world applications? In this seminar, we will read and discuss papers from the modern research literature on these subjects. Students should have previous exposure to machine learning and deep learning.<br>
+</li>
+<li><strong>DATA 41551 Empirical Bayes</strong> - In an empirical Bayes analysis, we imitate inferences made by an oracle Bayesian with extensive knowledge of the data-generating distribution. Empirical Bayes provides a principled approach for “learning from the experience of others” and is widely used in application domains such as genomics, small-area estimation, economics, and large-scale experimentation. In this graduate topics course, we provide an overview of empirical Bayes. We revisit the original papers that introduced the core ideas and explain how empirical Bayes is applied in practice. We also develop mathematical techniques to study empirical Bayes procedures from a theoretical perspective.</li>
+</ul>
 
 
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

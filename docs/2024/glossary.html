@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Contacts – Master of Science in Data Science (MSDS)</title>
+<title>Links and Glossary – Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,8 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -95,6 +96,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./contacts.html">Contacts</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./glossary.html">Links and Glossary</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -248,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./contacts.html" class="sidebar-item-text sidebar-link active">
+  <a href="./contacts.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Contacts</span></a>
   </div>
 </li>
@@ -260,7 +266,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./glossary.html" class="sidebar-item-text sidebar-link">
+  <a href="./glossary.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Links and Glossary</span></a>
   </div>
 </li>
@@ -276,18 +282,82 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#msds-program-director" id="toc-msds-program-director" class="nav-link active" data-scroll-target="#msds-program-director"><span class="header-section-number">1</span> MSDS Program Director</a></li>
-  <li><a href="#program-administrator" id="toc-program-administrator" class="nav-link" data-scroll-target="#program-administrator"><span class="header-section-number">2</span> Program Administrator</a></li>
-  <li><a href="#others" id="toc-others" class="nav-link" data-scroll-target="#others"><span class="header-section-number">3</span> Others</a></li>
+  <li><a href="#important-forms-links" id="toc-important-forms-links" class="nav-link active" data-scroll-target="#important-forms-links"><span class="header-section-number">1</span> Important Forms &amp; Links</a></li>
+  <li><a href="#glossary-of-key-terms" id="toc-glossary-of-key-terms" class="nav-link" data-scroll-target="#glossary-of-key-terms"><span class="header-section-number">2</span> Glossary of Key Terms</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./contacts.html">Contacts</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./glossary.html">Links and Glossary</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Contacts</h1>
+<h1 class="title">Links and Glossary</h1>
 </div>
 
 
@@ -295,6 +365,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -304,68 +380,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.</p>
-<section id="msds-program-director" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="msds-program-director"><span class="header-section-number">1</span> MSDS Program Director</h2>
-<p><strong>Edwin Lo, Ph.D.</strong><br>
-<strong>Email</strong>: <a href="mailto://edwinlo@uchicago.edu">edwinlo@uchicago.edu</a><br>
-<strong>Phone</strong>: 773.887.2996<br>
-<strong>Office</strong>: Ryerson Lab 257C, 1100 E 58th ST, Chicago, IL<br>
-<strong>Appointments</strong>: <a href="https://edwinlo.youcanbook.me/" target="_blank" rel="noopener noreferrer">edwinlo.youcanbook.me/</a></p>
+<section id="important-forms-links" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="important-forms-links"><span class="header-section-number">1</span> Important Forms &amp; Links</h2>
 <ul>
-<li>Provides academic advising and final approval for research projects, petitions, and policy exceptions.</li>
-<li>Meets with students upon request or referral.</li>
+<li><a href="https://registrar.uchicago.edu/calendars/academic-calendars/">UChicago Academic Calendar</a></li>
+<li><a href="https://datascience.uchicago.edu/">DSI Website</a></li>
+<li><a href="https://codas.uchicago.edu/academics/ms-data-science/">MSDS Program Page</a></li>
+<li><a href="https://internationalaffairs.uchicago.edu/">Office of International Affairs</a></li>
+<li><a href="https://studentmanual.uchicago.edu/">UChicago Student Manual</a></li>
 </ul>
 </section>
-<section id="program-administrator" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="program-administrator"><span class="header-section-number">2</span> Program Administrator</h2>
-<p><strong>Ken Kritikos, M.Ed.</strong><br>
-<strong>Email</strong>: <a href="mailto://kkritikos34@uchicago.edu">kkritikos34@uchicago.edu</a><br>
-<strong>Phone</strong>: 773.834.2236<br>
-<strong>Office</strong>: Ryerson Lab 257D, 1100 E 58th ST, Chicago, IL<br>
-<strong>Appointments</strong>: <a href="https://kkritikos34.youcanbook.me/" target="_blank" rel="noopener noreferrer">kkritikos34.youcanbook.me/</a></p>
+<section id="glossary-of-key-terms" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="glossary-of-key-terms"><span class="header-section-number">2</span> Glossary of Key Terms</h2>
 <ul>
-<li>Primary point of contact for course registration issues, forms, and day-to-day administrative logistics.</li>
-<li>Coordinates orientation, graduation, and program events.</li>
-</ul>
-</section>
-<section id="others" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="others"><span class="header-section-number">3</span> Others</h2>
-<ul>
-<li><a href="https://safety-security.uchicago.edu/about/police">Community Safety - UChicago Police</a> Campus phone: 123, Off-campus phone: 773.702.8181<br>
+<li><strong>DSI</strong>: Data Science Institute<br>
 </li>
-<li><a href="https://www.uchicago.edu/contact-us">University general info</a> 773.702.1234<br>
+<li><strong>CODAS</strong>: Committee on Data Science<br>
 </li>
-<li><a href="https://its.uchicago.edu/support/">University IT support</a> 773.702.5800</li>
-<li><a href="https://physicalsciences.uchicago.edu/about/contact-us/">Physical Science Division (PSD) general info</a> 773.702.7950<br>
+<li><strong>PSD</strong>: Physical Science Division</li>
+<li><strong>OIA</strong>: Office of International Affairs</li>
+<li><strong>CPT</strong>: Curricular Practical Training, degree-based or course-based (F-1 Visa student)<br>
 </li>
-<li><a href="https://datascience.uchicago.edu/about/">Data Science Institute general info</a> 773.702.7612</li>
+<li><strong>OPT</strong>: Optional Practical Training (F-1 Visa student)<br>
+</li>
+<li><strong>my.UChicago</strong>: University portal for registration, grades, and personal records</li>
 </ul>
 
 
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

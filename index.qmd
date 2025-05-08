@@ -2,7 +2,7 @@
 title: "Master of Science in Data Science (MSDS)" 
 subtitle: "Student Handbook 2025"
 author: "Data Science Institute (DSI), University of Chicago"
-date: "Last Updated: May 5, 2025"
+date: "Last Updated: May 8, 2025"
 format:
   html:
     number-sections: false
@@ -13,7 +13,7 @@ format:
 ### Master's in Data Science (MSDS) - 2025  
 
 **In Development Mode. Unofficial.**   
-_Last Updated: 2025-05-05_  
+_Last Updated: 2025-05-08_  
 
 ---
 
@@ -26,7 +26,7 @@ To change to a different year/version of your matriculation, please use the drop
 ### 📥 Download the Handbook
 
 You can also download this full handbook as a PDF:  
-[**Download the 2024 MSDS Student Handbook**](pdfs/dsi_msds_handbook_2025a.pdf){.btn .btn-primary}
+[**Download the 2025 MSDS Student Handbook**](pdfs/dsi_msds_handbook_2025a.pdf){.btn .btn-primary}
 
 The University of Chicago also has a <a href="https://studentmanual.uchicago.edu" target="_blank" rel="noopener noreferrer">UChicago Student Handbook</a> for students across all programs, degrees, and disciplines.
 

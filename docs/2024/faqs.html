@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Scholarships – Master of Science in Data Science (MSDS)</title>
+<title>Frequently Asked Questions (FAQs) – Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,8 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -95,6 +96,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./policies.html">Policies and Conduct</a></li><li class="breadcrumb-item"><a href="./scholarship.html">Scholarships</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./faqs.html">Frequently Asked Questions (FAQs)</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -190,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./scholarship.html" class="sidebar-item-text sidebar-link active">
+  <a href="./scholarship.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Scholarships</span></a>
   </div>
 </li>
@@ -254,7 +260,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./faqs.html" class="sidebar-item-text sidebar-link">
+  <a href="./faqs.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Frequently Asked Questions (FAQs)</span></a>
   </div>
 </li>
@@ -276,17 +282,83 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#maintaining-a-high-standard" id="toc-maintaining-a-high-standard" class="nav-link active" data-scroll-target="#maintaining-a-high-standard"><span class="header-section-number">1</span> Maintaining a High Standard</a></li>
-  <li><a href="#beyond-the-first-year" id="toc-beyond-the-first-year" class="nav-link" data-scroll-target="#beyond-the-first-year"><span class="header-section-number">2</span> Beyond the First Year</a></li>
+  <li><a href="#enrollment" id="toc-enrollment" class="nav-link active" data-scroll-target="#enrollment"><span class="header-section-number">1</span> Enrollment</a></li>
+  <li><a href="#academic-and-research-requirements" id="toc-academic-and-research-requirements" class="nav-link" data-scroll-target="#academic-and-research-requirements"><span class="header-section-number">2</span> Academic and Research Requirements</a></li>
+  <li><a href="#graduation-and-commencement" id="toc-graduation-and-commencement" class="nav-link" data-scroll-target="#graduation-and-commencement"><span class="header-section-number">3</span> Graduation and Commencement</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./policies.html">Policies and Conduct</a></li><li class="breadcrumb-item"><a href="./scholarship.html">Scholarships</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./contacts.html">Appendix</a></li><li class="breadcrumb-item"><a href="./faqs.html">Frequently Asked Questions (FAQs)</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Scholarships</h1>
+<h1 class="title">Frequently Asked Questions (FAQs)</h1>
 </div>
 
 
@@ -294,6 +366,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -303,39 +381,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>DSI offers merit-based scholarships to some of our admitted MSDS students. Scholarship award are for one year (3 quarters) with the student enrolling full-time, assuming the student takes three or more courses for each quarter (Autumn, Winter, and Spring). Otherwise, the scholarship could be adjusted or revoked.</p>
-<section id="maintaining-a-high-standard" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="maintaining-a-high-standard"><span class="header-section-number">1</span> Maintaining a High Standard</h2>
-<p>Students need to maintain in the previous (one) quarter a 3.0 GPA and all courses earning ‘C’ grade or above to continue receiving the scholarship award. Students under probation will lose the scholarship until the GPA and course grade requirements have been rectified in the following quarter.</p>
+<p>FAQs will be added here throughout the year. These are not considered the official part of the handbook, but rather for convenience to the students as a web resource.</p>
+<section id="enrollment" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="enrollment"><span class="header-section-number">1</span> Enrollment</h2>
+<p><strong>Q: Can I defer my admission?</strong><br>
+A: Admission deferral requests are considered on a case-by-case basis. Contact the MSDS program coordinator for details.</p>
 </section>
-<section id="beyond-the-first-year" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="beyond-the-first-year"><span class="header-section-number">2</span> Beyond the First Year</h2>
-<p>If a student is continuing to complete the program in their second year, they would be eligible for the same scholarship award, on a per-course/unit basis. The annual amount divided by 9 is the scholarship award per course the student will receive, up to three courses per quarter.</p>
+<section id="academic-and-research-requirements" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="academic-and-research-requirements"><span class="header-section-number">2</span> Academic and Research Requirements</h2>
+<p><strong>Q: TBD</strong><br>
+A: TBD.</p>
+</section>
+<section id="graduation-and-commencement" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="graduation-and-commencement"><span class="header-section-number">3</span> Graduation and Commencement</h2>
+<p><strong>Q: Do I need to apply to graduate?</strong><br>
+A: Yes. See “Graduation and Beyond” section.</p>
+<p><strong>Q: Can I participate in the commencement ceremony if I finish early?</strong><br>
+A: The University has Spring and Autumn commencement ceremonies each year.</p>
 
 
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

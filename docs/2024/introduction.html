@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Code of Conduct – Master of Science in Data Science (MSDS)</title>
+<title>Introduction – Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,8 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -95,6 +96,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./policies.html">Policies and Conduct</a></li><li class="breadcrumb-item"><a href="./conduct.html">Code of Conduct</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./introduction.html">Introduction</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -137,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./introduction.html" class="sidebar-item-text sidebar-link">
+  <a href="./introduction.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
@@ -184,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conduct.html" class="sidebar-item-text sidebar-link active">
+  <a href="./conduct.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Code of Conduct</span></a>
   </div>
 </li>
@@ -276,19 +282,83 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#professional-conduct-and-community-standards" id="toc-professional-conduct-and-community-standards" class="nav-link active" data-scroll-target="#professional-conduct-and-community-standards"><span class="header-section-number">1</span> Professional Conduct and Community Standards</a></li>
-  <li><a href="#harassment-and-discrimination-policy" id="toc-harassment-and-discrimination-policy" class="nav-link" data-scroll-target="#harassment-and-discrimination-policy"><span class="header-section-number">2</span> Harassment and Discrimination Policy</a></li>
-  <li><a href="#collaboration-and-ethical-research-practices" id="toc-collaboration-and-ethical-research-practices" class="nav-link" data-scroll-target="#collaboration-and-ethical-research-practices"><span class="header-section-number">3</span> Collaboration and Ethical Research Practices</a></li>
-  <li><a href="#student-responsibility-and-accountability" id="toc-student-responsibility-and-accountability" class="nav-link" data-scroll-target="#student-responsibility-and-accountability"><span class="header-section-number">4</span> Student Responsibility and Accountability</a></li>
+  <li><a href="#welcome-message" id="toc-welcome-message" class="nav-link active" data-scroll-target="#welcome-message"><span class="header-section-number">1</span> Welcome Message</a></li>
+  <li><a href="#about-the-data-science-institute" id="toc-about-the-data-science-institute" class="nav-link" data-scroll-target="#about-the-data-science-institute"><span class="header-section-number">2</span> About the Data Science Institute</a></li>
+  <li><a href="#mission-and-objectives-of-the-msds-program" id="toc-mission-and-objectives-of-the-msds-program" class="nav-link" data-scroll-target="#mission-and-objectives-of-the-msds-program"><span class="header-section-number">3</span> Mission and Objectives of the MSDS Program</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./policies.html">Policies and Conduct</a></li><li class="breadcrumb-item"><a href="./conduct.html">Code of Conduct</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./introduction.html">Introduction</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Code of Conduct</h1>
+<h1 class="title">Introduction</h1>
 </div>
 
 
@@ -296,6 +366,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -305,48 +381,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Students in the MSDS program are expected to conduct themselves in a professional, respectful, and ethical manner at all times. The following policies outline behavioral expectations and community standards.</p>
-<section id="professional-conduct-and-community-standards" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="professional-conduct-and-community-standards"><span class="header-section-number">1</span> Professional Conduct and Community Standards</h2>
-<p>Students are expected to: - Treat peers, faculty, and staff with respect and civility. - Engage in constructive discourse and maintain professionalism in both academic and co-curricular settings. - Demonstrate responsibility and integrity in all academic and research activities.</p>
+<section id="welcome-message" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="welcome-message"><span class="header-section-number">1</span> Welcome Message</h2>
+<p><em>To be provided by the Program Director(s).</em></p>
 </section>
-<section id="harassment-and-discrimination-policy" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="harassment-and-discrimination-policy"><span class="header-section-number">2</span> Harassment and Discrimination Policy</h2>
-<p>The University of Chicago is committed to maintaining a learning environment free from discrimination and harassment. Any behavior that violates this commitment may result in disciplinary action.</p>
-<p>Refer to the <a href="https://harassmentpolicy.uchicago.edu/">University Policy on Harassment, Discrimination, and Sexual Misconduct</a> for more information.</p>
+<section id="about-the-data-science-institute" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="about-the-data-science-institute"><span class="header-section-number">2</span> About the Data Science Institute</h2>
+<p>The <strong>Data Science Institute (DSI)</strong> at the University of Chicago embodies the university’s bold and innovative vision of data science as a distinct and transformative discipline.</p>
+<p>Serving as an intellectual hub, DSI advances these three foundational goals:</p>
+<ul>
+<li><strong>Interdisciplinary Research</strong> — Provide world-class research focused on big data and AI to tackle the most challenging societal and scientific problems.<br>
+</li>
+<li><strong>Outreach and Partnerships</strong> — Foster outreach with partnerships across industry, government, academia, and social impact organizations to effect sustainable and scalable change.<br>
+</li>
+<li><strong>Data Science Education</strong> — Lead a comprehensive educational mission through the Committee on Data Science (CODAS), which grants degrees in BA, BS, MS and PhD in our undergraduate, MSDS, MSADS, and PhD programs.</li>
+</ul>
+<p><a href="https://datascience.uchicago.edu">Visit the DSI Website</a></p>
 </section>
-<section id="collaboration-and-ethical-research-practices" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="collaboration-and-ethical-research-practices"><span class="header-section-number">3</span> Collaboration and Ethical Research Practices</h2>
-<p>While collaborative learning is encouraged, all students must: - Clearly distinguish between collaborative and individual work. - Follow ethical research standards in the collection, analysis, and reporting of data. - Properly cite all sources and acknowledge contributions.</p>
-</section>
-<section id="student-responsibility-and-accountability" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="student-responsibility-and-accountability"><span class="header-section-number">4</span> Student Responsibility and Accountability</h2>
-<p>Students are accountable for: - Understanding and following university and program policies. - Acting as representatives of the Data Science Institute and University of Chicago community. - Reporting violations of conduct policies to appropriate authorities when necessary.</p>
+<section id="mission-and-objectives-of-the-msds-program" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="mission-and-objectives-of-the-msds-program"><span class="header-section-number">3</span> Mission and Objectives of the MSDS Program</h2>
+<p>The <strong>Master of Science in Data Science (MSDS)</strong> program is designed for students aiming to pursue PhD or research careers in data science and related fields.<br>
+The curriculum combines rigorous theoretical foundations with practical applications, offering courses taught by faculty from the Departments of Statistics, Computer Science, and other disciplines across the university.<br>
+<a href="https://codas.uchicago.edu/academics/ms-data-science/">More about the MSDS Program</a></p>
+<p>Key objectives of the MSDS program include:</p>
+<ul>
+<li><p><strong>Interdisciplinary Integration</strong>:<br>
+Equipping students with the ability to apply data science techniques across various fields, fostering collaboration and innovation.</p></li>
+<li><p><strong>Research Excellence</strong>:<br>
+Providing a strong foundation in data science methodologies to prepare students for advanced research and doctoral studies.</p></li>
+<li><p><strong>Ethical Responsibility</strong>:<br>
+Emphasizing the responsible use of data and algorithms, ensuring that graduates are mindful of the societal impacts of their work.</p></li>
+<li><p><strong>Practical Experience</strong>:<br>
+Offering hands-on projects and research opportunities that allow students to apply their knowledge to real-world problems.</p></li>
+</ul>
+<p>Through this comprehensive approach, the MSDS program aims to develop data scientists who are not only technically proficient but also socially conscious and prepared to lead in the evolving landscape of data science.</p>
 
 
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

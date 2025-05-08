@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Computing and Facilities – Master of Science in Data Science (MSDS)</title>
+<title>Code of Conduct – Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,8 +69,8 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
@@ -95,6 +96,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +112,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./advising.html">Resources and Support</a></li><li class="breadcrumb-item"><a href="./computing.html">Computing and Facilities</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./policies.html">Policies and Conduct</a></li><li class="breadcrumb-item"><a href="./conduct.html">Code of Conduct</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -184,7 +190,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./conduct.html" class="sidebar-item-text sidebar-link">
+  <a href="./conduct.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Code of Conduct</span></a>
   </div>
 </li>
@@ -213,7 +219,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./computing.html" class="sidebar-item-text sidebar-link active">
+  <a href="./computing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Computing and Facilities</span></a>
   </div>
 </li>
@@ -276,19 +282,84 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#computational-resources" id="toc-computational-resources" class="nav-link active" data-scroll-target="#computational-resources"><span class="header-section-number">1</span> Computational Resources</a></li>
-  <li><a href="#dsi-computing-clusters" id="toc-dsi-computing-clusters" class="nav-link" data-scroll-target="#dsi-computing-clusters"><span class="header-section-number">2</span> DSI Computing Clusters</a></li>
-  <li><a href="#facilities-and-lab-spaces" id="toc-facilities-and-lab-spaces" class="nav-link" data-scroll-target="#facilities-and-lab-spaces"><span class="header-section-number">3</span> Facilities and Lab Spaces</a></li>
-  <li><a href="#campus-map-and-building-locations" id="toc-campus-map-and-building-locations" class="nav-link" data-scroll-target="#campus-map-and-building-locations"><span class="header-section-number">4</span> Campus Map and Building Locations</a></li>
+  <li><a href="#professional-conduct-and-community-standards" id="toc-professional-conduct-and-community-standards" class="nav-link active" data-scroll-target="#professional-conduct-and-community-standards"><span class="header-section-number">1</span> Professional Conduct and Community Standards</a></li>
+  <li><a href="#harassment-and-discrimination-policy" id="toc-harassment-and-discrimination-policy" class="nav-link" data-scroll-target="#harassment-and-discrimination-policy"><span class="header-section-number">2</span> Harassment and Discrimination Policy</a></li>
+  <li><a href="#collaboration-and-ethical-research-practices" id="toc-collaboration-and-ethical-research-practices" class="nav-link" data-scroll-target="#collaboration-and-ethical-research-practices"><span class="header-section-number">3</span> Collaboration and Ethical Research Practices</a></li>
+  <li><a href="#student-responsibility-and-accountability" id="toc-student-responsibility-and-accountability" class="nav-link" data-scroll-target="#student-responsibility-and-accountability"><span class="header-section-number">4</span> Student Responsibility and Accountability</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./advising.html">Resources and Support</a></li><li class="breadcrumb-item"><a href="./computing.html">Computing and Facilities</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./policies.html">Policies and Conduct</a></li><li class="breadcrumb-item"><a href="./conduct.html">Code of Conduct</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Computing and Facilities</h1>
+<h1 class="title">Code of Conduct</h1>
 </div>
 
 
@@ -296,6 +367,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -305,52 +382,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.</p>
-<section id="computational-resources" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="computational-resources"><span class="header-section-number">1</span> Computational Resources</h2>
-<p>The University provides robust technical support:</p>
-<ul>
-<li><a href="https://its.uchicago.edu/students/">Software licenses from IT</a> (Google G Suite, MS Office 365, Box, Zoom, and more)</li>
-<li><a href="https://its.uchicago.edu/support/">IT support services</a> for troubleshooting and assistance</li>
-</ul>
+<p>Students in the MSDS program are expected to conduct themselves in a professional, respectful, and ethical manner at all times. The following policies outline behavioral expectations and community standards.</p>
+<section id="professional-conduct-and-community-standards" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="professional-conduct-and-community-standards"><span class="header-section-number">1</span> Professional Conduct and Community Standards</h2>
+<p>Students are expected to: - Treat peers, faculty, and staff with respect and civility. - Engage in constructive discourse and maintain professionalism in both academic and co-curricular settings. - Demonstrate responsibility and integrity in all academic and research activities.</p>
 </section>
-<section id="dsi-computing-clusters" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="dsi-computing-clusters"><span class="header-section-number">2</span> DSI Computing Clusters</h2>
-<p>Students will have access to the <a href="https://github.com/dsi-clinic/the-clinic/blob/main/tutorials/ssh_github_cluster.md">DSI computing clusters</a> upon matriculation.</p>
-<p>Bennett Hunter is our Senior System Administrator at DSI in charge of the cluster.</p>
+<section id="harassment-and-discrimination-policy" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="harassment-and-discrimination-policy"><span class="header-section-number">2</span> Harassment and Discrimination Policy</h2>
+<p>The University of Chicago is committed to maintaining a learning environment free from discrimination and harassment. Any behavior that violates this commitment may result in disciplinary action.</p>
+<p>Refer to the <a href="https://harassmentpolicy.uchicago.edu/">University Policy on Harassment, Discrimination, and Sexual Misconduct</a> for more information.</p>
 </section>
-<section id="facilities-and-lab-spaces" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="facilities-and-lab-spaces"><span class="header-section-number">3</span> Facilities and Lab Spaces</h2>
-<p>Students are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.</p>
+<section id="collaboration-and-ethical-research-practices" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="collaboration-and-ethical-research-practices"><span class="header-section-number">3</span> Collaboration and Ethical Research Practices</h2>
+<p>While collaborative learning is encouraged, all students must: - Clearly distinguish between collaborative and individual work. - Follow ethical research standards in the collection, analysis, and reporting of data. - Properly cite all sources and acknowledge contributions.</p>
 </section>
-<section id="campus-map-and-building-locations" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="campus-map-and-building-locations"><span class="header-section-number">4</span> Campus Map and Building Locations</h2>
-<p>DSI spaces are primarily located in the John Crerar Library building and Ryerson Lab second floor. Students can reference the <a href="https://maps.uchicago.edu">University of Chicago Campus Map</a> to locate classrooms, labs, and computing centers.</p>
+<section id="student-responsibility-and-accountability" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="student-responsibility-and-accountability"><span class="header-section-number">4</span> Student Responsibility and Accountability</h2>
+<p>Students are accountable for: - Understanding and following university and program policies. - Acting as representatives of the Data Science Institute and University of Chicago community. - Reporting violations of conduct policies to appropriate authorities when necessary.</p>
 
 
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

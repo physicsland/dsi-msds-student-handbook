@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Data Science Institute (DSI), University of Chicago">
+<meta name="dcterms.date" content="2025-05-08">
 
-<title>Program Structure &amp; Degree Requirements – Master of Science in Data Science (MSDS)</title>
+<title>Master of Science in Data Science (MSDS)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,11 +70,11 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="css/version-menu.css">
+<link rel="stylesheet" href="assets/css/styles.css">
+<link rel="stylesheet" href="assets/css/version-menu.css">
 </head>
 
-<body class="nav-sidebar floating nav-fixed">
+<body class="nav-sidebar floating nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -90,11 +92,16 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <span class="nav-link">
+<span class="menu-text">Versions</span>
+    </span>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -106,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./structure.html">Program Structure &amp; Degree Requirements</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Master of Science in Data Science (MSDS)</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -149,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./structure.html" class="sidebar-item-text sidebar-link active">
+  <a href="./structure.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Program Structure &amp; Degree Requirements</span></a>
   </div>
 </li>
@@ -271,32 +278,98 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#program-duration" id="toc-program-duration" class="nav-link active" data-scroll-target="#program-duration"><span class="header-section-number">1</span> Program Duration</a></li>
-  <li><a href="#curriculum-overview" id="toc-curriculum-overview" class="nav-link" data-scroll-target="#curriculum-overview"><span class="header-section-number">2</span> Curriculum Overview</a></li>
-  <li><a href="#course-selection-guidelines" id="toc-course-selection-guidelines" class="nav-link" data-scroll-target="#course-selection-guidelines"><span class="header-section-number">3</span> Course Selection Guidelines</a></li>
-  <li><a href="#degree-completion-requirements" id="toc-degree-completion-requirements" class="nav-link" data-scroll-target="#degree-completion-requirements"><span class="header-section-number">4</span> Degree Completion Requirements</a></li>
-  <li><a href="#enrollment-status" id="toc-enrollment-status" class="nav-link" data-scroll-target="#enrollment-status"><span class="header-section-number">5</span> Enrollment Status</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<script>
+document.addEventListener("DOMContentLoaded", function() {
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./introduction.html">Program Overview</a></li><li class="breadcrumb-item"><a href="./structure.html">Program Structure &amp; Degree Requirements</a></li></ol></nav>
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
+
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
+
+if (versionMenu) {
+    versionMenu.innerHTML = `
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Versions
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/">2025 (Current)</a></li>
+                <li><a class="dropdown-item" href="/dsi-msds-student-handbook/2024/">2024</a></li>
+            </ul>
+        </div>
+    `;
+}
+
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
+
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
+
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
+});
+</script>
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Program Structure &amp; Degree Requirements</h1>
+<h1 class="title">Master of Science in Data Science (MSDS)</h1>
+<p class="subtitle lead">Student Handbook 2024</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Data Science Institute (DSI), University of Chicago </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 8, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -306,84 +379,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The MSDS program at the University of Chicago is a rigorous, research-oriented program that combines foundational theory with practical applications. Students are required to complete a set of coursework and meet specific academic standards, and to complete a research requirement to earn the degree.</p>
-<section id="program-duration" class="level2" data-number="1">
-<h2 data-number="1" class="anchored" data-anchor-id="program-duration"><span class="header-section-number">1</span> Program Duration</h2>
-<p>The program is typically completed in one to two academic years (three quarters: Autumn, Winter, and Spring). The first year is required to be full-time.</p>
+<section id="data-science-institute-dsi-university-of-chicago" class="level2">
+<h2 class="anchored" data-anchor-id="data-science-institute-dsi-university-of-chicago">Data Science Institute (DSI), University of Chicago</h2>
+<section id="masters-in-data-science-msds---2024" class="level3">
+<h3 class="anchored" data-anchor-id="masters-in-data-science-msds---2024">Master’s in Data Science (MSDS) - 2024</h3>
+<p><strong>In Development Mode. Unofficial.</strong><br>
+<em>Last Updated: 2025-05-08</em></p>
+<hr>
 </section>
-<section id="curriculum-overview" class="level2" data-number="2">
-<h2 data-number="2" class="anchored" data-anchor-id="curriculum-overview"><span class="header-section-number">2</span> Curriculum Overview</h2>
-<p>Students must complete a total of <strong>9 core and elective courses</strong>, plus <strong>3 foundational courses</strong> as follows:</p>
-<ul>
-<li><strong>Foundational Courses (3 courses)</strong>: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn, or during the beginning of the Autumn quarter if the course is not offered in the summer.<br>
-</li>
-<li><strong>Core Courses (5 courses)</strong>: These delve into key data science techniques, methodologies, and tools.
-<ul>
-<li>DATA 30100 Introduction to Data Science</li>
-<li>DATA 31500 Data Interaction</li>
-<li>DATA 34100 Introduction to Data Systems and Data Design</li>
-<li>DATA 35900 Responsible Use of Data and Algorithms</li>
-<li>DATA 37000 Introduction to ML and Neural Networks <strong>OR</strong><br>
-DATA 37711 Foundations of Machine Learning and AI - Part I<br>
-</li>
-</ul></li>
-<li><strong>Elective Courses (4 courses)</strong>: Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.
-<ul>
-<li>There is a special <a href="https://physicalsciences.uchicago.edu/current-students/policies/#Registration">PSD policy exception regarding taking Booth School of Business’s courses</a> during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”</li>
-</ul></li>
-</ul>
-<p>More information about the core and elective courses can be found in <a href="https://docs.google.com/spreadsheets/d/1eENLYWQYJPX6m-vww3kfE9AAozu4iQzfDXcJ5wpIg8w/edit?gid=1407004632#gid=1407004632">this spreadsheet</a>.</p>
+<section id="select-a-handbook-version" class="level3">
+<h3 class="anchored" data-anchor-id="select-a-handbook-version">Select a Handbook Version</h3>
+<p>To change to a different year/version of your matriculation, please use the dropdown menu on the upper right. This is the 2024 Autumn matriculation version.</p>
+<hr>
 </section>
-<section id="course-selection-guidelines" class="level2" data-number="3">
-<h2 data-number="3" class="anchored" data-anchor-id="course-selection-guidelines"><span class="header-section-number">3</span> Course Selection Guidelines</h2>
-<p>Students are encouraged to:</p>
-<ul>
-<li>Balance theoretical and applied courses.</li>
-<li>Consider prerequisites when selecting electives.</li>
-<li>Seek guidance from research mentors or academic advisors on sequencing and relevance to career objectives.</li>
-</ul>
+<section id="download-the-handbook" class="level3">
+<h3 class="anchored" data-anchor-id="download-the-handbook">📥 Download the Handbook</h3>
+<p>You can also download this full handbook as a PDF:<br>
+<a href="pdfs/dsi_msds_handbook_2024a.pdf" class="btn btn-primary"><strong>Download the 2024 MSDS Student Handbook</strong></a></p>
+<p>The University of Chicago also has a <a href="https://studentmanual.uchicago.edu" target="_blank" rel="noopener noreferrer">UChicago Student Handbook</a> for students across all programs, degrees, and disciplines.</p>
+<hr>
 </section>
-<section id="degree-completion-requirements" class="level2" data-number="4">
-<h2 data-number="4" class="anchored" data-anchor-id="degree-completion-requirements"><span class="header-section-number">4</span> Degree Completion Requirements</h2>
-<p>To graduate, students must:</p>
-<ul>
-<li>Successfully complete all 9 required courses (core plus electives).</li>
-<li>Maintain a minimum cumulative <strong>GPA of 3.3</strong> for the <strong>nine core plus elective courses</strong>.</li>
-<li>Fulfill the <strong>research project requirement</strong>. (See <a href="./research.html">Research Project Requirement</a>)</li>
-</ul>
-</section>
-<section id="enrollment-status" class="level2" data-number="5">
-<h2 data-number="5" class="anchored" data-anchor-id="enrollment-status"><span class="header-section-number">5</span> Enrollment Status</h2>
-<ul>
-<li><strong>Full-Time Status</strong>: Students must enroll in at least <strong>3 courses per quarter</strong>.</li>
-<li><strong>Part-Time Option</strong>: In some uncommon situations, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.</li>
-<li><strong>Minimum Enrollment</strong>: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.</li>
-</ul>
+<section id="about-the-program" class="level3">
+<h3 class="anchored" data-anchor-id="about-the-program">About the Program</h3>
+<p>The Master’s in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.</p>
+<p><a href="https://datascience.uchicago.edu">Learn More About DSI</a> →</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
-document.addEventListener("DOMContentLoaded", function() {
-  // Find the placeholder element
-  var versionMenu = document.getElementById("version-menu");
-
-  // Defensive check: only continue if the placeholder exists
-  if (!versionMenu) return;
-
-  // Inject the dropdown items
-  versionMenu.innerHTML = `
-      <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
-              Versions
-          </button>
-          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <li><a class="dropdown-item" href="./">2025 (Current)</a></li>
-              <li><a class="dropdown-item" href="./2024/">2024</a></li>
-          </ul>
-      </div>
-  `;
-});
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
