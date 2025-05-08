@@ -47,9 +47,6 @@ resources:
 
 format:
   html:
-    # include-in-header: assets/js/version-menu.js
-    include-before-body: assets/js/version-menu.js
-    # include-after-body: assets/js/version-menu.js
     theme:
       - cosmo
       - brand
@@ -60,4 +57,6 @@ format:
       # - assets/js/version-menu.js
     toc: true
     number-sections: true
-
+    # include-in-header: assets/js/version-menu.js
+    include-before-body: assets/js/version-menu.js
+    # include-after-body: assets/js/version-menu.js

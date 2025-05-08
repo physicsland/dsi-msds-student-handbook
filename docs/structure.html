@@ -293,19 +293,20 @@ ul.task-list li input[type="checkbox"] {
 <main class="content" id="quarto-document-content">
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Find all right-side nav items
-    var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
 
-    var versionMenu = null;
-    rightNavItems.forEach(function(item) {
-        if (item.textContent.trim() === "Versions") {
-            versionMenu = item;
-        }
-    });
+// --------------------------
+// 1. Replace Versions nav with dropdown
+// --------------------------
 
-    if (!versionMenu) return;
+var rightNavItems = document.querySelectorAll('ul.navbar-nav.ms-auto li.nav-item .nav-link');
+var versionMenu = null;
+rightNavItems.forEach(function(item) {
+    if (item.textContent.trim() === "Versions") {
+        versionMenu = item;
+    }
+});
 
-    // Replace the "Versions" text with the dropdown
+if (versionMenu) {
     versionMenu.innerHTML = `
         <div class="dropdown">
             <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
@@ -317,22 +318,42 @@ document.addEventListener("DOMContentLoaded", function() {
             </ul>
         </div>
     `;
-});
+}
 
-document.addEventListener("DOMContentLoaded", function() {
-    // Existing code for version menu here...
+// --------------------------
+// 2. Extract year from meta tag
+// --------------------------
 
-    // Find the right-side nav (where Versions menu is)
-    var version = document.querySelector('meta[name="dcterms.date"]').content.slice(0,4);
-    versionBadge.textContent = ' ' + version;
-    var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+var year = 'Unknown';
+var dateMeta = document.querySelector('meta[name="dcterms.date"]');
+if (dateMeta) {
+    year = dateMeta.content.slice(0, 4);
+}
 
-    if (rightNav) {
-        var li = document.createElement('li');
-        li.className = 'nav-item';
-        li.innerHTML = '<span class="nav-link"><strong>Version: '+ versionBadge +'</strong></span>';
-        rightNav.appendChild(li);
-    }
+// --------------------------
+// 3. Add badge to the title (center)
+// --------------------------
+
+var titleEl = document.querySelector('.navbar-title');
+if (titleEl) {
+    var versionBadge = document.createElement('span');
+    versionBadge.textContent = ' ' + year;
+    versionBadge.className = 'badge bg-secondary';
+    titleEl.appendChild(versionBadge);
+}
+
+// --------------------------
+// 4. Add Version text to right nav
+// --------------------------
+
+var rightNav = document.querySelector('ul.navbar-nav.ms-auto');
+if (rightNav) {
+    var li = document.createElement('li');
+    li.className = 'nav-item';
+    li.innerHTML = '<span class="nav-link"><strong>Version: ' + year + '</strong></span>';
+    rightNav.appendChild(li);
+}
+
 });
 </script>
 
