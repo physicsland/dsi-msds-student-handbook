@@ -49,6 +49,7 @@ format:
     css: 
       - styles.css
       - css/version-menu.css
+    js:
+      - js/version-menu.js
     toc: true
     number-sections: true
-    include-after-body: js/version-menu.js
