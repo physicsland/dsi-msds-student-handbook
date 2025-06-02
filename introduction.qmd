@@ -3,8 +3,26 @@ title: "Introduction"
 format: html
 ---
 
-## Welcome Message  
-*To be provided by the Program Director(s).*
+## Welcome Message from the Director
+
+Dear Students,
+
+Welcome to the Master of Science in Data Science (MSDS) program at the University of Chicago.
+
+This is a program designed to push boundaries—both in thought and in practice. Our curriculum is grounded in rigorous analytical training, principled computational approaches, and a deep respect for the power of data to shape our world responsibly.
+
+As Director, I’m excited to support your growth not only as data scientists, but as thinkers, collaborators, and future leaders in a rapidly evolving field. You’ll find here a vibrant academic community, dedicated faculty, and an ecosystem that spans disciplines—from computational sciences and information theory to the social sciences and humanities.
+
+This handbook will guide you through your academic journey. I encourage you to explore it—and make the most of the opportunities ahead.
+
+We’re glad you’re here. Now let’s get to work.
+
+Warm regards,  
+**Edwin Lo**  
+Director, MSDS Program  
+Data Science Institute  
+University of Chicago
+
 
 ## About the Data Science Institute
 
