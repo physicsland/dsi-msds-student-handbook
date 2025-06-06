@@ -29,15 +29,17 @@ Students must fulfill at least one of the following requirements to successfully
 
 - Deliver a 15-20 minute oral presentation followed by Q&A before a panel consisting of at least three DSI faculty members.
 - The presentation should clearly outline the project's motivation, methodology, analysis, findings, and implications.
+- The presentation should be scheduled **during the final exam week**, or earlier, of the quarter of intended program completion. 
 
 ### Research Paper Submission
 
 - Submit a comprehensive research paper.
 - The paper should adhere to professional publication standards, clearly documenting the research problem, literature review, methods, data analysis, results, discussion, conclusions, and references.
+- The paper is **due on the Friday before** the final exam week of the quarter of intended program completion. 
 
 ### Peer-Reviewed Journal Publication
 
-- Demonstrate acceptance or submission of research findings in a recognized peer-reviewed academic journal or conference proceeding relevant to data science. A statement of contribution and/or a faculty endorsement is also required.
+- Demonstrate acceptance or in some cases, submission of research findings in a recognized peer-reviewed academic journal or conference proceeding relevant to data science. A statement of contribution and/or a faculty endorsement is also required.
 - Documentation of submission or acceptance must be provided to the MSDS Director.
 - The strength of the publication and the contribution from the student will be evaluated thoroughly to determine level of competency.
 
