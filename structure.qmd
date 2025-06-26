@@ -38,7 +38,7 @@ Students are encouraged to:
 
 To graduate, students must:  
 
-- Successfully complete all 9 required courses (core plus electives). 
+- Successfully complete all 9 required courses (core plus electives), with each course receiving a 'C' or better grade. 
 - Maintain a minimum cumulative **GPA of 3.3** for the **nine core plus elective courses**. 
 - Fulfill the **research project requirement**. (See [Research Project Requirement](research.qmd)) 
 
