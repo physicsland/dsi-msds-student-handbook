@@ -19,9 +19,9 @@ To change to a different year/version of your matriculation, please use the drop
 ### 📥 Download the Handbook
 
 You can download the full MSDS student handbook as a PDF:  
-<a href="assets/pdfs/dsi_msds_handbook_2025.pdf" class="btn btn-primary" target="_blank"><strong>Download the 2025 MSDS Student Handbook</strong></a> 
+<a href="assets/pdfs/dsi_msds_handbook_2025.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer"><strong>Download the 2025 MSDS Student Handbook</strong></a> 
 
-The University of Chicago also has a <a href="https://studentmanual.uchicago.edu" target="_blank" rel="noopener noreferrer">UChicago Student Handbook</a> for students across all programs, degrees, and disciplines.
+The University of Chicago also has a [UChicago Student Handbook](https://studentmanual.uchicago.edu) for students across all programs, degrees, and disciplines.
 
 
 ---
