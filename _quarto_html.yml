@@ -59,6 +59,7 @@ format:
     # javascript:
       # - assets/js/version-menu.js
     toc: true
+    link-external-newwindow: true
     number-sections: true
     # include-in-header: assets/js/version-menu.js
     include-before-body: assets/js/version-menu.js
