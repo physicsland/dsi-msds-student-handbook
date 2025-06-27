@@ -6,7 +6,7 @@ book:
   title: "Master of Science in Data Science (MSDS)" 
   subtitle: "Student Handbook 2025"
   author: "Data Science Institute (DSI), University of Chicago"
-  date: "Last Updated: June 6, 2025"
+  date: "Last Updated: June 27, 2025"
   chapters:
     - index.md
 
@@ -31,7 +31,7 @@ book:
       chapters:
         - advising.qmd
         - computing.qmd
-        - wellness.qmd
+        # - wellness.qmd
         - international.qmd
         - graduation.qmd
 

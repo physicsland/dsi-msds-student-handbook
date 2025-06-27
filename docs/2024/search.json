@@ -112,7 +112,7 @@
     "href": "scholarship.html#beyond-the-first-year",
     "title": "Scholarships",
     "section": "2 Beyond the First Year",
-    "text": "2 Beyond the First Year\nIf a student is continuing to complete the program in their second year, they would be eligible for the same scholarship award, on a per-course/unit basis. The annual amount divided by 9 is the scholarship award per course the student will receive, up to three courses per quarter.",
+    "text": "2 Beyond the First Year\nIf a student is continuing to complete the program in their second year, they would be eligible for the same scholarship award, on a per-course/unit basis. The annual amount divided by 9 is the scholarship award per (100-unit) course the student will receive, up to three (100-unit) courses per quarter.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -148,7 +148,7 @@
     "href": "international.html#cultural-and-campus-resources",
     "title": "International Students",
     "section": "2 Cultural and Campus Resources",
-    "text": "2 Cultural and Campus Resources\nUChicago offers resources to help international students adjust to life in Chicago, including: - Orientation programs and workshops - Language and writing support - Student cultural organizations and affinity groups - International student mixers and networking events\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
+    "text": "2 Cultural and Campus Resources\nUChicago offers resources to help international students adjust to life in Chicago, including:\n\nOrientation programs and workshops\nLanguage and writing support\nStudent cultural organizations and affinity groups\nInternational student mixers and networking events\n\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -340,7 +340,7 @@
     "href": "faqs.html#academic-and-research-requirements",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "2 Academic and Research Requirements",
-    "text": "2 Academic and Research Requirements\nQ: TBD\nA: TBD.",
+    "text": "2 Academic and Research Requirements\nQ: Is there a GPA requirement in the program?\nA: There are GPA requirements for continual academic progression, as well as maintaining scholarship, etc. Please see the specific requirements in Policies and Conduct &gt; Academic Policies and Resources and Support &gt; Graduation and Beyond sections for details.",
     "crumbs": [
       "Home",
       "Appendix",
@@ -448,7 +448,7 @@
     "href": "research.html#completion-options",
     "title": "Research Project Requirement",
     "section": "3 Completion Options",
-    "text": "3 Completion Options\nStudents must fulfill at least one of the following requirements to successfully complete their research project:\n\n3.1 Presentation to DSI Faculty Panel\n\nDeliver a 15-20 minute oral presentation followed by Q&A before a panel consisting of at least three DSI faculty members.\nThe presentation should clearly outline the project’s motivation, methodology, analysis, findings, and implications.\n\n\n\n3.2 Research Paper Submission\n\nSubmit a comprehensive research paper.\nThe paper should adhere to professional publication standards, clearly documenting the research problem, literature review, methods, data analysis, results, discussion, conclusions, and references.\n\n\n\n3.3 Peer-Reviewed Journal Publication\n\nDemonstrate acceptance or submission of research findings in a recognized peer-reviewed academic journal or conference proceeding relevant to data science. A statement of contribution and/or a faculty endorsement is also required.\nDocumentation of submission or acceptance must be provided to the MSDS Director.\nThe strength of the publication and the contribution from the student will be evaluated thoroughly to determine level of competency.",
+    "text": "3 Completion Options\nStudents must fulfill at least one of the following requirements to successfully complete their research project:\n\n3.1 Presentation to DSI Faculty Panel\n\nDeliver a 15-20 minute oral presentation followed by Q&A before a panel consisting of at least three DSI faculty members.\nThe presentation should clearly outline the project’s motivation, methodology, analysis, findings, and implications.\nThe presentation should be scheduled during the final exam week, or earlier, of the quarter of intended program completion.\n\n\n\n3.2 Research Paper Submission\n\nSubmit a comprehensive research paper.\nThe paper should adhere to professional publication standards, clearly documenting the research problem, literature review, methods, data analysis, results, discussion, conclusions, and references.\nThe paper is due on the Friday before the final exam week of the quarter of intended program completion.\n\n\n\n3.3 Peer-Reviewed Journal Publication\n\nDemonstrate acceptance or in some cases, submission of research findings in a recognized peer-reviewed academic journal or conference proceeding relevant to data science. A statement of contribution and/or a faculty endorsement is also required.\nDocumentation of submission or acceptance must be provided to the MSDS Director.\nThe strength of the publication and the contribution from the student will be evaluated thoroughly to determine level of competency.",
     "crumbs": [
       "Home",
       "Program Overview",
@@ -546,7 +546,7 @@
     "href": "glossary.html",
     "title": "Links and Glossary",
     "section": "",
-    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual",
+    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\nUChicago portal for course registrations, grades, personal records, etc. (Might need to use incognito modes for some browsers to access.)",
     "crumbs": [
       "Home",
       "Appendix",
@@ -558,7 +558,7 @@
     "href": "glossary.html#important-forms-links",
     "title": "Links and Glossary",
     "section": "",
-    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual",
+    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\nUChicago portal for course registrations, grades, personal records, etc. (Might need to use incognito modes for some browsers to access.)",
     "crumbs": [
       "Home",
       "Appendix",
@@ -570,7 +570,7 @@
     "href": "glossary.html#glossary-of-key-terms",
     "title": "Links and Glossary",
     "section": "2 Glossary of Key Terms",
-    "text": "2 Glossary of Key Terms\n\nDSI: Data Science Institute\n\nCODAS: Committee on Data Science\n\nPSD: Physical Science Division\nOIA: Office of International Affairs\nCPT: Curricular Practical Training, degree-based or course-based (F-1 Visa student)\n\nOPT: Optional Practical Training (F-1 Visa student)\n\nmy.UChicago: University portal for registration, grades, and personal records",
+    "text": "2 Glossary of Key Terms\n\nCODAS: Committee on Data Science\n\nCPT: Curricular Practical Training, degree-based or course-based (F-1 Visa student)\n\nDSI: Data Science Institute\n\nGPA: Grade-Point-Average\nOIA: Office of International Affairs\nOPT: Optional Practical Training (F-1 Visa student)\n\nPSD: Physical Science Division",
     "crumbs": [
       "Home",
       "Appendix",
@@ -738,7 +738,7 @@
     "href": "structure.html#degree-completion-requirements",
     "title": "Program Structure & Degree Requirements",
     "section": "4 Degree Completion Requirements",
-    "text": "4 Degree Completion Requirements\nTo graduate, students must:\n\nSuccessfully complete all 9 required courses (core plus electives).\nMaintain a minimum cumulative GPA of 3.3 for the nine core plus elective courses.\nFulfill the research project requirement. (See Research Project Requirement)",
+    "text": "4 Degree Completion Requirements\nTo graduate, students must:\n\nSuccessfully complete all 9 required courses (core plus electives), with each course receiving a ‘C’ or better grade.\nMaintain a minimum cumulative GPA of 3.3 for the nine core plus elective courses.\nFulfill the research project requirement. (See Research Project Requirement)",
     "crumbs": [
       "Home",
       "Program Overview",
@@ -774,7 +774,7 @@
     "href": "graduation.html#graduation-procedures-and-application",
     "title": "Graduation and Beyond",
     "section": "1 Graduation Procedures and Application",
-    "text": "1 Graduation Procedures and Application\nTo graduate, students must: - Complete all program requirements, including coursework and the research project. - Maintain a cumulative GPA of 3.0 or higher. - Follow the directions here from PSD to apply for graduation. The deadline to submit is usually the end of the first week in the quarter which you plan to graduate.\nStudents should review their academic progress with the MSDS director prior to applying to graduate.",
+    "text": "1 Graduation Procedures and Application\nTo graduate, students must:\n\nComplete all program requirements, including coursework and the research project.\nMinimum grade of each course, and a cumulative GPA requirement are described in the section “Degree Completion Requirements”.\nFollow the directions here from PSD to apply for graduation. The deadline to submit is usually the end of the first week in the quarter which you plan to graduate.\n\nStudents should review their academic progress with the MSDS director prior to applying to graduate.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -810,7 +810,7 @@
     "href": "graduation.html#alumni-engagement-opportunities",
     "title": "Graduation and Beyond",
     "section": "4 Alumni Engagement Opportunities",
-    "text": "4 Alumni Engagement Opportunities\nGraduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include: - Continued access to career services - Invitations to alumni networking events - Participation in mentorship programs and industry panels\nAlumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.",
+    "text": "4 Alumni Engagement Opportunities\nGraduates of the MSDS program are part of the broader University of Chicago alumni community. Benefits include:\n\nContinued access to career services\nInvitations to alumni networking events\nParticipation in mentorship programs and industry panels\n\nAlumni are encouraged to stay connected with the Data Science Institute and support future cohorts of MSDS students.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -834,7 +834,7 @@
     "href": "conduct.html#professional-conduct-and-community-standards",
     "title": "Code of Conduct",
     "section": "1 Professional Conduct and Community Standards",
-    "text": "1 Professional Conduct and Community Standards\nStudents are expected to: - Treat peers, faculty, and staff with respect and civility. - Engage in constructive discourse and maintain professionalism in both academic and co-curricular settings. - Demonstrate responsibility and integrity in all academic and research activities.",
+    "text": "1 Professional Conduct and Community Standards\nStudents are expected to:\n\nTreat peers, faculty, and staff with respect and civility.\nEngage in constructive discourse and maintain professionalism in both academic and co-curricular settings.\nDemonstrate responsibility and integrity in all academic and research activities.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -858,7 +858,7 @@
     "href": "conduct.html#collaboration-and-ethical-research-practices",
     "title": "Code of Conduct",
     "section": "3 Collaboration and Ethical Research Practices",
-    "text": "3 Collaboration and Ethical Research Practices\nWhile collaborative learning is encouraged, all students must: - Clearly distinguish between collaborative and individual work. - Follow ethical research standards in the collection, analysis, and reporting of data. - Properly cite all sources and acknowledge contributions.",
+    "text": "3 Collaboration and Ethical Research Practices\nWhile collaborative learning is encouraged, all students must:\n\nClearly distinguish between collaborative and individual work.\nFollow ethical research standards in the collection, analysis, and reporting of data.\nProperly cite all sources and acknowledge contributions.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -870,7 +870,7 @@
     "href": "conduct.html#student-responsibility-and-accountability",
     "title": "Code of Conduct",
     "section": "4 Student Responsibility and Accountability",
-    "text": "4 Student Responsibility and Accountability\nStudents are accountable for: - Understanding and following university and program policies. - Acting as representatives of the Data Science Institute and University of Chicago community. - Reporting violations of conduct policies to appropriate authorities when necessary.",
+    "text": "4 Student Responsibility and Accountability\nStudents are accountable for:\n\nUnderstanding and following university and program policies.\nActing as representatives of the Data Science Institute and University of Chicago community.\nReporting violations of conduct policies to appropriate authorities when necessary.",
     "crumbs": [
       "Home",
       "Policies and Conduct",

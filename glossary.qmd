@@ -10,15 +10,16 @@ format: html
 - [MSDS Program Page](https://codas.uchicago.edu/academics/ms-data-science/)
 - [Office of International Affairs](https://internationalaffairs.uchicago.edu/)
 - [UChicago Student Manual](https://studentmanual.uchicago.edu/)
+- [UChicago portal](https://my.uchicago.edu) for course registrations, grades, personal records, etc. (Might need to use incognito modes for some browsers to access.)
 
 ## Glossary of Key Terms
 
-- **DSI**: Data Science Institute  
 - **CODAS**: Committee on Data Science   
-- **PSD**: Physical Science Division
-- **OIA**: Office of International Affairs 
 - **CPT**: Curricular Practical Training, degree-based or course-based (F-1 Visa student)   
+- **DSI**: Data Science Institute  
+- **GPA**: Grade-Point-Average
+- **OIA**: Office of International Affairs 
 - **OPT**: Optional Practical Training (F-1 Visa student)   
-- **my.UChicago**: University portal for registration, grades, and personal records  
+- **PSD**: Physical Science Division
 
 

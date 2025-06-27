@@ -8,6 +8,7 @@ Students in the MSDS program are expected to conduct themselves in a professiona
 ## Professional Conduct and Community Standards
 
 Students are expected to:
+
 - Treat peers, faculty, and staff with respect and civility.
 - Engage in constructive discourse and maintain professionalism in both academic and co-curricular settings.
 - Demonstrate responsibility and integrity in all academic and research activities.
@@ -21,6 +22,7 @@ Refer to the [University Policy on Harassment, Discrimination, and Sexual Miscon
 ## Collaboration and Ethical Research Practices
 
 While collaborative learning is encouraged, all students must:
+
 - Clearly distinguish between collaborative and individual work.
 - Follow ethical research standards in the collection, analysis, and reporting of data.
 - Properly cite all sources and acknowledge contributions.
@@ -28,6 +30,7 @@ While collaborative learning is encouraged, all students must:
 ## Student Responsibility and Accountability
 
 Students are accountable for:
+
 - Understanding and following university and program policies.
 - Acting as representatives of the Data Science Institute and University of Chicago community.
 - Reporting violations of conduct policies to appropriate authorities when necessary.

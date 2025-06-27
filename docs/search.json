@@ -112,7 +112,7 @@
     "href": "scholarship.html#beyond-the-first-year",
     "title": "Scholarships",
     "section": "2 Beyond the First Year",
-    "text": "2 Beyond the First Year\nIf a student is continuing to complete the program in their second year, they would be eligible for the same scholarship award, on a per-course/unit basis. The annual amount divided by 9 is the scholarship award per course the student will receive, up to three courses per quarter.",
+    "text": "2 Beyond the First Year\nIf a student is continuing to complete the program in their second year, they would be eligible for the same scholarship award, on a per-course/unit basis. The annual amount divided by 9 is the scholarship award per (100-unit) course the student will receive, up to three (100-unit) courses per quarter.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -148,7 +148,7 @@
     "href": "international.html#cultural-and-campus-resources",
     "title": "International Students",
     "section": "2 Cultural and Campus Resources",
-    "text": "2 Cultural and Campus Resources\nUChicago offers resources to help international students adjust to life in Chicago, including: - Orientation programs and workshops - Language and writing support - Student cultural organizations and affinity groups - International student mixers and networking events\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
+    "text": "2 Cultural and Campus Resources\nUChicago offers resources to help international students adjust to life in Chicago, including:\n\nOrientation programs and workshops\nLanguage and writing support\nStudent cultural organizations and affinity groups\nInternational student mixers and networking events\n\nStudents are encouraged to engage with the broader UChicago community to enhance their academic and cultural experience.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -340,7 +340,7 @@
     "href": "faqs.html#academic-and-research-requirements",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "2 Academic and Research Requirements",
-    "text": "2 Academic and Research Requirements\nQ: TBD\nA: TBD.",
+    "text": "2 Academic and Research Requirements\nQ: Is there a GPA requirement in the program?\nA: There are GPA requirements for continual academic progression, as well as maintaining scholarship, etc. Please see the specific requirements in Policies and Conduct &gt; Academic Policies and Resources and Support &gt; Graduation and Beyond sections for details.",
     "crumbs": [
       "Home",
       "Appendix",
@@ -546,7 +546,7 @@
     "href": "glossary.html",
     "title": "Links and Glossary",
     "section": "",
-    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual",
+    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\nUChicago portal for course registrations, grades, personal records, etc. (Might need to use incognito modes for some browsers to access.)",
     "crumbs": [
       "Home",
       "Appendix",
@@ -558,7 +558,7 @@
     "href": "glossary.html#important-forms-links",
     "title": "Links and Glossary",
     "section": "",
-    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual",
+    "text": "UChicago Academic Calendar\nDSI Website\nMSDS Program Page\nOffice of International Affairs\nUChicago Student Manual\nUChicago portal for course registrations, grades, personal records, etc. (Might need to use incognito modes for some browsers to access.)",
     "crumbs": [
       "Home",
       "Appendix",
@@ -570,7 +570,7 @@
     "href": "glossary.html#glossary-of-key-terms",
     "title": "Links and Glossary",
     "section": "2 Glossary of Key Terms",
-    "text": "2 Glossary of Key Terms\n\nDSI: Data Science Institute\n\nCODAS: Committee on Data Science\n\nPSD: Physical Science Division\nOIA: Office of International Affairs\nCPT: Curricular Practical Training, degree-based or course-based (F-1 Visa student)\n\nOPT: Optional Practical Training (F-1 Visa student)\n\nmy.UChicago: University portal for registration, grades, and personal records",
+    "text": "2 Glossary of Key Terms\n\nCODAS: Committee on Data Science\n\nCPT: Curricular Practical Training, degree-based or course-based (F-1 Visa student)\n\nDSI: Data Science Institute\n\nGPA: Grade-Point-Average\nOIA: Office of International Affairs\nOPT: Optional Practical Training (F-1 Visa student)\n\nPSD: Physical Science Division",
     "crumbs": [
       "Home",
       "Appendix",
@@ -834,7 +834,7 @@
     "href": "conduct.html#professional-conduct-and-community-standards",
     "title": "Code of Conduct",
     "section": "1 Professional Conduct and Community Standards",
-    "text": "1 Professional Conduct and Community Standards\nStudents are expected to: - Treat peers, faculty, and staff with respect and civility. - Engage in constructive discourse and maintain professionalism in both academic and co-curricular settings. - Demonstrate responsibility and integrity in all academic and research activities.",
+    "text": "1 Professional Conduct and Community Standards\nStudents are expected to:\n\nTreat peers, faculty, and staff with respect and civility.\nEngage in constructive discourse and maintain professionalism in both academic and co-curricular settings.\nDemonstrate responsibility and integrity in all academic and research activities.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -858,7 +858,7 @@
     "href": "conduct.html#collaboration-and-ethical-research-practices",
     "title": "Code of Conduct",
     "section": "3 Collaboration and Ethical Research Practices",
-    "text": "3 Collaboration and Ethical Research Practices\nWhile collaborative learning is encouraged, all students must: - Clearly distinguish between collaborative and individual work. - Follow ethical research standards in the collection, analysis, and reporting of data. - Properly cite all sources and acknowledge contributions.",
+    "text": "3 Collaboration and Ethical Research Practices\nWhile collaborative learning is encouraged, all students must:\n\nClearly distinguish between collaborative and individual work.\nFollow ethical research standards in the collection, analysis, and reporting of data.\nProperly cite all sources and acknowledge contributions.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -870,7 +870,7 @@
     "href": "conduct.html#student-responsibility-and-accountability",
     "title": "Code of Conduct",
     "section": "4 Student Responsibility and Accountability",
-    "text": "4 Student Responsibility and Accountability\nStudents are accountable for: - Understanding and following university and program policies. - Acting as representatives of the Data Science Institute and University of Chicago community. - Reporting violations of conduct policies to appropriate authorities when necessary.",
+    "text": "4 Student Responsibility and Accountability\nStudents are accountable for:\n\nUnderstanding and following university and program policies.\nActing as representatives of the Data Science Institute and University of Chicago community.\nReporting violations of conduct policies to appropriate authorities when necessary.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
