@@ -372,7 +372,7 @@ if (rightNav) {
 <strong>Email</strong>: <a href="mailto://edwinlo@uchicago.edu">edwinlo@uchicago.edu</a><br>
 <strong>Phone</strong>: 773.887.2996<br>
 <strong>Office</strong>: Ryerson Lab 257C, 1100 E 58th ST, Chicago, IL<br>
-<strong>Appointments</strong>: <a href="https://edwinlo.youcanbook.me/" target="_blank" rel="noopener noreferrer">edwinlo.youcanbook.me/</a></p>
+<strong>Appointments</strong>: <a href="https://edwinlo.youcanbook.me/">edwinlo.youcanbook.me</a></p>
 <ul>
 <li>Provides academic advising and final approval for research projects, petitions, and policy exceptions.</li>
 <li>Meets with students upon request or referral.</li>
@@ -384,7 +384,7 @@ if (rightNav) {
 <strong>Email</strong>: <a href="mailto://kkritikos34@uchicago.edu">kkritikos34@uchicago.edu</a><br>
 <strong>Phone</strong>: 773.834.2236<br>
 <strong>Office</strong>: Ryerson Lab 257D, 1100 E 58th ST, Chicago, IL<br>
-<strong>Appointments</strong>: <a href="https://kkritikos34.youcanbook.me/" target="_blank" rel="noopener noreferrer">kkritikos34.youcanbook.me/</a></p>
+<strong>Appointments</strong>: <a href="https://kkritikos34.youcanbook.me/">kkritikos34.youcanbook.me</a></p>
 <ul>
 <li>Primary point of contact for course registration issues, forms, and day-to-day administrative logistics.</li>
 <li>Coordinates orientation, graduation, and program events.</li>
@@ -511,6 +511,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
