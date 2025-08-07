@@ -3,9 +3,7 @@ title: "Frequently Asked Questions (FAQs)"
 format: html
 ---
 
-> [!info]
-> **Note**  
-> FAQs will be added throughout the year. These are not considered part of the official handbook but are provided as a convenient web resource for students.
+FAQs will be added throughout the year. These are not considered part of the official handbook but are provided as a convenient web resource for students.
 
 ## Enrollment and Registration
 
