@@ -10,6 +10,7 @@ Icon?
 bigdata/
 private/
 untrack/
+2024/
 # *.ipynb
 *.local/
 **/results/checkpoint*/
