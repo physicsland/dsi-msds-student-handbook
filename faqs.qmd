@@ -3,24 +3,57 @@ title: "Frequently Asked Questions (FAQs)"
 format: html
 ---
 
-FAQs will be added here throughout the year. These are not considered the official part of the handbook, but rather for convenience to the students  as a web resource. 
+> [!info]
+> **Note**  
+> FAQs will be added throughout the year. These are not considered part of the official handbook but are provided as a convenient web resource for students.
 
-## Enrollment
+## Enrollment and Registration
 
-**Q: Can I defer my admission?**  
-A: Admission deferral requests are considered on a case-by-case basis. Contact the MSDS program coordinator for details.
+:::: {.callout .callout-question collapse=true}
+### Q: Can I defer my admission (new student)?
+**A:** Admission deferral requests are reviewed on a case-by-case basis. Please contact the MSDS program coordinator for guidance.
+::::
+
+:::: {.callout .callout-question collapse=true}
+### Q: When will the Autumn class schedules be available?
+**A:** Autumn 2025 graduate-level course schedules will be available by August 25. You can access them via the [UChicago Portal > Class Search](https://my.uchicago.edu).
+::::
+
+:::: {.callout .callout-question collapse=true}
+### Q: When can I register for Autumn classes?
+**A:** Incoming Autumn students can self-enroll starting September 22, 2025.s
+::::
+
+:::: {.callout .callout-question collapse=true}
+### Q: I can't self-enroll in a course I’d like to take. What should I do?
+**A:** Some courses have enrollment restrictions. You'll typically need approval from the instructor or their department. Once you obtain approval, forward the confirmation email to the MSDS program administrator, who can assist with registration.
+::::
+
+:::: {.callout .callout-question collapse=true}
+### Q: What is the tuition rate?
+**A:** Tuition and fees are published by the [Office of the Bursar](https://bursar.uchicago.edu/tuition-and-fees).
+::::
 
 ## Academic and Research Requirements
 
-**Q: Is there a GPA requirement in the program?**  
-A: There are GPA requirements for continual academic progression, as well as maintaining scholarship, etc. Please see the specific requirements in [Policies and Conduct > Academic Policies](policies.qmd) and [Resources and Support > Graduation and Beyond](graduation.qmd) sections for details.
+:::: {.callout .callout-question collapse=true}
+### Q: Is there a GPA requirement in the program?
+**A:** Yes. GPA requirements apply to academic standing, scholarship eligibility, and graduation. See [Policies and Conduct > Academic Policies](policies.qmd) and [Resources and Support > Graduation and Beyond](graduation.qmd) for details.
+::::
+
+:::: {.callout .callout-question collapse=true}
+### Q: How can I find elective courses?
+**A:** Graduate-level (300+ level) DATA, CMCS, and STAT courses that award a letter grade typically count as electives. Reading or research courses do not. For courses outside these departments, send the course syllabus to the MSDS Director for pre-approval before the quarter begins. If the upcoming syllabus isn’t yet available, a recent version from the same instructor may be used for temporary approval, pending submission of the final version.
+::::
 
 ## Graduation and Commencement
 
-**Q: Do I need to apply to graduate?**  
-A: Yes. See "Graduation and Beyond" section.
+:::: {.callout .callout-question collapse=true}
+### Q: Do I need to apply to graduate? Can I withdraw the application if I change my mind?
+**A:** Yes, you must apply to graduate, typically by the end of Week 1 of the quarter you plan to finish. You may withdraw your application without penalty by the end of Week 5. After Week 5, a fee may apply.
+::::
 
-**Q: Can I participate in the commencement ceremony if I finish early?**  
-A: The University has Spring and Autumn commencement ceremonies each year. 
-
-
+:::: {.callout .callout-question collapse=true}
+### Q: Can I participate in Convocation (graduation ceremony) if I finish early?
+**A:** The University holds a Spring Convocation (usually in June), while the Physical Sciences Division (PSD) hosts an Autumn Graduation Reception (December) and a Spring MS Diploma Ceremony (June). If you are expected to complete your degree in Summer Quarter, you may still participate in the preceding Spring events.
+::::

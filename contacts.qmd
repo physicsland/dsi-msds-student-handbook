@@ -33,5 +33,6 @@ The following individuals and offices provide support for MSDS students. Student
 - [University IT support](https://its.uchicago.edu/support/) 773.702.5800
 - [Physical Science Division (PSD) general info](https://physicalsciences.uchicago.edu/about/contact-us/) 773.702.7950  
 - [Data Science Institute general info](https://datascience.uchicago.edu/about/) 773.702.7612  
+- [Office of the Bursar](https://bursar.uchicago.edu) 773.702.8000 
 
 

@@ -17,7 +17,8 @@ Students must complete a total of **9 core and elective courses**, plus **3 foun
 - **Core Courses (5 courses)**: These delve into key data science techniques, methodologies, and tools.
   * DATA 30100 Introduction to Data Science
   * DATA 31500 Data Interaction
-  * DATA 34100 Introduction to Data Systems and Data Design
+  * DATA 34100 Introduction to Data Systems and Data Design **OR** \
+  DATA 34200 Data Engineering & Scalable Computing
   * DATA 35900 Responsible Use of Data and Algorithms
   * DATA 37000 Introduction to ML and Neural Networks **OR** \
   DATA 37711 Foundations of Machine Learning and AI - Part I  

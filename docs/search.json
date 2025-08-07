@@ -208,7 +208,7 @@
     "href": "contacts.html#others",
     "title": "Contacts",
     "section": "3 Others",
-    "text": "3 Others\n\nCommunity Safety - UChicago Police Campus phone: 123, Off-campus phone: 773.702.8181\n\nUniversity general info 773.702.1234\n\nUniversity IT support 773.702.5800\nPhysical Science Division (PSD) general info 773.702.7950\n\nData Science Institute general info 773.702.7612",
+    "text": "3 Others\n\nCommunity Safety - UChicago Police Campus phone: 123, Off-campus phone: 773.702.8181\n\nUniversity general info 773.702.1234\n\nUniversity IT support 773.702.5800\nPhysical Science Division (PSD) general info 773.702.7950\n\nData Science Institute general info 773.702.7612\n\nOffice of the Bursar 773.702.8000",
     "crumbs": [
       "Home",
       "Appendix",
@@ -316,7 +316,7 @@
     "href": "faqs.html",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "",
-    "text": "FAQs will be added here throughout the year. These are not considered the official part of the handbook, but rather for convenience to the students as a web resource.",
+    "text": "[!info] Note\nFAQs will be added throughout the year. These are not considered part of the official handbook but are provided as a convenient web resource for students.",
     "crumbs": [
       "Home",
       "Appendix",
@@ -324,11 +324,11 @@
     ]
   },
   {
-    "objectID": "faqs.html#enrollment",
-    "href": "faqs.html#enrollment",
+    "objectID": "faqs.html#enrollment-and-registration",
+    "href": "faqs.html#enrollment-and-registration",
     "title": "Frequently Asked Questions (FAQs)",
-    "section": "1 Enrollment",
-    "text": "1 Enrollment\nQ: Can I defer my admission?\nA: Admission deferral requests are considered on a case-by-case basis. Contact the MSDS program coordinator for details.",
+    "section": "1 Enrollment and Registration",
+    "text": "1 Enrollment and Registration\n\n\n\n\n\n\nQ: Can I defer my admission (new student)?\n\n\n\n\n\nA: Admission deferral requests are reviewed on a case-by-case basis. Please contact the MSDS program coordinator for guidance.\n\n\n\n\n\n\n\n\n\nQ: When will the Autumn class schedules be available?\n\n\n\n\n\nA: Autumn 2025 graduate-level course schedules will be available by August 25. You can access them via the UChicago Portal &gt; Class Search.\n\n\n\n\n\n\n\n\n\nQ: When can I register for Autumn classes?\n\n\n\n\n\nA: Incoming Autumn students can self-enroll starting September 22, 2025.s\n\n\n\n\n\n\n\n\n\nQ: I can’t self-enroll in a course I’d like to take. What should I do?\n\n\n\n\n\nA: Some courses have enrollment restrictions. You’ll typically need approval from the instructor or their department. Once you obtain approval, forward the confirmation email to the MSDS program administrator, who can assist with registration.\n\n\n\n\n\n\n\n\n\nQ: What is the tuition rate?\n\n\n\n\n\nA: Tuition and fees are published by the Office of the Bursar.",
     "crumbs": [
       "Home",
       "Appendix",
@@ -340,7 +340,7 @@
     "href": "faqs.html#academic-and-research-requirements",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "2 Academic and Research Requirements",
-    "text": "2 Academic and Research Requirements\nQ: Is there a GPA requirement in the program?\nA: There are GPA requirements for continual academic progression, as well as maintaining scholarship, etc. Please see the specific requirements in Policies and Conduct &gt; Academic Policies and Resources and Support &gt; Graduation and Beyond sections for details.",
+    "text": "2 Academic and Research Requirements\n\n\n\n\n\n\nQ: Is there a GPA requirement in the program?\n\n\n\n\n\nA: Yes. GPA requirements apply to academic standing, scholarship eligibility, and graduation. See Policies and Conduct &gt; Academic Policies and Resources and Support &gt; Graduation and Beyond for details.\n\n\n\n\n\n\n\n\n\nQ: How can I find elective courses?\n\n\n\n\n\nA: Graduate-level (300+ level) DATA, CMCS, and STAT courses that award a letter grade typically count as electives. Reading or research courses do not. For courses outside these departments, send the course syllabus to the MSDS Director for pre-approval before the quarter begins. If the upcoming syllabus isn’t yet available, a recent version from the same instructor may be used for temporary approval, pending submission of the final version.",
     "crumbs": [
       "Home",
       "Appendix",
@@ -352,7 +352,7 @@
     "href": "faqs.html#graduation-and-commencement",
     "title": "Frequently Asked Questions (FAQs)",
     "section": "3 Graduation and Commencement",
-    "text": "3 Graduation and Commencement\nQ: Do I need to apply to graduate?\nA: Yes. See “Graduation and Beyond” section.\nQ: Can I participate in the commencement ceremony if I finish early?\nA: The University has Spring and Autumn commencement ceremonies each year.",
+    "text": "3 Graduation and Commencement\n\n\n\n\n\n\nQ: Do I need to apply to graduate? Can I withdraw the application if I change my mind?\n\n\n\n\n\nA: Yes, you must apply to graduate, typically by the end of Week 1 of the quarter you plan to finish. You may withdraw your application without penalty by the end of Week 5. After Week 5, a fee may apply.\n\n\n\n\n\n\n\n\n\nQ: Can I participate in Convocation (graduation ceremony) if I finish early?\n\n\n\n\n\nA: The University holds a Spring Convocation (usually in June), while the Physical Sciences Division (PSD) hosts an Autumn Graduation Reception (December) and a Spring MS Diploma Ceremony (June). If you are expected to complete your degree in Summer Quarter, you may still participate in the preceding Spring events.",
     "crumbs": [
       "Home",
       "Appendix",
@@ -714,7 +714,7 @@
     "href": "structure.html#curriculum-overview",
     "title": "Program Structure & Degree Requirements",
     "section": "2 Curriculum Overview",
-    "text": "2 Curriculum Overview\nStudents must complete a total of 9 core and elective courses, plus 3 foundational courses as follows:\n\nFoundational Courses (3 courses): These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn, or during the beginning of the Autumn quarter if the course is not offered in the summer.\n\nCore Courses (5 courses): These delve into key data science techniques, methodologies, and tools.\n\nDATA 30100 Introduction to Data Science\nDATA 31500 Data Interaction\nDATA 34100 Introduction to Data Systems and Data Design\nDATA 35900 Responsible Use of Data and Algorithms\nDATA 37000 Introduction to ML and Neural Networks OR\nDATA 37711 Foundations of Machine Learning and AI - Part I\n\n\nElective Courses (4 courses): Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.\n\nThere is a special PSD policy exception regarding taking Booth School of Business’s courses during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”\n\n\nMore information about the core and elective courses can be found in this spreadsheet.",
+    "text": "2 Curriculum Overview\nStudents must complete a total of 9 core and elective courses, plus 3 foundational courses as follows:\n\nFoundational Courses (3 courses): These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses. If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn, or during the beginning of the Autumn quarter if the course is not offered in the summer.\n\nCore Courses (5 courses): These delve into key data science techniques, methodologies, and tools.\n\nDATA 30100 Introduction to Data Science\nDATA 31500 Data Interaction\nDATA 34100 Introduction to Data Systems and Data Design OR\nDATA 34200 Data Engineering & Scalable Computing\nDATA 35900 Responsible Use of Data and Algorithms\nDATA 37000 Introduction to ML and Neural Networks OR\nDATA 37711 Foundations of Machine Learning and AI - Part I\n\n\nElective Courses (4 courses): Students choose from a wide array of electives to tailor their learning to specific interests or career goals. Most graduate level courses (300xx) in the DATA, STAT, and CMSC programs taken with a letter grade (not pass/fail nor audit) are eligible as electives. Reading/Research courses do not count. Graduate courses from other departments/programs that are related to data science could be counted as well. Contact the director for approval with such course elections.\n\nThere is a special PSD policy exception regarding taking Booth School of Business’s courses during your last quarter before graduation: “PSD graduate students may not register for a Booth course in their expected graduation quarter if they need to receive a grade in the Booth course to complete their degree requirements.”\n\n\nMore information about the core and elective courses can be found in this spreadsheet.",
     "crumbs": [
       "Home",
       "Program Overview",
