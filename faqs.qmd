@@ -19,7 +19,7 @@ FAQs will be added throughout the year. These are not considered part of the off
 
 :::: {.callout .callout-question collapse=true}
 ### Q: When can I register for Autumn classes?
-**A:** Incoming Autumn students can self-enroll starting September 22, 2025. Please follow [Physical Sciences Division (PSD) guidelines](https://physicalsciences.uchicago.edu/current-students/course-enrollment/) for course enrollments herr.
+**A:** Incoming Autumn students can self-enroll starting September 22, 2025. Please follow [Physical Sciences Division (PSD) guidelines](https://physicalsciences.uchicago.edu/current-students/course-enrollment/) for course enrollments here.
 ::::
 
 :::: {.callout .callout-question collapse=true}
