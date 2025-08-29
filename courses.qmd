@@ -3,7 +3,7 @@ title: "Course Descriptions"
 format: html
 ---
 
-This section provides an overview of the three main categories of courses in the MSDS program: Foundational, Core, and Elective. Full course descriptions, prerequisites, and schedules can be found on the [Course Catalog](https://courses.uchicago.edu/) or the DSI program website.
+This section provides an overview of the three main categories of courses in the MSDS program: Foundational, Core, and Elective. Full course descriptions, prerequisites, and schedules can be found on the [Course Catalog](https://courses.uchicago.edu/) or the DSI program website. To register for courses, please follow [Physical Sciences Division (PSD) guidelines](https://physicalsciences.uchicago.edu/current-students/course-enrollment/) here.
 
 ## Foundational Courses
 
