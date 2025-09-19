@@ -5,22 +5,21 @@ format: html
 
 The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.
 
-## MSDS Program Director
+## MSDS Program Director  
 **Edwin Lo, Ph.D.**  
 **Email**: [edwinlo@uchicago.edu](mailto://edwinlo@uchicago.edu)  
 **Phone**: 773.887.2996  
-**Office**: Ryerson Lab 257C, 1100 E 58th ST, Chicago, IL  
-**Appointments**: [edwinlo.youcanbook.me](https://edwinlo.youcanbook.me/) 
+**Office**: Rm 211, 5460 S. University Ave, Chicago, IL  
+**Appointments**: [calendly.com/edwinlo-uchicago](https://calendly.com/edwinlo-uchicago/) 
 
 - Provides academic advising and final approval for research projects, petitions, and policy exceptions.
 - Meets with students upon request or referral.  
 
-## Program Administrator
-
+## Student Affairs Administrator  
 **Ken Kritikos, M.Ed.**  
 **Email**: [kkritikos34@uchicago.edu](mailto://kkritikos34@uchicago.edu)  
 **Phone**: 773.834.2236  
-**Office**: Ryerson Lab 257D, 1100 E 58th ST, Chicago, IL  
+**Office**: Rm 221, 5460 S. University Ave, Chicago, IL  
 **Appointments**: [kkritikos34.youcanbook.me](https://kkritikos34.youcanbook.me/) 
 
 - Primary point of contact for course registration issues, forms, and day-to-day administrative logistics.
