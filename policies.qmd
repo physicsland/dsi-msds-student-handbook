@@ -18,6 +18,17 @@ Students are required to register for courses through the university’s my.UChi
   * After the third full week of class, there will be a late change registration fee.
 
 
+## Residency Requirements
+
+Students are expected to follow the Division’s residency requirements for graduate students. 
+
+
+## Divisional Policies
+
+The Physical Sciences Division’s [student policies](https://physicalsciences.uchicago.edu/current-students/policies/) are applicable to all students in the Data Science MSDS program. Students with questions about PSD policies can reach out to their [Student Affairs Administrator](contacts.qmd) or the Dean of Students Office.
+
+
+
 ## Time to Complete the MSDS Program
 
 Students can take from one to two (consecutive) years to complete all program requirements. When all course requirements have been fulfilled, students may elect to continue part-time to complete their research requirements. International students should consult with [OIA](https://internationalaffairs.uchicago.edu) regarding the up-do-date visa restrictions. 

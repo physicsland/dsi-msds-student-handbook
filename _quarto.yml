@@ -31,6 +31,7 @@ website:
           - scholarship.qmd
       - section: "Resources and Support"
         contents:
+          - career.qmd
           - advising.qmd
           - computing.qmd
           - wellness.qmd
@@ -46,7 +47,7 @@ resources:
   - assets/js/version-menu.js
 
 meta:
-  version: "2025"
+  version: "2026"
 
 format:
   html:
@@ -65,4 +66,4 @@ format:
     include-before-body: assets/js/version-menu.js
     # include-after-body: assets/js/version-menu.js
     include-in-header: 
-      text: '<meta name="version" content="2025">'
+      text: '<meta name="version" content="2026">'

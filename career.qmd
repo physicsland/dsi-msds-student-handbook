@@ -1,0 +1,31 @@
+---
+title: "Unionization and Career Services"
+format: html
+---
+
+MSDS students might be interested in teaching, research, or industry opportunities at different point in their academic journey. Below are some resources and information to help you explore these options.
+
+
+## Graduate Student Union
+
+The terms and conditions of employment for certain graduate students at the University of Chicago who are employed to perform instructional or research services will be determined by a Collective Bargaining Agreement (CBA) between the University and Graduate Students United (“GSU-UE”) for the duration of the assignment to perform such services. Students can access the CBA and review frequently asked questions about graduate student unionization on the [Provost’s Office website](https://provost.uchicago.edu/initiatives/graduate-student-unionization).
+
+
+## Career Services
+
+There are three main offices offering career service advising to our MSDS students: 
+
+- [UChicagoGRAD](https://grad.uchicago.edu/career-development/)
+- [PSD Career Service](https://physicalsciences.uchicago.edu/current-students/career-services/)
+- [DSI MSADS Career Service](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) (online workshops are available to our MSDS students)
+
+They provide a combinations of:  
+
+- Resume and cover letter workshops
+- Interview preparation sessions
+- Networking events with industry professionals
+- Internship and job placement assistance
+
+Students are encouraged to take advantage of these Career Service opportunites early on, not just close to graduation. A lot of the skills learned through these take time to develope and improve. The skills are also very helpful with looking for research opportunities and internships, which happens early in the program, long before your graduation.   
+
+

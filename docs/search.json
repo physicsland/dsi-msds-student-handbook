@@ -60,23 +60,11 @@
     ]
   },
   {
-    "objectID": "advising.html#career-services",
-    "href": "advising.html#career-services",
-    "title": "Advising",
-    "section": "2 Career Services",
-    "text": "2 Career Services\nThere are three main offices offering career service advising to our MSDS students:\n\nUChicagoGRAD\nPSD Career Service\nDSI MSADS Career Service (online workshops are available to our MSDS students)\n\nThey provide a combinations of:\n\nResume and cover letter workshops\nInterview preparation sessions\nNetworking events with industry professionals\nInternship and job placement assistance\n\nStudents are encouraged to take advantage of these Career Service opportunites early on, not just close to graduation. A lot of the skills learned through these take time to develope and improve. The skills are also very helpful with looking for research opportunities and internships, which happens early in the program, long before your graduation.",
-    "crumbs": [
-      "Home",
-      "Resources and Support",
-      "Advising"
-    ]
-  },
-  {
     "objectID": "advising.html#newsletter-and-calendar",
     "href": "advising.html#newsletter-and-calendar",
     "title": "Advising",
-    "section": "3 Newsletter and Calendar",
-    "text": "3 Newsletter and Calendar\nSubscribe to our newsletters and calendar events to stay on top of our various events.\n\nDSI events calendar subscription\nDSI events calendar weblink\nNewsletters",
+    "section": "2 Newsletter and Calendar",
+    "text": "2 Newsletter and Calendar\nSubscribe to our newsletters and calendar events to stay on top of our various events.\n\nDSI events calendar subscription\nDSI events calendar weblink\nNewsletters",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -172,7 +160,7 @@
     "href": "international.html#optional-practical-training-opt-and-curricular-practical-training-cpt",
     "title": "International Students",
     "section": "4 Optional Practical Training (OPT) and Curricular Practical Training (CPT)",
-    "text": "4 Optional Practical Training (OPT) and Curricular Practical Training (CPT)\nInternational students on F-1 visas may be eligible for work authorization through Optional Practical Training (OPT) and Curricular Practical Training (CPT). These opportunities allow students to gain hands-on experience related to their academic program. See sections on OIA website for current information.\n\n4.1 OPT Guidelines and Eligibility\n\nOPT is a temporary employment authorization that allows F-1 students to work in their field of study for up to 12 months (with a potential 24-month STEM extension).\nOPT may be used after graduation or, in limited cases, during academic breaks.\nStudents must apply through the U.S. Citizenship and Immigration Services (USCIS) with guidance from the Office of International Affairs (OIA).\n\n\n\n4.2 CPT Guidelines and Application Process\n\nCPT allows students to engage in off-campus work or internships as part of their academic curriculum.\nThe employment must be integral to the program and approved by the MSDS Program Director.\nStudents must be enrolled in a practicum or reading/research course during the period of CPT.\nCPT must be authorized in advance by the OIA.\n\n\n\n4.3 Procedures for Authorization and Compliance\n\nStudents must receive a formal offer letter describing the nature, location, and duration of employment.\nAuthorization must be obtained before beginning any work.\nStudents are responsible for complying with all federal regulations related to their visa status.",
+    "text": "4 Optional Practical Training (OPT) and Curricular Practical Training (CPT)\nInternational students on F-1 visas may be eligible for work authorization through Optional Practical Training (OPT) and Curricular Practical Training (CPT, course-based for MSDS). These opportunities allow students to gain hands-on experience related to their academic program. See sections on OIA website for current information.",
     "crumbs": [
       "Home",
       "Resources and Support",
@@ -180,51 +168,99 @@
     ]
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
-    "title": "Contacts",
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "Computing and Facilities",
     "section": "",
-    "text": "The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.",
+    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.",
     "crumbs": [
       "Home",
-      "Appendix",
-      "Contacts"
+      "Resources and Support",
+      "Computing and Facilities"
     ]
   },
   {
-    "objectID": "contacts.html#msds-program-director",
-    "href": "contacts.html#msds-program-director",
-    "title": "Contacts",
-    "section": "1 MSDS Program Director",
-    "text": "1 MSDS Program Director\nEdwin Lo, Ph.D.\nEmail: edwinlo@uchicago.edu\nPhone: 773.887.2996\nOffice: Rm 211, 5460 S. University Ave, Chicago, IL\nAppointments: calendly.com/edwinlo-uchicago\n\nProvides academic advising and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.",
+    "objectID": "computing.html#computational-resources",
+    "href": "computing.html#computational-resources",
+    "title": "Computing and Facilities",
+    "section": "1 Computational Resources",
+    "text": "1 Computational Resources\nThe University provides robust technical support:\n\nSoftware licenses from IT (Google G Suite, MS Office 365, Box, Zoom, and more)\nIT support services for troubleshooting and assistance",
     "crumbs": [
       "Home",
-      "Appendix",
-      "Contacts"
+      "Resources and Support",
+      "Computing and Facilities"
     ]
   },
   {
-    "objectID": "contacts.html#student-affairs-administrator",
-    "href": "contacts.html#student-affairs-administrator",
-    "title": "Contacts",
-    "section": "2 Student Affairs Administrator",
-    "text": "2 Student Affairs Administrator\nKen Kritikos, M.Ed.\nEmail: kkritikos34@uchicago.edu\nPhone: 773.834.2236\nOffice: Rm 221, 5460 S. University Ave, Chicago, IL\nAppointments: kkritikos34.youcanbook.me\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.",
+    "objectID": "computing.html#dsi-computing-clusters",
+    "href": "computing.html#dsi-computing-clusters",
+    "title": "Computing and Facilities",
+    "section": "2 DSI Computing Clusters",
+    "text": "2 DSI Computing Clusters\nStudents will have access to the DSI computing clusters upon matriculation.\nBennett Hunter is our Senior System Administrator at DSI in charge of the cluster.",
     "crumbs": [
       "Home",
-      "Appendix",
-      "Contacts"
+      "Resources and Support",
+      "Computing and Facilities"
     ]
   },
   {
-    "objectID": "contacts.html#others",
-    "href": "contacts.html#others",
-    "title": "Contacts",
-    "section": "3 Others",
-    "text": "3 Others\n\nCommunity Safety - UChicago Police Campus phone: 123, Off-campus phone: 773.702.8181\n\nUniversity general info 773.702.1234\n\nUniversity IT support 773.702.5800\nPhysical Science Division (PSD) general info 773.702.7950\n\nData Science Institute general info 773.702.7612\n\nOffice of the Bursar 773.702.8000",
+    "objectID": "computing.html#facilities-and-lab-spaces",
+    "href": "computing.html#facilities-and-lab-spaces",
+    "title": "Computing and Facilities",
+    "section": "3 Facilities and Lab Spaces",
+    "text": "3 Facilities and Lab Spaces\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.",
     "crumbs": [
       "Home",
-      "Appendix",
-      "Contacts"
+      "Resources and Support",
+      "Computing and Facilities"
+    ]
+  },
+  {
+    "objectID": "computing.html#campus-map-and-building-locations",
+    "href": "computing.html#campus-map-and-building-locations",
+    "title": "Computing and Facilities",
+    "section": "4 Campus Map and Building Locations",
+    "text": "4 Campus Map and Building Locations\nDSI spaces are primarily located in the John Crerar Library building and Ryerson Lab second floor. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Computing and Facilities"
+    ]
+  },
+  {
+    "objectID": "career.html",
+    "href": "career.html",
+    "title": "Unionization and Career Services",
+    "section": "",
+    "text": "MSDS students might be interested in teaching, research, or industry opportunities at different point in their academic journey. Below are some resources and information to help you explore these options.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Unionization and Career Services"
+    ]
+  },
+  {
+    "objectID": "career.html#graduate-student-union",
+    "href": "career.html#graduate-student-union",
+    "title": "Unionization and Career Services",
+    "section": "1 Graduate Student Union",
+    "text": "1 Graduate Student Union\nThe terms and conditions of employment for certain graduate students at the University of Chicago who are employed to perform instructional or research services will be determined by a Collective Bargaining Agreement (CBA) between the University and Graduate Students United (“GSU-UE”) for the duration of the assignment to perform such services. Students can access the CBA and review frequently asked questions about graduate student unionization on the Provost’s Office website.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Unionization and Career Services"
+    ]
+  },
+  {
+    "objectID": "career.html#career-services",
+    "href": "career.html#career-services",
+    "title": "Unionization and Career Services",
+    "section": "2 Career Services",
+    "text": "2 Career Services\nThere are three main offices offering career service advising to our MSDS students:\n\nUChicagoGRAD\nPSD Career Service\nDSI MSADS Career Service (online workshops are available to our MSDS students)\n\nThey provide a combinations of:\n\nResume and cover letter workshops\nInterview preparation sessions\nNetworking events with industry professionals\nInternship and job placement assistance\n\nStudents are encouraged to take advantage of these Career Service opportunites early on, not just close to graduation. A lot of the skills learned through these take time to develope and improve. The skills are also very helpful with looking for research opportunities and internships, which happens early in the program, long before your graduation.",
+    "crumbs": [
+      "Home",
+      "Resources and Support",
+      "Unionization and Career Services"
     ]
   },
   {
@@ -252,11 +288,35 @@
     ]
   },
   {
+    "objectID": "policies.html#residency-requirements",
+    "href": "policies.html#residency-requirements",
+    "title": "Academic Policies",
+    "section": "2 Residency Requirements",
+    "text": "2 Residency Requirements\nStudents are expected to follow the Division’s residency requirements for graduate students.",
+    "crumbs": [
+      "Home",
+      "Policies and Conduct",
+      "Academic Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#divisional-policies",
+    "href": "policies.html#divisional-policies",
+    "title": "Academic Policies",
+    "section": "3 Divisional Policies",
+    "text": "3 Divisional Policies\nThe Physical Sciences Division’s student policies are applicable to all students in the Data Science MSDS program. Students with questions about PSD policies can reach out to their Student Affairs Administrator or the Dean of Students Office.",
+    "crumbs": [
+      "Home",
+      "Policies and Conduct",
+      "Academic Policies"
+    ]
+  },
+  {
     "objectID": "policies.html#time-to-complete-the-msds-program",
     "href": "policies.html#time-to-complete-the-msds-program",
     "title": "Academic Policies",
-    "section": "2 Time to Complete the MSDS Program",
-    "text": "2 Time to Complete the MSDS Program\nStudents can take from one to two (consecutive) years to complete all program requirements. When all course requirements have been fulfilled, students may elect to continue part-time to complete their research requirements. International students should consult with OIA regarding the up-do-date visa restrictions.",
+    "section": "4 Time to Complete the MSDS Program",
+    "text": "4 Time to Complete the MSDS Program\nStudents can take from one to two (consecutive) years to complete all program requirements. When all course requirements have been fulfilled, students may elect to continue part-time to complete their research requirements. International students should consult with OIA regarding the up-do-date visa restrictions.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -267,8 +327,8 @@
     "objectID": "policies.html#academic-honesty-code",
     "href": "policies.html#academic-honesty-code",
     "title": "Academic Policies",
-    "section": "3 Academic Honesty Code",
-    "text": "3 Academic Honesty Code\nAll students are expected to uphold the highest standards of academic honesty. Plagiarism, cheating, and other forms of academic dishonesty are strictly prohibited and may result in disciplinary action.\nRefer to the University’s Academic Integrity Policy for detailed guidance.",
+    "section": "5 Academic Honesty Code",
+    "text": "5 Academic Honesty Code\nAll students are expected to uphold the highest standards of academic honesty. Plagiarism, cheating, and other forms of academic dishonesty are strictly prohibited and may result in disciplinary action.\nRefer to the University’s Academic Integrity Policy for detailed guidance.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -279,8 +339,8 @@
     "objectID": "policies.html#gpa-academic-progression-and-probation",
     "href": "policies.html#gpa-academic-progression-and-probation",
     "title": "Academic Policies",
-    "section": "4 GPA, Academic Progression and Probation",
-    "text": "4 GPA, Academic Progression and Probation\nStudents should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student to be placed on Academic Probation:\n\nCumulative GPA, all courses, below 3.0\nCumulative GPA, MSDS core plus elective courses, below 3.3\nReceives one or more letter grades below ‘C-’ in a quarter\nReceives two or more Withdrawals ‘W’, Incompletes ‘I’, or blank grades in a single quarter\nViolate the academic honesty code\n\nStudents on probation cannot take more than 300 units of credits in the quarter. A second time the student is placed under probation will be dismissed from the program.",
+    "section": "6 GPA, Academic Progression and Probation",
+    "text": "6 GPA, Academic Progression and Probation\nStudents should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student to be placed on Academic Probation:\n\nCumulative GPA, all courses, below 3.0\nCumulative GPA, MSDS core plus elective courses, below 3.3\nReceives one or more letter grades below ‘C-’ in a quarter\nReceives two or more Withdrawals ‘W’, Incompletes ‘I’, or blank grades in a single quarter\nViolate the academic honesty code\n\nStudents on probation cannot take more than 300 units of credits in the quarter. A second time the student is placed under probation will be dismissed from the program.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -291,8 +351,8 @@
     "objectID": "policies.html#student-concerns-and-grievances",
     "href": "policies.html#student-concerns-and-grievances",
     "title": "Academic Policies",
-    "section": "5 Student Concerns and Grievances",
-    "text": "5 Student Concerns and Grievances\nShould there be any concerns or disputes regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to address should be:\n\nInstructor if it is pertaining to a course.\nChair of the program/department, if applicable.\nMSDS Director\nDSI Director\nPSD Dean of Students",
+    "section": "7 Student Concerns and Grievances",
+    "text": "7 Student Concerns and Grievances\nShould there be any concerns or disputes regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to address should be:\n\nInstructor if it is pertaining to a course.\nChair of the program/department, if applicable.\nMSDS Director\nDSI Director\nPSD Dean of Students",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -303,8 +363,8 @@
     "objectID": "policies.html#leave-of-absence-and-withdrawal-policies",
     "href": "policies.html#leave-of-absence-and-withdrawal-policies",
     "title": "Academic Policies",
-    "section": "6 Leave of Absence and Withdrawal Policies",
-    "text": "6 Leave of Absence and Withdrawal Policies\nStudents seeking a leave of absence or withdrawal must submit a formal request and consult with the program director. Leaves are granted for medical, personal, or professional reasons.",
+    "section": "8 Leave of Absence and Withdrawal Policies",
+    "text": "8 Leave of Absence and Withdrawal Policies\nStudents seeking a leave of absence or withdrawal must submit a formal request and consult with the program director. Leaves are granted for medical, personal, or professional reasons.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -315,8 +375,8 @@
     "objectID": "policies.html#disciplinary-procedures",
     "href": "policies.html#disciplinary-procedures",
     "title": "Academic Policies",
-    "section": "7 Disciplinary Procedures",
-    "text": "7 Disciplinary Procedures\nViolations of academic or behavioral policies are subject to the university’s disciplinary procedures. These may include warnings, probation, suspension, or dismissal depending on the severity of the infraction.",
+    "section": "9 Disciplinary Procedures",
+    "text": "9 Disciplinary Procedures\nViolations of academic or behavioral policies are subject to the university’s disciplinary procedures. These may include warnings, probation, suspension, or dismissal depending on the severity of the infraction.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -544,14 +604,14 @@
     "href": "index.html",
     "title": "Master of Science in Data Science (MSDS)",
     "section": "",
-    "text": "To change to a different year/version of your matriculation, please use the dropdown menu on the top navigation bar above. This is the 2025 Autumn matriculation version.\n\n\n\n\nYou can download the full MSDS student handbook as a PDF:\nDownload the 2025 MSDS Student Handbook\nThe University of Chicago also has a UChicago Student Handbook for students across all programs, degrees, and disciplines.\n\n\n\n\nThe Master’s in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.\nLearn More About DSI →"
+    "text": "To change to a different year/version of your matriculation, please use the dropdown menu on the top navigation bar above. This is the 2026 Autumn matriculation version.\n\n\n\n\nYou can download the full MSDS student manual/student handbook as a PDF:\nDownload the 2026 MSDS Student Handbook\nThe Student Manual is the official statement of University policies, regulations, and expected standards of student conduct that are applicable to all students. While students should be familiar with the manual as a whole, the following are commonly referenced by graduate students: Student Life & Conduct, Leaves of Absence, University Grievance Policy for Graduate Students, Policy on Harassment, Discrimination, and Sexual Misconduct, Policy on Title IX Sexual Harassment, Policy on Religious Accommodation for Missed Classes, Assignments, and Exams, Academic Honesty & Plagiarism, Graduate Student Parent Policy.\n\n\n\n\nThe Master’s in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.\nLearn More About DSI →"
   },
   {
     "objectID": "index.html#data-science-institute-dsi-university-of-chicago",
     "href": "index.html#data-science-institute-dsi-university-of-chicago",
     "title": "Master of Science in Data Science (MSDS)",
     "section": "",
-    "text": "To change to a different year/version of your matriculation, please use the dropdown menu on the top navigation bar above. This is the 2025 Autumn matriculation version.\n\n\n\n\nYou can download the full MSDS student handbook as a PDF:\nDownload the 2025 MSDS Student Handbook\nThe University of Chicago also has a UChicago Student Handbook for students across all programs, degrees, and disciplines.\n\n\n\n\nThe Master’s in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.\nLearn More About DSI →"
+    "text": "To change to a different year/version of your matriculation, please use the dropdown menu on the top navigation bar above. This is the 2026 Autumn matriculation version.\n\n\n\n\nYou can download the full MSDS student manual/student handbook as a PDF:\nDownload the 2026 MSDS Student Handbook\nThe Student Manual is the official statement of University policies, regulations, and expected standards of student conduct that are applicable to all students. While students should be familiar with the manual as a whole, the following are commonly referenced by graduate students: Student Life & Conduct, Leaves of Absence, University Grievance Policy for Graduate Students, Policy on Harassment, Discrimination, and Sexual Misconduct, Policy on Title IX Sexual Harassment, Policy on Religious Accommodation for Missed Classes, Assignments, and Exams, Academic Honesty & Plagiarism, Graduate Student Parent Policy.\n\n\n\n\nThe Master’s in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.\nLearn More About DSI →"
   },
   {
     "objectID": "glossary.html",
@@ -590,64 +650,83 @@
     ]
   },
   {
-    "objectID": "computing.html",
-    "href": "computing.html",
-    "title": "Computing and Facilities",
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "Contacts",
     "section": "",
-    "text": "The MSDS program provides students with access to robust computational infrastructure and learning environments to support coursework, research, and collaboration.",
+    "text": "The following individuals and offices provide support for MSDS students. Students are encouraged to reach out as needed for academic, administrative, and technical assistance.",
     "crumbs": [
       "Home",
-      "Resources and Support",
-      "Computing and Facilities"
+      "Appendix",
+      "Contacts"
     ]
   },
   {
-    "objectID": "computing.html#computational-resources",
-    "href": "computing.html#computational-resources",
-    "title": "Computing and Facilities",
-    "section": "1 Computational Resources",
-    "text": "1 Computational Resources\nThe University provides robust technical support:\n\nSoftware licenses from IT (Google G Suite, MS Office 365, Box, Zoom, and more)\nIT support services for troubleshooting and assistance",
+    "objectID": "contacts.html#msds-program-director",
+    "href": "contacts.html#msds-program-director",
+    "title": "Contacts",
+    "section": "1 MSDS Program Director",
+    "text": "1 MSDS Program Director\nEdwin Lo, Ph.D.\nEmail: edwinlo@uchicago.edu\nPhone: 773.887.2996\nOffice: Rm 211, 5460 S. University Ave, Chicago, IL\nAppointments: calendly.com/edwinlo-uchicago\n\nProvides academic advising and final approval for research projects, petitions, and policy exceptions.\nMeets with students upon request or referral.",
     "crumbs": [
       "Home",
-      "Resources and Support",
-      "Computing and Facilities"
+      "Appendix",
+      "Contacts"
     ]
   },
   {
-    "objectID": "computing.html#dsi-computing-clusters",
-    "href": "computing.html#dsi-computing-clusters",
-    "title": "Computing and Facilities",
-    "section": "2 DSI Computing Clusters",
-    "text": "2 DSI Computing Clusters\nStudents will have access to the DSI computing clusters upon matriculation.\nBennett Hunter is our Senior System Administrator at DSI in charge of the cluster.",
+    "objectID": "contacts.html#student-affairs-administrator",
+    "href": "contacts.html#student-affairs-administrator",
+    "title": "Contacts",
+    "section": "2 Student Affairs Administrator",
+    "text": "2 Student Affairs Administrator\nKen Kritikos, M.Ed.\nEmail: kkritikos34@uchicago.edu\nPhone: 773.834.2236\nOffice: Rm 221, 5460 S. University Ave, Chicago, IL\nAppointments: kkritikos34.youcanbook.me\n\nPrimary point of contact for course registration issues, forms, and day-to-day administrative logistics.\nCoordinates orientation, graduation, and program events.",
     "crumbs": [
       "Home",
-      "Resources and Support",
-      "Computing and Facilities"
+      "Appendix",
+      "Contacts"
     ]
   },
   {
-    "objectID": "computing.html#facilities-and-lab-spaces",
-    "href": "computing.html#facilities-and-lab-spaces",
-    "title": "Computing and Facilities",
-    "section": "3 Facilities and Lab Spaces",
-    "text": "3 Facilities and Lab Spaces\nStudents are welcome to use designated lab spaces equipped with workstations, whiteboards, and collaboration tools. Reservations may be required for certain facilities.",
+    "objectID": "contacts.html#psd-dean-of-students",
+    "href": "contacts.html#psd-dean-of-students",
+    "title": "Contacts",
+    "section": "3 PSD Dean of Students",
+    "text": "3 PSD Dean of Students\nBahareh Lampert, Ph.D.\nEmail: blampert1@uchicago.edu",
     "crumbs": [
       "Home",
-      "Resources and Support",
-      "Computing and Facilities"
+      "Appendix",
+      "Contacts"
     ]
   },
   {
-    "objectID": "computing.html#campus-map-and-building-locations",
-    "href": "computing.html#campus-map-and-building-locations",
-    "title": "Computing and Facilities",
-    "section": "4 Campus Map and Building Locations",
-    "text": "4 Campus Map and Building Locations\nDSI spaces are primarily located in the John Crerar Library building and Ryerson Lab second floor. Students can reference the University of Chicago Campus Map to locate classrooms, labs, and computing centers.",
+    "objectID": "contacts.html#student-contact-for-concerns",
+    "href": "contacts.html#student-contact-for-concerns",
+    "title": "Contacts",
+    "section": "4 Student Contact for Concerns",
+    "text": "4 Student Contact for Concerns\nStudents with questions may contact\n\nEdwin Lo, MSDS Director\nDan Nicolae, DSI Faculty co-Director\nBahareh Lampert, Dean of Students\nAmanda Young, Director, Graduate Student Affairs in UChicagoGRAD",
     "crumbs": [
       "Home",
-      "Resources and Support",
-      "Computing and Facilities"
+      "Appendix",
+      "Contacts"
     ]
+  },
+  {
+    "objectID": "contacts.html#others",
+    "href": "contacts.html#others",
+    "title": "Contacts",
+    "section": "5 Others",
+    "text": "5 Others\n\nCommunity Safety - UChicago Police Campus phone: 123, Off-campus phone: 773.702.8181\n\nUniversity general info 773.702.1234\n\nUniversity IT support 773.702.5800\nPhysical Science Division (PSD) general info 773.702.7950\n\nData Science Institute general info 773.702.7612\n\nOffice of the Bursar 773.702.8000",
+    "crumbs": [
+      "Home",
+      "Appendix",
+      "Contacts"
+    ]
+  },
+  {
+    "objectID": "private/notes.html",
+    "href": "private/notes.html",
+    "title": "1 rendering quarto",
+    "section": "",
+    "text": "1 rendering quarto\nfirst, use either the _quarto_html.yml or _quarto_book.yml as _quarto.yml\n\nMake sure that for _quarto_html.yml\n\nchange meta: version year\nchange include-in-header: text: ’\n\n’\nalso change js/version-menu.js to include new year options.\n\nindex.qmd\n\nChange subtitle YYYY\nChange date: to current\nchange h3 ### YYYY\ndownload href handbook_YYYY, and a tag name YYYY\n\n\nAnd for _quarto_book.yml\n\nChange subtitle YYYY\nChange date: to current\nChange output-file: name-YYYY.pdf\n\nindex.md\n\nChange subtitle YYYY\nChange date: to current\n\n\nbash quarto render quarto preview"
   },
   {
     "objectID": "introduction.html",
@@ -798,7 +877,7 @@
     "href": "graduation.html#commencement-ceremony",
     "title": "Graduation and Beyond",
     "section": "2 Commencement Ceremony",
-    "text": "2 Commencement Ceremony\nGraduating students are eligible to participate in the University of Chicago’s annual Spring or Winter Quarter commencement ceremonies. DSI may also host additional events for MSDS graduates.\nDetails about regalia, ticketing, and scheduling are provided by the Office of the University Registrar in the months leading up to graduation.",
+    "text": "2 Commencement Ceremony\nGraduating students are eligible to participate in the University of Chicago’s annual convocation ceremony at the end of Spring Quarter each year. DSI may also host additional events for MSDS graduates.\nDetails about regalia and scheduling are provided by the Physical Sciences Division Dean of Students Office in the months leading up to graduation.",
     "crumbs": [
       "Home",
       "Resources and Support",
