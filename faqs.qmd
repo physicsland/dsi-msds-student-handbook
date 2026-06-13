@@ -75,6 +75,6 @@ FAQs will be added throughout the year. These are not considered part of the off
 
 
 :::: {.callout .callout-question collapse=true}
-### Q: AAre there travel funds for MSDS students to go to conferences or events? 
+### Q: Are there travel funds for MSDS students to go to conferences or events? 
 **A:** No, DSI does not have dedicated travel funds for MSDS students. Students planning to attend to conferences should contact their research mentors for potential funding. Some conferences also have travel grants available for students. There are also outside funding opportunities such as the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the [AAAI Student Travel Grants](https://aaai.org/Conferences/AAAI-24/aaai24-student-travel-grants/).
 ::::

@@ -45,8 +45,8 @@ Refer to the [University’s Academic Integrity Policy](https://studentmanual.uc
 
 Students should maintain their (cumulative) GPA at or above 3.0, and make satisfactory academic progression. The following conditions may cause the student to be placed on Academic Probation:
 
-- Cumulative GPA, all courses, below 3.0
-- Cumulative GPA, MSDS core plus elective courses, below 3.3
+- Cumulative University GPA, all courses, below 3.0 
+- Cumulative GPA of at least 3.3 across MSDS core and elective courses (also requirement for graduation)
 - Receives one or more letter grades below 'C-' in a quarter
 - Receives two or more Withdrawals 'W', Incompletes 'I', or blank grades in a single quarter
 - Violate the academic honesty code 
