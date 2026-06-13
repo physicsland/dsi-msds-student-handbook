@@ -1,8 +1,8 @@
 ---
 title: "Master of Science in Data Science (MSDS)" 
-subtitle: "Student Manual 2026"
+subtitle: "MSDS Student Handbook 2026"
 author: "Data Science Institute (DSI), University of Chicago"
-date: "Last Updated: Jun 12, 2026"
+date: "Last Updated: Jun 13, 2026"
 format: pdf
   # pdf:
   #   number-sections: false

@@ -1,6 +1,6 @@
 ---
 title: "Master of Science in Data Science (MSDS)" 
-subtitle: "Student Manual 2026"
+subtitle: "MSDS Student Handbook 2026"
 author: "Data Science Institute (DSI), University of Chicago"
 date: "Last Updated: June 12, 2026"
 format:
@@ -16,10 +16,12 @@ To change to a different year/version of your matriculation, please use the drop
 
 ---
 
-### 📥 Download the Manual
+### 📥 Download the Handbook
 
-You can download the full MSDS student manual/student handbook as a PDF:  
+You can download this full MSDS student handbook as a PDF:  
 <a href="assets/pdfs/dsi_msds_handbook_2026.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer"><strong>Download the 2026 MSDS Student Handbook</strong></a> 
+
+### University of Chicago Student Manual
 
 The [Student Manual](https://studentmanual.uchicago.edu/) is the official statement of University policies, regulations, and expected standards of student conduct that are applicable to all students. While students should be familiar with the manual as a whole, the following are commonly referenced by graduate students: 
 [Student Life & Conduct](https://studentmanual.uchicago.edu/student-life-conduct/), [Leaves of Absence](https://studentmanual.uchicago.edu/academic-policies/voluntary-leaves-of-absence/), 

@@ -1,5 +1,5 @@
 ---
-title: "Advising"
+title: "Advising and Learning"
 format: html
 ---
 
@@ -8,6 +8,10 @@ The MSDS program is committed to providing comprehensive support to ensure stude
 ## Academic Advising
 
 The MSDS Director is available to assist with course selection, program requirements, and academic planning questions. Please schedule an appointment via the links and contact info listed on the "Administrative Contacts" section. 
+
+## Student Disability Services SDS
+
+The goal of the [Student Disability Services](https://disabilities.uchicago.edu/) (SDS) is to provide resources, support, and accommodations for any students with disabilities at the university. Once you've completed the application process and submitted up-to-date documentation, staff from SDS will engage with you in an interactive process to identify necessary services and accommodations to ensure equitable access to University programs and services. 
 
 ## Newsletter and Calendar
 

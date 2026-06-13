@@ -21,6 +21,12 @@ All students enrolled in the Master of Science in Data Science (MSDS) program at
 - Students are encouraged to seek approval from the MSDS Director prior to initiation. This is absolutely necessary for students directing their own research. For students working with a faculty mentor, a formal proposal can be submitted at a later stage (but in any case, no later than the deadline of applying for graduation). Keep the MSDS Director informed of your current research collaborations even before the formal proposal submission.
 - For formal project approvals, students should submit a brief research proposal (1-2 pages) outlining their project's objective, methodology, data sources, expected outcomes, timeline, and supervising faculty member info (if applicable).
 
+### Lightning Talks
+
+- All students are required to present their research progress in an in-person lightning talk format during week 8 of the quarter they are gaduating in. Regardless of the completion option elected below, this applies to all students, all projects. 
+- The lightning talk is an opportunity to receive feedback from peers and faculty, and to practice communicating complex ideas succinctly.
+
+
 ## Completion Options
 
 Students must fulfill at least one of the following requirements to successfully complete their research project:

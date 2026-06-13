@@ -47,4 +47,5 @@ To graduate, students must:
 
 - **Full-Time Status**: Students must enroll in at least **3 courses per quarter**.
 - **Part-Time Option**: In some uncommon situations, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.
-- **Minimum Enrollment**: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence is granted.
+- **Minimum Enrollment**: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence (LOA) is granted by the Dean of Students (DOS).
+- **Summer Quarter**: if you need to take summer course(s), for example with course-based CPT, student will need to **self term activate** for the summer. Follow the [self-term-activationinstructions](https://registrar.uchicago.edu/calendars/self-term-activation-instructions/) here. 

@@ -32,7 +32,17 @@ FAQs will be added throughout the year. These are not considered part of the off
 **A:** Tuition and fees are published by the [Office of the Bursar](https://bursar.uchicago.edu/tuition-and-fees).
 ::::
 
+:::: {.callout .callout-question collapse=true}
+### Q: Can I take courses outside of the MSDS core and electives?
+**A:** Yes. If you plan to take courses to count towards your degree, they must be approved by the MSDS Director. Also notice that some classes such as MSADS and MACS courses require special permission from the respective departments to enroll. 
+::::
+
 ## Academic and Research Requirements
+
+:::: {.callout .callout-question collapse=true}
+### Q: Are there any Linear Algebra and math refresher courses availabe? 
+**A:** Yes. You can consider using this [free course from Stanford University](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus). The University of Chicago Math Department also has a peer math tutoring services available to all students. You can find more information about the [math tutoring services here](https://mathematics.uchicago.edu/outreach/tutoring/).
+::::
 
 :::: {.callout .callout-question collapse=true}
 ### Q: Is there a GPA requirement in the program?
@@ -54,4 +64,17 @@ FAQs will be added throughout the year. These are not considered part of the off
 :::: {.callout .callout-question collapse=true}
 ### Q: Can I participate in Convocation (graduation ceremony) if I finish early?
 **A:** The University holds a Spring Convocation (usually in June), while the Physical Sciences Division (PSD) hosts an Autumn Graduation Reception (December) and a Spring MS Diploma Ceremony (June). If you are expected to complete your degree in Summer Quarter, you may still participate in the preceding Spring events.
+::::
+
+## Other Questions
+
+:::: {.callout .callout-question collapse=true}
+### Q: Do I have UChicago email access after graduation? 
+**A:** Alum of UChicago will switch to their alumni email service afterwards. Your email address typically won't change. It can also be set as a forwarder. 
+::::
+
+
+:::: {.callout .callout-question collapse=true}
+### Q: AAre there travel funds for MSDS students to go to conferences or events? 
+**A:** No, DSI does not have dedicated travel funds for MSDS students. Students planning to attend to conferences should contact their research mentors for potential funding. Some conferences also have travel grants available for students. There are also outside funding opportunities such as the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/) and the [AAAI Student Travel Grants](https://aaai.org/Conferences/AAAI-24/aaai24-student-travel-grants/).
 ::::
