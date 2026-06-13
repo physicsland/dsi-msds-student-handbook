@@ -23,7 +23,7 @@ All students enrolled in the Master of Science in Data Science (MSDS) program at
 
 ### Lightning Talks
 
-- All students are required to present their research progress in an in-person lightning talk format during week 8 of the quarter they are gaduating in. Regardless of the completion option elected below, this applies to all students, all projects. 
+- All students are required to present their research progress in an in-person lightning talk format during week 8 of the quarter they are graduating in. Regardless of the completion option elected below, this applies to all students, all projects. 
 - The lightning talk is an opportunity to receive feedback from peers and faculty, and to practice communicating complex ideas succinctly.
 
 
@@ -62,5 +62,5 @@ Projects will be evaluated based on:
 ## Responsibilities
 
 - **Students**: Manage project timelines, proactively engage with faculty mentors, and ensure adherence to guidelines.
-- **Faculty Supervisors**: Provide consistent oversight, mentorship, and evaluation of the project.
+- **Faculty Mentor**: Provide consistent oversight, mentorship, and evaluation of the project.
 - **MSDS Director**: Ensure program standards are maintained, provide final approval, and address any project-related issues.

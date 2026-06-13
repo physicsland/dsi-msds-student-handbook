@@ -10,7 +10,7 @@ format:
 ---
 
 ## Data Science Institute (DSI), University of Chicago
-### Master's in Data Science (MSDS) - 2026  
+### Master of Science in Data Science (MSDS) - 2026  
 
 To change to a different year/version of your matriculation, please use the dropdown menu on the top navigation bar above. This is the 2026 Autumn matriculation version.  
 
@@ -37,7 +37,7 @@ The [Student Manual](https://studentmanual.uchicago.edu/) is the official statem
 
 ### About the Program
 
-The Master's in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.
+The Master of Science in Data Science (MSDS) program at the University of Chicago provides rigorous training in theoretical foundations, computational techniques, and research methodologies to prepare students for impactful careers and further study.
 
 [Learn More About DSI](https://datascience.uchicago.edu) →
 

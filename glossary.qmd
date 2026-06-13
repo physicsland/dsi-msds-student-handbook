@@ -20,6 +20,6 @@ format: html
 - **GPA**: Grade-Point-Average
 - **OIA**: Office of International Affairs 
 - **OPT**: Optional Practical Training (F-1 Visa student)   
-- **PSD**: Physical Science Division
+- **PSD**: Physical Sciences Division
 
 

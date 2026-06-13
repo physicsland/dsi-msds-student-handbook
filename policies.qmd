@@ -10,7 +10,7 @@ The MSDS program follows the academic policies set by the [University’s standa
 Students are required to register for courses through the university’s my.UChicago portal each quarter. Changes to registration must be made during the official add/drop period. Some general notes regarding class registrations and add/drops: 
 
 - **Pass/Fail** Classes not earning letter grades do not fulfill the MSDS course requirements.    
-- **Withdrawal/Refund** Univerisity policy allows students to withdraw from a class at any time up until final exam date, or final project due date.  
+- **Withdrawal/Refund** University policy allows students to withdraw from a class at any time up until final exam date, or final project due date.  
   * Up to the end of the third week of class, a withdrawal will remove the registration information from the transcript. Tuition will be refunded 100%  
   * After the third week, a 'W' grade will remain on the transcript, tuition is not refunded, and there will be a late change registration fee.  
   * A withdrawal might affect the full-time status, which could be crucial for international students.  
@@ -31,7 +31,7 @@ The Physical Sciences Division’s [student policies](https://physicalsciences.u
 
 ## Time to Complete the MSDS Program
 
-Students can take from one to two (consecutive) years to complete all program requirements. When all course requirements have been fulfilled, students may elect to continue part-time to complete their research requirements. International students should consult with [OIA](https://internationalaffairs.uchicago.edu) regarding the up-do-date visa restrictions. 
+Students can take from one to two (consecutive) years to complete all program requirements. When all course requirements have been fulfilled, students may elect to continue part-time to complete their research requirements. International students should consult with [OIA](https://internationalaffairs.uchicago.edu) regarding the up-to-date visa restrictions. 
 
 
 ## Academic Honesty Code

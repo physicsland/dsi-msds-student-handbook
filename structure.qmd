@@ -13,7 +13,7 @@ The program is typically completed in one to two academic years (three quarters:
 
 Students must complete a total of **9 core and elective courses**, plus **3 foundational courses** as follows:
 
-- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify or be placed out of these courses.  If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn, or during the beginning of the Autumn quarter if the course is not offered in the summer.  
+- **Foundational Courses (3 courses)**: These cover essential concepts and practices in (1) programming, (2) mathematics, and (3) statistical knowledge that is central to data science and provide the groundwork for advanced coursework. Students can qualify for waivers or be exempted from these courses.  If needed to take these (online, free) courses, they should be completed in the summer before they begin with the MSDS program in the Autumn, or during the beginning of the Autumn quarter if the course is not offered in the summer.  
 - **Core Courses (5 courses)**: These delve into key data science techniques, methodologies, and tools.
   * DATA 30100 Introduction to Data Science
   * DATA 31500 Data Interaction
@@ -48,4 +48,4 @@ To graduate, students must:
 - **Full-Time Status**: Students must enroll in at least **3 courses per quarter**.
 - **Part-Time Option**: In some uncommon situations, after completing one full year of the MSDS program, students may petition to enroll part-time to complete their MSDS requirements in their second year.
 - **Minimum Enrollment**: At least one course per quarter is required to maintain active enrollment, unless a formal leave of absence (LOA) is granted by the Dean of Students (DOS).
-- **Summer Quarter**: if you need to take summer course(s), for example with course-based CPT, student will need to **self term activate** for the summer. Follow the [self-term-activationinstructions](https://registrar.uchicago.edu/calendars/self-term-activation-instructions/) here. 
+- **Summer Quarter**: if you need to take summer course(s), for example with course-based CPT, student will need to **self term activate** for the summer. Follow the [self-term activation instructions](https://registrar.uchicago.edu/calendars/self-term-activation-instructions/) here. 
