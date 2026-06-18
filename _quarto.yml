@@ -1,49 +1,69 @@
 project:
-  type: book
-  output-dir: pdfs
+  type: website
+  output-dir: docs
 
-book:
+website:
   title: "Master of Science in Data Science (MSDS)" 
-  subtitle: "MSDS Student Handbook 2026"
-  author: "Data Science Institute (DSI), University of Chicago"
-  date: "Last Updated: June 18, 2026"
-  chapters:
-    - index.md
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - text: "Versions"
+        id: version-menu
 
-    - part: "Program Overview"
-      page: true
-      chapters:
-        - introduction.qmd
-        - calendar.qmd
-        - structure.qmd
-        - courses.qmd
-        - research.qmd
+  sidebar:
+    style: floating
+    collapse-level: 2
+    search: true
+    contents:
+      - section: "Program Overview"
+        contents:
+          - introduction.qmd
+          - calendar.qmd
+          - structure.qmd
+          - courses.qmd
+          - research.qmd
+      - section: "Policies and Conduct"
+        contents:
+          - policies.qmd
+          - conduct.qmd
+          - scholarship.qmd
+      - section: "Resources and Support"
+        contents:
+          - career.qmd
+          - advising.qmd
+          - computing.qmd
+          - wellness.qmd
+          - international.qmd
+          - graduation.qmd
+      - section: "Appendix"
+        contents:
+          - contacts.qmd
+          - faqs.qmd
+          - glossary.qmd
 
-    - part: "Policies and Conduct"
-      page: true
-      chapters:
-        - policies.qmd
-        - conduct.qmd
-        - scholarship.qmd
+resources:
+  - assets/js/version-menu.js
 
-    - part: "Resources and Support"
-      page: true
-      chapters:
-        - career.qmd
-        - advising.qmd
-        - computing.qmd
-        - wellness.qmd
-        - international.qmd
-        - graduation.qmd
-
-    - part: "Appendix"
-      page: true
-      chapters:
-        - contacts.qmd
-        - glossary.qmd
+meta:
+  version: "2026"
 
 format:
-  pdf:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: 
+      - assets/css/styles.css
+      - assets/css/version-menu.css
+    # javascript:
+      # - assets/js/version-menu.js
     toc: true
+    link-external-newwindow: true
     number-sections: true
-    output-file: dsi_msds_handbook_2026.pdf
+    # include-in-header: assets/js/version-menu.js
+    include-before-body: assets/js/version-menu.js
+    # include-after-body: assets/js/version-menu.js
+    include-in-header: 
+      text: '<meta name="version" content="2026">'
