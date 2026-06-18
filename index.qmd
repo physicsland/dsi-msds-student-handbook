@@ -2,7 +2,7 @@
 title: "Master of Science in Data Science (MSDS)" 
 subtitle: "MSDS Student Handbook 2026"
 author: "Data Science Institute (DSI), University of Chicago"
-date: "Last Updated: June 12, 2026"
+date: "Last Updated: June 18, 2026"
 format:
   html:
     number-sections: false
