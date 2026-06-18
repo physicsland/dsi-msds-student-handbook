@@ -360,11 +360,11 @@
     ]
   },
   {
-    "objectID": "policies.html#student-concerns-and-grievances",
-    "href": "policies.html#student-concerns-and-grievances",
+    "objectID": "policies.html#student-concerns-grievances-and-appeals",
+    "href": "policies.html#student-concerns-grievances-and-appeals",
     "title": "Academic Policies",
-    "section": "7 Student Concerns and Grievances",
-    "text": "7 Student Concerns and Grievances\nShould there be any concerns or disputes regarding classes, assignments, gradings, and other matters relating to the education and research in the program, the chain of communications to address should be:\n\nInstructor if it is pertaining to a course.\nChair of the program/department, if applicable.\nMSDS Director\nDSI Director\nPSD Dean of Students",
+    "section": "7 Student Concerns, Grievances, and Appeals",
+    "text": "7 Student Concerns, Grievances, and Appeals\nStudents are encouraged to address concerns, grievances, or appeals at the lowest appropriate level whenever possible. Issues related to coursework, research, academic policies, or other aspects of the program should generally follow the escalation path below:\n\nInstructor for matters related to a course, including assignments, grading, and classroom concerns.\nDepartment Chair or Program Director of the relevant department or program, when appropriate.\nMSDS Director\nDSI Director\nPSD Dean of Students\n\nMost concerns can be resolved through direct communication. Students should proceed to the next level only if the issue remains unresolved or if circumstances warrant a higher level of review.",
     "crumbs": [
       "Home",
       "Policies and Conduct",
@@ -750,7 +750,7 @@
     "href": "private/notes.html",
     "title": "1 Update version-menu.js",
     "section": "",
-    "text": "1 Update version-menu.js\n\n\n2 Refresh previous versions election menu on each html file\nFor example, replace:\n\n\n2025 (Current)\n\n\n2024\n\n\nBY:\n\n\n2026 (Current)\n\n\n2025\n\n\n2024\n\n\n\n\n3 rendering quarto\nfirst, use either the _quarto_html.yml or _quarto_book.yml as _quarto.yml\n\nMake sure that for _quarto_html.yml\n\nchange meta: version year\nchange include-in-header: text: ’\n\n’\nalso change js/version-menu.js to include new year options.\n\nindex.qmd\n\nChange subtitle YYYY\nChange date: to current\nchange h3 ### YYYY\ndownload href handbook_YYYY, and a tag name YYYY\n\n\nAnd for _quarto_book.yml\n\nChange subtitle YYYY\nChange date: to current\nChange output-file: name-YYYY.pdf\n\nindex.md\n\nChange subtitle YYYY\nChange date: to current\n\n\nbash quarto render quarto preview"
+    "text": "1 Update version-menu.js\n\n\n2 Refresh previous versions election menu on each html file\nFor example, replace:\n\n\n2025 (Current)\n\n\n2024\n\n\nBY:\n\n\n2026 (Current)\n\n\n2025\n\n\n2024\n\n\n\n\n3 rendering quarto\nfirst, use either the _quarto_html.yml or _quarto_book.yml as _quarto.yml\n\nMake sure that for _quarto_book.yml\n\nChange subtitle YYYY\nChange date: to current\nChange output-file: name-YYYY.pdf\n\nindex.md\n\nChange subtitle YYYY\nChange date: to current _________________________________________\n\nAnd for _quarto_html.yml\n\nchange meta: version year\nchange include-in-header: text: ’\n\n’\nalso change js/version-menu.js to include new year options.\n\nindex.qmd\n\nChange subtitle YYYY\nChange date: to current\nchange h3 ### YYYY\ndownload href handbook_YYYY, and a tag name YYYY\n\nAfter rendering, remove docs/index.pdf (not needed.) _________________________________________\nbash quarto render quarto preview"
   },
   {
     "objectID": "introduction.html",
